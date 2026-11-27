@@ -1,0 +1,5 @@
+classe_taille,n_lesions,pct_lesions,volume_total_ml,pct_volume,volume_median_ml
+"< 0,1 mL",375,24.95,19.995,0.31,0.0514
+"0,1 à 1 mL",738,49.1,251.006,3.94,0.2669
+1 à 5 mL,226,15.04,505.315,7.94,1.9201
+> 5 mL,164,10.91,5588.998,87.8,16.431

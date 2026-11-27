@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="ednhemo - intracranial hemorrhage detection on CT">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d18"/>
+      <stop offset="0.55" stop-color="#0d2033"/>
+      <stop offset="1" stop-color="#123c4a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff4d5e" stop-opacity="0.85"/>
+      <stop offset="0.45" stop-color="#ff4d5e" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ff4d5e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- abstract CT slice -->
+  <g transform="translate(985 160)" opacity="0.9">
+    <circle r="112" fill="#0a1622" stroke="#2a4a5e" stroke-width="2"/>
+    <circle r="92" fill="#0f1e2b" stroke="#22394a" stroke-width="1.5"/>
+    <path d="M -70 -20 C -50 -70, 40 -78, 72 -30 C 92 0, 82 52, 40 70 C 0 88, -58 66, -70 24 Z"
+          fill="none" stroke="#3b5d72" stroke-width="2" opacity="0.9"/>
+    <path d="M -40 -35 C -20 -52, 22 -50, 38 -26" fill="none" stroke="#4a738c" stroke-width="1.5" opacity="0.8"/>
+    <path d="M -46 18 C -24 34, 16 38, 40 20" fill="none" stroke="#4a738c" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="18" cy="4" r="30" fill="url(#glow)"/>
+    <circle cx="18" cy="4" r="7" fill="#ff5d6c"/>
+    <circle cx="18" cy="4" r="3" fill="#ffe3e6"/>
+    <path d="M 78 -66 L 96 -84 M 84 -54 L 104 -64" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="80" y="152" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="76" font-weight="700" fill="#ffffff" letter-spacing="-1">ednhemo</text>
+  <rect x="82" y="178" width="96" height="5" rx="2.5" fill="url(#line)"/>
+  <text x="80" y="224" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="26" fill="#c7d7e2">Intracranial hemorrhage detection on CT</text>
+  <text x="80" y="262" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="20" fill="#7fa3b8">Built for the small ones &#183; U-Net 2D &#183; BHSD &#183; PyTorch</text>
+</svg>

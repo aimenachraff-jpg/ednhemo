@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or these model weights, please cite it as below."
+type: software
+title: "ednhemo: small-hemorrhage-aware intracranial hemorrhage detection on CT"
+version: 0.1.0
+date-released: 2026-11-27
+license: MIT
+repository-code: "https://github.com/aimenachraff-jpg/ednhemo"
+url: "https://pypi.org/project/ednhemo/"
+authors:
+  - family-names: Chekalil
+    given-names: Aimene Charef Eddine
+  - family-names: Ouadah
+    given-names: Mustapha
+keywords:
+  - intracranial hemorrhage
+  - CT
+  - segmentation
+  - U-Net
+  - deep learning
+  - BHSD
+abstract: >-
+  A 2D U-Net that segments intracranial hemorrhages on non-contrast head CT and
+  reports them lesion by lesion (volume, size class, confidence). The default
+  checkpoint was trained with four small-hemorrhage slices guaranteed in every
+  batch of eight, which recovers 19 more lesions than the reference model on
+  the official 96-scan BHSD test set.

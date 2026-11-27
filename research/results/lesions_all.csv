@@ -1,0 +1,1504 @@
+scanner,split,lesion,n_voxels,volume_ml,classe_taille,sous_type,sous_type_id,z_min,z_max,z_max_lesion,centroid_z,centroid_y,centroid_x
+ID_05331dc6_ID_47213b7e2e,train,1,122,0.156857,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,131.83,220.89
+ID_05331dc6_ID_47213b7e2e,train,2,72,0.092571,"< 0,1 mL",sous-arachnoïdien,4,18,19,18,18.08,137.0,335.1
+ID_05331dc6_ID_47213b7e2e,train,3,89,0.114428,"0,1 à 1 mL",sous-dural,5,9,9,9,9.0,147.09,364.18
+ID_05331dc6_ID_47213b7e2e,train,4,91,0.117,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,150.77,345.67
+ID_05331dc6_ID_47213b7e2e,train,5,6803,8.7467,> 5 mL,intraparenchymateux,2,12,18,15,14.2,204.52,410.03
+ID_05331dc6_ID_47213b7e2e,train,6,1085,1.394998,1 à 5 mL,sous-dural,5,9,9,9,9.0,186.14,348.71
+ID_05331dc6_ID_47213b7e2e,train,7,182,0.234,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,179.46,363.23
+ID_05331dc6_ID_47213b7e2e,train,8,443,0.569571,"0,1 à 1 mL",intraparenchymateux,2,10,11,11,10.56,194.79,395.66
+ID_05331dc6_ID_47213b7e2e,train,9,117232,150.726618,> 5 mL,sous-dural,5,9,24,23,17.36,320.21,302.88
+ID_089596a9_ID_ea71b57820,train,1,229,0.136495,"0,1 à 1 mL",intraventriculaire,3,20,21,21,20.65,211.96,172.87
+ID_089596a9_ID_ea71b57820,train,2,400,0.238419,"0,1 à 1 mL",intraparenchymateux,2,22,25,25,23.84,229.29,314.02
+ID_0c6b97a9_ID_6011bb9ce8,train,1,245,0.306257,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,143.12,226.64
+ID_0c6b97a9_ID_6011bb9ce8,train,2,5508,6.885151,> 5 mL,sous-arachnoïdien,4,8,20,10,12.98,171.28,253.25
+ID_0c6b97a9_ID_6011bb9ce8,train,3,91,0.113752,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.29,144.7,176.74
+ID_0c6b97a9_ID_6011bb9ce8,train,4,515,0.643764,"0,1 à 1 mL",sous-arachnoïdien,4,19,21,20,20.04,168.68,200.96
+ID_0c6b97a9_ID_6011bb9ce8,train,5,1154,1.442532,1 à 5 mL,sous-arachnoïdien,4,13,18,17,16.06,167.12,288.16
+ID_0c6b97a9_ID_6011bb9ce8,train,6,810,1.012522,1 à 5 mL,sous-arachnoïdien,4,19,23,20,20.61,175.55,151.62
+ID_0c6b97a9_ID_6011bb9ce8,train,7,37,0.046251,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,152.89,239.84
+ID_0c6b97a9_ID_6011bb9ce8,train,8,169,0.211255,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,170.8,276.64
+ID_0c6b97a9_ID_6011bb9ce8,train,9,58,0.072502,"< 0,1 mL",sous-arachnoïdien,4,8,8,8,8.0,163.43,304.83
+ID_0c6b97a9_ID_6011bb9ce8,train,10,987,1.233777,1 à 5 mL,intraventriculaire,3,14,16,15,14.56,202.75,136.38
+ID_0c6b97a9_ID_6011bb9ce8,train,11,97,0.121253,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,212.58,293.92
+ID_0c6b97a9_ID_6011bb9ce8,train,12,1405,1.756289,1 à 5 mL,sous-arachnoïdien,4,10,11,10,10.18,259.91,281.6
+ID_0c6b97a9_ID_6011bb9ce8,train,13,52,0.065001,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,230.4,190.35
+ID_0c6b97a9_ID_6011bb9ce8,train,14,8,0.01,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,225.88,230.75
+ID_0c6b97a9_ID_6011bb9ce8,train,15,86,0.107502,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,238.08,175.77
+ID_0c6b97a9_ID_6011bb9ce8,train,16,4277,5.346367,> 5 mL,sous-arachnoïdien,4,2,7,6,4.55,263.64,214.47
+ID_0c6b97a9_ID_6011bb9ce8,train,17,599,0.748766,"0,1 à 1 mL",intraventriculaire,3,12,14,13,12.62,264.51,232.74
+ID_0c6b97a9_ID_6011bb9ce8,train,18,248,0.310007,"0,1 à 1 mL",sous-arachnoïdien,4,2,2,2,2.0,294.67,185.26
+ID_0c6b97a9_ID_6011bb9ce8,train,19,363,0.45376,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,299.98,244.92
+ID_0c6b97a9_ID_6011bb9ce8,train,20,542,0.677515,"0,1 à 1 mL",intraventriculaire,3,14,16,15,15.03,314.99,132.6
+ID_10c64d22_ID_4c9aad31ca,train,1,87969,114.351611,> 5 mL,intraparenchymateux,2,7,24,14,14.88,294.26,181.6
+ID_10c64d22_ID_4c9aad31ca,train,2,385,0.500465,"0,1 à 1 mL",sous-dural,5,26,28,26,26.56,240.86,162.72
+ID_10c64d22_ID_4c9aad31ca,train,3,291,0.378273,"0,1 à 1 mL",sous-dural,5,26,28,28,27.19,251.59,251.16
+ID_10c64d22_ID_4c9aad31ca,train,4,35,0.045497,"< 0,1 mL",intraparenchymateux,2,17,17,17,17.0,271.23,111.14
+ID_10c64d22_ID_4c9aad31ca,train,5,217,0.28208,"0,1 à 1 mL",sous-arachnoïdien,4,15,16,16,15.75,310.86,304.72
+ID_10c64d22_ID_4c9aad31ca,train,6,73,0.094893,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,326.68,119.36
+ID_10c64d22_ID_4c9aad31ca,train,7,2273,2.954691,1 à 5 mL,sous-dural,5,15,22,16,18.46,356.56,308.97
+ID_10c64d22_ID_4c9aad31ca,train,8,96,0.124791,"0,1 à 1 mL",intraparenchymateux,2,9,9,9,9.0,337.57,288.68
+ID_10c64d22_ID_4c9aad31ca,train,9,144,0.187187,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.35,341.74,317.74
+ID_10c64d22_ID_4c9aad31ca,train,10,1072,1.393501,1 à 5 mL,intraparenchymateux,2,11,12,11,11.48,358.9,234.72
+ID_10c64d22_ID_4c9aad31ca,train,11,29,0.037697,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,353.24,163.79
+ID_10c64d22_ID_4c9aad31ca,train,12,69,0.089694,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,357.59,180.01
+ID_10c64d22_ID_4c9aad31ca,train,13,27,0.035098,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,360.56,192.85
+ID_10c64d22_ID_4c9aad31ca,train,14,31,0.040297,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,362.42,203.48
+ID_10c64d22_ID_4c9aad31ca,train,15,12,0.015599,"< 0,1 mL",intraparenchymateux,2,10,10,10,10.0,361.42,207.33
+ID_16ed917a_ID_145f184354,train,1,32386,39.966056,> 5 mL,intraparenchymateux,2,10,22,16,15.52,171.36,222.82
+ID_16ed917a_ID_145f184354,train,2,60,0.074043,"< 0,1 mL",intraparenchymateux,2,16,16,16,16.0,225.22,188.47
+ID_16ed917a_ID_145f184354,train,3,205,0.252981,"0,1 à 1 mL",intraventriculaire,3,14,16,16,15.37,307.03,128.92
+ID_181aab15_ID_062634d043,train,1,2100,2.513406,1 à 5 mL,sous-arachnoïdien,4,13,17,14,14.87,135.61,231.12
+ID_181aab15_ID_062634d043,train,2,221,0.264506,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,122.0,204.28
+ID_181aab15_ID_062634d043,train,3,43,0.051465,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,116.09,292.09
+ID_181aab15_ID_062634d043,train,4,161,0.192694,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,130.75,181.17
+ID_181aab15_ID_062634d043,train,5,273,0.326743,"0,1 à 1 mL",intraventriculaire,3,13,15,13,13.66,187.56,167.15
+ID_181aab15_ID_062634d043,train,6,31,0.037103,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,207.97,149.52
+ID_181aab15_ID_062634d043,train,7,16874,20.195817,> 5 mL,intraparenchymateux,2,6,19,8,10.43,258.85,188.75
+ID_181aab15_ID_062634d043,train,8,63,0.075402,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,232.95,125.29
+ID_181aab15_ID_062634d043,train,9,103,0.123277,"0,1 à 1 mL",sous-dural,5,22,22,22,22.0,242.31,221.08
+ID_181aab15_ID_062634d043,train,10,150,0.179529,"0,1 à 1 mL",intraventriculaire,3,13,14,13,13.49,303.33,181.11
+ID_181aab15_ID_062634d043,train,11,517,0.618777,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.44,318.58,243.34
+ID_181aab15_ID_062634d043,train,12,200,0.239372,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,363.5,222.75
+ID_196704db_ID_4eb6296376,train,1,62,0.052649,"< 0,1 mL",intraventriculaire,3,14,15,14,14.45,310.53,140.92
+ID_1cbe2853_ID_37afefdc7c,train,1,17071,21.587487,> 5 mL,intraparenchymateux,2,6,11,8,8.2,198.06,211.16
+ID_253e809f_ID_095d8c391f,train,1,1119,1.370361,1 à 5 mL,sous-arachnoïdien,4,14,17,15,15.39,108.24,249.33
+ID_253e809f_ID_095d8c391f,train,2,405,0.495975,"0,1 à 1 mL",sous-arachnoïdien,4,11,13,11,12.0,132.0,290.68
+ID_253e809f_ID_095d8c391f,train,3,9832,12.040562,> 5 mL,intraventriculaire,3,12,19,14,15.1,172.7,233.24
+ID_253e809f_ID_095d8c391f,train,4,114,0.139608,"0,1 à 1 mL",intraparenchymateux,2,22,22,22,22.0,187.34,327.32
+ID_253e809f_ID_095d8c391f,train,5,3967,4.858107,1 à 5 mL,sous-arachnoïdien,4,8,13,11,10.55,239.19,293.44
+ID_253e809f_ID_095d8c391f,train,6,6666,8.163384,> 5 mL,intraventriculaire,3,13,20,15,15.77,276.71,230.97
+ID_253e809f_ID_095d8c391f,train,7,129,0.157977,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,288.32,344.09
+ID_253e809f_ID_095d8c391f,train,8,203,0.2486,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,292.78,274.67
+ID_253e809f_ID_095d8c391f,train,9,644,0.788662,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.76,319.15,270.6
+ID_2872834a_ID_542e9d00da,train,1,11116,11.394667,> 5 mL,épidural,1,3,6,4,4.3,157.5,312.13
+ID_2949cdc6_ID_dcb864c93f,train,1,1065,1.314363,1 à 5 mL,épidural,1,8,11,9,9.67,127.02,293.02
+ID_2a42d0a0_ID_5fdc3fb915,train,1,69586,87.473266,> 5 mL,sous-dural,5,7,26,22,17.72,152.7,294.74
+ID_2db7ee14_ID_2591d00dfc,train,1,1862,1.73458,1 à 5 mL,épidural,1,13,18,14,14.88,326.52,318.09
+ID_2db7ee14_ID_f27e38fdfd,train,1,1980,1.894922,1 à 5 mL,épidural,1,8,12,9,9.48,344.04,331.69
+ID_338738e7_ID_0808281b2a,train,1,283,0.349263,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.14,121.47,190.96
+ID_338738e7_ID_0808281b2a,train,2,225,0.277682,"0,1 à 1 mL",sous-arachnoïdien,4,17,18,18,17.63,115.55,205.04
+ID_338738e7_ID_0808281b2a,train,3,1257,1.551319,1 à 5 mL,intraparenchymateux,2,6,10,7,7.97,125.06,238.71
+ID_338738e7_ID_0808281b2a,train,4,1303,1.60809,1 à 5 mL,sous-arachnoïdien,4,18,23,18,19.82,130.88,170.94
+ID_338738e7_ID_0808281b2a,train,5,947,1.168734,1 à 5 mL,sous-arachnoïdien,4,15,16,16,15.7,131.66,230.05
+ID_338738e7_ID_0808281b2a,train,6,170,0.209804,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,117.52,238.84
+ID_338738e7_ID_0808281b2a,train,7,3053,3.767842,1 à 5 mL,sous-arachnoïdien,4,19,24,20,20.89,148.46,193.62
+ID_338738e7_ID_0808281b2a,train,8,1760,2.172093,1 à 5 mL,sous-arachnoïdien,4,11,14,14,12.87,132.71,268.66
+ID_338738e7_ID_0808281b2a,train,9,150,0.185122,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,135.23,148.24
+ID_338738e7_ID_0808281b2a,train,10,708,0.873774,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.59,139.34,244.44
+ID_338738e7_ID_0808281b2a,train,11,166,0.204868,"0,1 à 1 mL",intraparenchymateux,2,10,10,10,10.0,136.92,330.25
+ID_338738e7_ID_0808281b2a,train,12,393,0.485019,"0,1 à 1 mL",intraparenchymateux,2,8,10,9,8.95,155.2,333.47
+ID_346de481_ID_2e8fea0d9a,train,1,22116,29.089583,> 5 mL,sous-dural,5,7,24,19,16.12,163.49,320.23
+ID_346de481_ID_2e8fea0d9a,train,2,280,0.368289,"0,1 à 1 mL",sous-dural,5,25,25,25,25.0,161.07,192.45
+ID_346de481_ID_2e8fea0d9a,train,3,408,0.53665,"0,1 à 1 mL",sous-dural,5,22,22,22,22.0,221.25,355.52
+ID_346de481_ID_2e8fea0d9a,train,4,268,0.352505,"0,1 à 1 mL",sous-dural,5,23,23,23,23.0,230.12,345.58
+ID_346de481_ID_2e8fea0d9a,train,5,200,0.263064,"0,1 à 1 mL",intraparenchymateux,2,11,11,11,11.0,242.67,381.45
+ID_346de481_ID_2e8fea0d9a,train,6,2461,3.236999,1 à 5 mL,intraparenchymateux,2,11,14,13,12.81,282.9,406.87
+ID_346de481_ID_2e8fea0d9a,train,7,26280,34.566569,> 5 mL,épidural,1,4,20,13,13.17,328.79,138.93
+ID_346de481_ID_2e8fea0d9a,train,8,148,0.194667,"0,1 à 1 mL",épidural,1,3,3,3,3.0,288.85,192.91
+ID_3e481fc5_ID_750530c215,train,1,2370,3.047138,1 à 5 mL,épidural,1,17,21,18,18.97,353.76,275.52
+ID_41a55df8_ID_ca0abe844a,train,1,991,0.991231,"0,1 à 1 mL",sous-dural,5,5,6,5,5.3,234.17,129.09
+ID_41a55df8_ID_ca0abe844a,train,2,820,0.820191,"0,1 à 1 mL",intraparenchymateux,2,8,11,10,9.15,252.13,198.83
+ID_41a55df8_ID_ca0abe844a,train,3,599,0.599139,"0,1 à 1 mL",intraventriculaire,3,8,10,9,8.97,272.33,164.47
+ID_41a55df8_ID_ca0abe844a,train,4,191,0.191044,"0,1 à 1 mL",sous-dural,5,6,6,6,6.0,276.08,121.94
+ID_41a55df8_ID_ca0abe844a,train,5,213,0.21305,"0,1 à 1 mL",sous-dural,5,7,7,7,7.0,277.06,109.97
+ID_47aa2b3a_ID_95a9953aba,train,1,71,0.110338,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,131.59,205.11
+ID_47aa2b3a_ID_95a9953aba,train,2,22,0.034189,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,136.0,186.82
+ID_47aa2b3a_ID_95a9953aba,train,3,22,0.034189,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,143.73,188.14
+ID_4e25e744_ID_b0275c19cd,train,1,26215,32.098878,> 5 mL,intraparenchymateux,2,16,23,20,19.47,175.98,285.5
+ID_4e25e744_ID_b0275c19cd,train,2,433,0.530186,"0,1 à 1 mL",intraventriculaire,3,17,19,17,17.67,177.54,182.21
+ID_4e25e744_ID_b0275c19cd,train,3,205,0.251012,"0,1 à 1 mL",intraventriculaire,3,22,22,22,22.0,217.77,257.95
+ID_4e25e744_ID_b0275c19cd,train,4,169,0.206932,"0,1 à 1 mL",intraventriculaire,3,18,18,18,18.0,271.46,157.23
+ID_4ec93c83_ID_b76a4106f8,train,1,2560,3.133165,1 à 5 mL,intraventriculaire,3,20,27,21,22.52,215.78,124.89
+ID_4ec93c83_ID_b76a4106f8,train,2,39776,48.681556,> 5 mL,intraventriculaire,3,20,34,30,28.81,287.78,183.69
+ID_4ec93c83_ID_b76a4106f8,train,3,3337,4.08413,1 à 5 mL,intraventriculaire,3,16,21,18,18.72,281.22,173.61
+ID_50b54af0_ID_fbeeed4370,train,1,579,0.708634,"0,1 à 1 mL",intraventriculaire,3,12,17,12,13.53,172.1,126.72
+ID_50b54af0_ID_fbeeed4370,train,2,849,1.039085,1 à 5 mL,sous-arachnoïdien,4,3,6,5,4.53,227.65,227.0
+ID_50b54af0_ID_fbeeed4370,train,3,1960,2.39883,1 à 5 mL,sous-arachnoïdien,4,8,13,12,10.73,233.43,235.52
+ID_50b54af0_ID_fbeeed4370,train,4,261,0.319436,"0,1 à 1 mL",sous-arachnoïdien,4,10,12,12,11.44,244.91,179.97
+ID_50b54af0_ID_fbeeed4370,train,5,873,1.068458,1 à 5 mL,intraventriculaire,3,11,15,12,11.89,279.24,112.14
+ID_552aabb9_ID_152fdcf86e,train,1,4329,3.534101,1 à 5 mL,intraparenchymateux,2,3,5,3,3.92,163.46,349.95
+ID_552aabb9_ID_152fdcf86e,train,2,1767,1.44254,1 à 5 mL,intraparenchymateux,2,7,8,7,7.24,213.37,426.3
+ID_552aabb9_ID_152fdcf86e,train,3,183,0.149397,"0,1 à 1 mL",intraparenchymateux,2,20,20,20,20.0,220.34,390.76
+ID_552aabb9_ID_152fdcf86e,train,4,304,0.248179,"0,1 à 1 mL",intraparenchymateux,2,7,7,7,7.0,266.62,430.44
+ID_552aabb9_ID_152fdcf86e,train,5,850,0.693921,"0,1 à 1 mL",sous-dural,5,6,7,7,6.73,296.23,441.14
+ID_552aabb9_ID_152fdcf86e,train,6,16709,13.640861,> 5 mL,intraparenchymateux,2,3,9,5,5.68,342.94,316.76
+ID_552aabb9_ID_152fdcf86e,train,7,665,0.542891,"0,1 à 1 mL",intraparenchymateux,2,10,11,11,10.54,327.68,430.6
+ID_552aabb9_ID_152fdcf86e,train,8,811,0.662083,"0,1 à 1 mL",intraparenchymateux,2,7,8,8,7.56,366.25,255.55
+ID_56983eda_ID_a1eb0918d6,train,1,167,0.204733,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.59,129.0,191.34
+ID_56983eda_ID_a1eb0918d6,train,2,243,0.297905,"0,1 à 1 mL",sous-arachnoïdien,4,17,18,17,17.44,129.74,211.14
+ID_56983eda_ID_a1eb0918d6,train,3,845,1.035925,1 à 5 mL,sous-arachnoïdien,4,16,17,16,16.19,149.83,228.94
+ID_56983eda_ID_a1eb0918d6,train,4,407,0.49896,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.39,145.01,239.28
+ID_56983eda_ID_a1eb0918d6,train,5,13278,16.278123,> 5 mL,sous-arachnoïdien,4,10,21,17,15.51,178.75,288.22
+ID_56983eda_ID_a1eb0918d6,train,6,89,0.109109,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,154.19,266.83
+ID_56983eda_ID_a1eb0918d6,train,7,333,0.40824,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,206.93,335.66
+ID_56983eda_ID_a1eb0918d6,train,8,715,0.876552,"0,1 à 1 mL",intraventriculaire,3,12,16,16,14.35,199.35,200.92
+ID_56983eda_ID_a1eb0918d6,train,9,38,0.046586,"< 0,1 mL",intraparenchymateux,2,10,10,10,10.0,197.92,321.05
+ID_56983eda_ID_a1eb0918d6,train,10,4681,5.738657,> 5 mL,sous-arachnoïdien,4,8,14,12,11.78,270.69,297.0
+ID_56983eda_ID_a1eb0918d6,train,11,149,0.182666,"0,1 à 1 mL",sous-arachnoïdien,4,7,7,7,7.0,255.83,286.41
+ID_56983eda_ID_a1eb0918d6,train,12,106,0.12995,"0,1 à 1 mL",intraventriculaire,3,15,16,15,15.42,286.25,180.97
+ID_56983eda_ID_a1eb0918d6,train,13,82,0.100528,"0,1 à 1 mL",intraventriculaire,3,12,12,12,12.0,291.11,169.91
+ID_596dfbc1_ID_fe7dab2602,train,1,31507,38.578652,> 5 mL,épidural,1,15,24,21,20.67,321.86,243.15
+ID_5e405f44_ID_7a773f615f,train,1,90,0.11015,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,205.83,144.42
+ID_5e405f44_ID_7a773f615f,train,2,118,0.144419,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,218.62,138.77
+ID_5e405f44_ID_7a773f615f,train,3,1344,1.644912,1 à 5 mL,intraventriculaire,3,15,20,17,16.95,240.94,118.6
+ID_5e405f44_ID_7a773f615f,train,4,122,0.149315,"0,1 à 1 mL",intraparenchymateux,2,7,7,7,7.0,244.21,132.93
+ID_5e405f44_ID_7a773f615f,train,5,3573,4.372969,1 à 5 mL,intraparenchymateux,2,6,13,10,9.92,279.56,154.73
+ID_5e405f44_ID_7a773f615f,train,6,3074,3.762246,1 à 5 mL,intraventriculaire,3,17,21,18,18.86,297.78,199.55
+ID_5e405f44_ID_7a773f615f,train,7,1010,1.236132,1 à 5 mL,intraventriculaire,3,14,17,16,15.48,345.56,92.89
+ID_5f53ab26_ID_f1c7d54a53,train,1,32,0.041001,"< 0,1 mL",sous-dural,5,15,15,15,15.0,1.5,382.5
+ID_5f53ab26_ID_f1c7d54a53,train,2,2471,3.166011,1 à 5 mL,sous-dural,5,9,16,10,11.96,152.32,333.08
+ID_5f53ab26_ID_f1c7d54a53,train,3,748,0.958388,"0,1 à 1 mL",intraparenchymateux,2,11,11,11,11.0,163.44,176.89
+ID_5f53ab26_ID_f1c7d54a53,train,4,153,0.196034,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,12,11.53,161.62,214.65
+ID_5f53ab26_ID_f1c7d54a53,train,5,24,0.03075,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,158.5,298.04
+ID_5f53ab26_ID_f1c7d54a53,train,6,628,0.804636,"0,1 à 1 mL",sous-dural,5,17,18,17,17.49,169.36,323.33
+ID_5f53ab26_ID_f1c7d54a53,train,7,1080,1.383768,1 à 5 mL,sous-dural,5,19,20,19,19.48,173.36,285.15
+ID_5f53ab26_ID_f1c7d54a53,train,8,938,1.201828,1 à 5 mL,sous-arachnoïdien,4,15,21,17,17.99,185.49,247.82
+ID_5f53ab26_ID_f1c7d54a53,train,9,4545,5.823359,> 5 mL,sous-arachnoïdien,4,7,19,15,13.22,190.78,241.78
+ID_5f53ab26_ID_f1c7d54a53,train,10,532,0.681634,"0,1 à 1 mL",sous-arachnoïdien,4,17,19,18,18.0,180.11,221.45
+ID_5f53ab26_ID_f1c7d54a53,train,11,209,0.267785,"0,1 à 1 mL",sous-arachnoïdien,4,13,13,13,13.0,177.87,351.21
+ID_5f53ab26_ID_f1c7d54a53,train,12,174,0.22294,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,12,12.44,179.58,374.47
+ID_5f53ab26_ID_f1c7d54a53,train,13,183,0.234472,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.19,187.44,197.72
+ID_5f53ab26_ID_f1c7d54a53,train,14,24,0.03075,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,173.83,178.58
+ID_5f53ab26_ID_f1c7d54a53,train,15,244,0.312629,"0,1 à 1 mL",sous-arachnoïdien,4,10,10,10,10.0,191.02,154.01
+ID_5f53ab26_ID_f1c7d54a53,train,16,284,0.36388,"0,1 à 1 mL",sous-dural,5,22,22,22,22.0,196.14,275.68
+ID_5f53ab26_ID_f1c7d54a53,train,17,228,0.292129,"0,1 à 1 mL",sous-dural,5,21,21,21,21.0,192.95,289.6
+ID_5f53ab26_ID_f1c7d54a53,train,18,198,0.253691,"0,1 à 1 mL",sous-arachnoïdien,4,9,9,9,9.0,196.33,327.22
+ID_5f53ab26_ID_f1c7d54a53,train,19,194,0.248566,"0,1 à 1 mL",sous-arachnoïdien,4,9,9,9,9.0,201.39,341.98
+ID_5f53ab26_ID_f1c7d54a53,train,20,570,0.730322,"0,1 à 1 mL",sous-dural,5,8,10,8,8.49,200.07,406.95
+ID_5f53ab26_ID_f1c7d54a53,train,21,267,0.342098,"0,1 à 1 mL",sous-arachnoïdien,4,21,23,22,21.79,204.1,222.45
+ID_5f53ab26_ID_f1c7d54a53,train,22,63,0.08072,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,203.05,207.06
+ID_5f53ab26_ID_f1c7d54a53,train,23,368,0.471506,"0,1 à 1 mL",sous-arachnoïdien,4,21,23,21,21.59,230.34,194.96
+ID_5f53ab26_ID_f1c7d54a53,train,24,759,0.972482,"0,1 à 1 mL",sous-dural,5,11,16,13,13.27,223.0,390.99
+ID_5f53ab26_ID_f1c7d54a53,train,25,37,0.047407,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,253.97,187.76
+ID_5f53ab26_ID_f1c7d54a53,train,26,27,0.034594,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,261.15,177.96
+ID_5f53ab26_ID_f1c7d54a53,train,27,69,0.088407,"< 0,1 mL",sous-arachnoïdien,4,9,9,9,9.0,262.59,270.04
+ID_5f53ab26_ID_f1c7d54a53,train,28,143,0.183221,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,292.11,414.64
+ID_69b19057_ID_44d0da38f2,train,1,103793,133.445704,> 5 mL,sous-dural,5,5,25,15,14.62,132.95,297.82
+ID_69b19057_ID_44d0da38f2,train,2,109,0.14014,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.67,156.06,224.57
+ID_69b19057_ID_44d0da38f2,train,3,21,0.027,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,157.67,246.67
+ID_69b19057_ID_44d0da38f2,train,4,5597,7.196011,> 5 mL,sous-dural,5,10,15,12,12.35,192.51,137.01
+ID_69b19057_ID_44d0da38f2,train,5,55783,71.719689,> 5 mL,sous-dural,5,5,26,16,15.71,313.08,316.94
+ID_69b19057_ID_44d0da38f2,train,6,1451,1.865537,1 à 5 mL,sous-dural,5,8,9,9,8.6,276.74,160.36
+ID_69b19057_ID_44d0da38f2,train,7,11,0.014143,"< 0,1 mL",sous-dural,5,9,9,9,9.0,245.45,131.27
+ID_69b19057_ID_44d0da38f2,train,8,976,1.254834,1 à 5 mL,intraventriculaire,3,13,17,14,14.83,275.65,164.35
+ID_69b19057_ID_44d0da38f2,train,9,1347,1.731825,1 à 5 mL,sous-dural,5,7,7,7,7.0,317.4,194.47
+ID_69b19057_ID_44d0da38f2,train,10,8,0.010286,"< 0,1 mL",sous-dural,5,8,8,8,8.0,295.5,200.0
+ID_69b19057_ID_44d0da38f2,train,11,489,0.628703,"0,1 à 1 mL",sous-arachnoïdien,4,14,16,14,14.45,329.92,202.19
+ID_69b19057_ID_44d0da38f2,train,12,30,0.038571,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,309.7,227.33
+ID_69b19057_ID_44d0da38f2,train,13,53,0.068142,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,326.47,221.0
+ID_69b19057_ID_44d0da38f2,train,14,55,0.070713,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,333.44,222.51
+ID_69b19057_ID_44d0da38f2,train,15,173,0.222425,"0,1 à 1 mL",sous-arachnoïdien,4,13,13,13,13.0,346.71,176.87
+ID_69b19057_ID_44d0da38f2,train,16,18,0.023142,"< 0,1 mL",sous-dural,5,11,11,11,11.0,369.78,218.17
+ID_69e721e0_ID_a6f36605d7,train,1,3909,4.82417,1 à 5 mL,épidural,1,6,15,8,9.59,144.26,270.94
+ID_6a6976ae_ID_97ae10a424,train,1,2305,2.814486,1 à 5 mL,épidural,1,24,25,24,24.48,290.95,248.45
+ID_6a6976ae_ID_97ae10a424,train,2,106,0.12943,"0,1 à 1 mL",épidural,1,22,22,22,22.0,304.19,294.83
+ID_6a6976ae_ID_97ae10a424,train,3,201,0.245428,"0,1 à 1 mL",épidural,1,21,21,21,21.0,318.63,294.99
+ID_6caf8d60_ID_3634a47122,train,1,88,0.052452,"< 0,1 mL",intraparenchymateux,2,22,22,22,22.0,286.12,233.11
+ID_6fcd55db_ID_9ed6724906,train,1,388,0.462532,"0,1 à 1 mL",intraventriculaire,3,15,16,15,15.46,234.07,152.58
+ID_6fcd55db_ID_9ed6724906,train,2,11053,13.17619,> 5 mL,intraventriculaire,3,12,18,17,15.79,303.14,250.72
+ID_6fcd55db_ID_9ed6724906,train,3,341,0.406503,"0,1 à 1 mL",intraventriculaire,3,13,15,13,13.65,298.59,118.81
+ID_73cae446_ID_852cb06998,train,1,142,0.176082,"0,1 à 1 mL",intraparenchymateux,2,20,20,20,20.0,190.3,241.84
+ID_73cae446_ID_852cb06998,train,2,1025,1.271014,1 à 5 mL,intraventriculaire,3,16,19,17,17.62,221.86,176.59
+ID_73cae446_ID_852cb06998,train,3,10462,12.973025,> 5 mL,intraparenchymateux,2,15,22,20,18.57,236.81,235.52
+ID_73cae446_ID_852cb06998,train,4,130,0.161202,"0,1 à 1 mL",intraventriculaire,3,17,19,18,18.18,327.88,173.14
+ID_751df220_ID_4c26128a8d,train,1,5802,10.349578,> 5 mL,sous-dural,5,8,12,9,9.19,198.11,171.93
+ID_751df220_ID_4c26128a8d,train,2,766,1.366387,1 à 5 mL,sous-arachnoïdien,4,9,10,9,9.31,239.19,309.64
+ID_751df220_ID_4c26128a8d,train,3,6021,10.740229,> 5 mL,sous-arachnoïdien,4,0,13,11,7.48,267.04,282.13
+ID_751df220_ID_4c26128a8d,train,4,7,0.012487,"< 0,1 mL",sous-dural,5,12,12,12,12.0,223.57,118.29
+ID_751df220_ID_4c26128a8d,train,5,10,0.017838,"< 0,1 mL",sous-dural,5,12,12,12,12.0,233.4,140.8
+ID_751df220_ID_4c26128a8d,train,6,20,0.035676,"< 0,1 mL",sous-arachnoïdien,4,3,3,3,3.0,236.2,264.45
+ID_751df220_ID_4c26128a8d,train,7,85,0.151623,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,250.75,300.73
+ID_751df220_ID_4c26128a8d,train,8,101,0.180163,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,279.31,235.63
+ID_7e8279ce_ID_75522ba124,train,1,6410,4.135476,1 à 5 mL,intraparenchymateux,2,22,25,23,23.23,297.41,303.84
+ID_7e8279ce_ID_75522ba124,train,2,193,0.124516,"0,1 à 1 mL",intraventriculaire,3,23,25,24,23.84,330.14,160.22
+ID_87385103_ID_684afaed55,train,1,517,0.632753,"0,1 à 1 mL",intraventriculaire,3,24,28,28,26.33,221.39,231.67
+ID_87385103_ID_684afaed55,train,2,78487,96.059665,> 5 mL,intraventriculaire,3,20,31,26,25.59,314.66,319.88
+ID_88dbe13f_ID_01c5078fbf,train,1,771,0.919103,"0,1 à 1 mL",sous-arachnoïdien,4,18,21,20,19.56,150.09,229.33
+ID_88dbe13f_ID_01c5078fbf,train,2,2636,3.142354,1 à 5 mL,sous-arachnoïdien,4,19,23,20,20.86,166.19,247.16
+ID_88dbe13f_ID_01c5078fbf,train,3,246,0.293255,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,142.05,203.25
+ID_88dbe13f_ID_01c5078fbf,train,4,256,0.305175,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,151.38,225.67
+ID_88dbe13f_ID_01c5078fbf,train,5,716,0.853538,"0,1 à 1 mL",sous-arachnoïdien,4,15,16,15,15.35,148.52,233.04
+ID_88dbe13f_ID_01c5078fbf,train,6,480,0.572204,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,162.09,182.43
+ID_88dbe13f_ID_01c5078fbf,train,7,788,0.939368,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,26,26.08,180.41,234.31
+ID_88dbe13f_ID_01c5078fbf,train,8,1947,2.321003,1 à 5 mL,sous-arachnoïdien,4,19,24,21,21.46,191.51,316.75
+ID_88dbe13f_ID_01c5078fbf,train,9,1885,2.247093,1 à 5 mL,sous-arachnoïdien,4,12,15,14,13.72,169.46,249.0
+ID_88dbe13f_ID_01c5078fbf,train,10,666,0.793933,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,172.38,274.73
+ID_88dbe13f_ID_01c5078fbf,train,11,211,0.251531,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,173.57,264.68
+ID_88dbe13f_ID_01c5078fbf,train,12,103,0.122785,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,180.46,331.16
+ID_88dbe13f_ID_01c5078fbf,train,13,1224,1.45912,1 à 5 mL,sous-arachnoïdien,4,17,20,17,17.96,197.01,294.29
+ID_88dbe13f_ID_01c5078fbf,train,14,209,0.249147,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,215.8,215.17
+ID_88dbe13f_ID_01c5078fbf,train,15,586,0.698566,"0,1 à 1 mL",sous-arachnoïdien,4,26,27,27,26.54,251.08,247.65
+ID_8d326f80_ID_87b6843dde,train,1,10167,9.300587,> 5 mL,intraparenchymateux,2,2,8,6,5.61,297.62,179.92
+ID_8d326f80_ID_87b6843dde,train,2,373,0.341214,"0,1 à 1 mL",intraventriculaire,3,13,14,14,13.6,320.91,128.42
+ID_8d914da6_ID_b4eb9c8234,train,1,158,0.101571,"0,1 à 1 mL",sous-arachnoïdien,4,30,30,30,30.0,272.89,304.73
+ID_8d914da6_ID_b4eb9c8234,train,2,71,0.045643,"< 0,1 mL",sous-arachnoïdien,4,31,31,31,31.0,284.28,294.24
+ID_8d914da6_ID_b4eb9c8234,train,3,123,0.079071,"< 0,1 mL",sous-arachnoïdien,4,29,29,29,29.0,291.3,318.41
+ID_90233c1a_ID_51c49c9abf,train,1,14424,24.785528,> 5 mL,intraparenchymateux,2,9,16,13,12.65,195.6,197.2
+ID_90233c1a_ID_51c49c9abf,train,2,404,0.694215,"0,1 à 1 mL",intraparenchymateux,2,18,19,18,18.23,160.73,165.32
+ID_94271e7f_ID_50fb725eb8,train,1,5460,7.019989,> 5 mL,intraparenchymateux,2,12,17,14,14.88,320.89,294.19
+ID_94271e7f_ID_50fb725eb8,train,2,1551,1.99414,1 à 5 mL,sous-dural,5,15,15,15,15.0,358.91,335.47
+ID_94271e7f_ID_50fb725eb8,train,3,1091,1.402712,1 à 5 mL,sous-dural,5,10,10,10,10.0,353.25,346.4
+ID_94271e7f_ID_50fb725eb8,train,4,1615,2.076425,1 à 5 mL,sous-dural,5,12,13,13,12.69,364.74,331.97
+ID_94271e7f_ID_50fb725eb8,train,5,462,0.593999,"0,1 à 1 mL",sous-dural,5,19,19,19,19.0,363.65,306.42
+ID_95c4a59c_ID_47aa7ea02b,train,1,1829,2.351568,1 à 5 mL,sous-dural,5,9,16,13,12.68,111.83,161.3
+ID_95c4a59c_ID_47aa7ea02b,train,2,65,0.083571,"< 0,1 mL",sous-arachnoïdien,4,5,5,5,5.0,188.25,261.69
+ID_95c4a59c_ID_47aa7ea02b,train,3,82,0.105428,"0,1 à 1 mL",sous-arachnoïdien,4,1,1,1,1.0,194.68,265.82
+ID_95c4a59c_ID_47aa7ea02b,train,4,43,0.055286,"< 0,1 mL",sous-arachnoïdien,4,2,2,2,2.0,193.81,271.35
+ID_95c4a59c_ID_47aa7ea02b,train,5,28896,37.151941,> 5 mL,sous-arachnoïdien,4,2,19,11,10.88,280.46,258.8
+ID_95c4a59c_ID_47aa7ea02b,train,6,20,0.025714,"< 0,1 mL",sous-arachnoïdien,4,0,0,0,0.0,235.4,292.55
+ID_95c4a59c_ID_47aa7ea02b,train,7,10,0.012857,"< 0,1 mL",sous-arachnoïdien,4,0,0,0,0.0,239.4,281.0
+ID_95c4a59c_ID_47aa7ea02b,train,8,114,0.146571,"0,1 à 1 mL",sous-arachnoïdien,4,6,6,6,6.0,254.27,171.33
+ID_95c4a59c_ID_47aa7ea02b,train,9,32,0.041143,"< 0,1 mL",sous-arachnoïdien,4,9,9,9,9.0,285.0,125.25
+ID_95c4a59c_ID_47aa7ea02b,train,10,100,0.128571,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,301.3,321.25
+ID_95c4a59c_ID_47aa7ea02b,train,11,1326,1.704854,1 à 5 mL,sous-arachnoïdien,4,10,12,11,10.99,318.46,171.78
+ID_95c4a59c_ID_47aa7ea02b,train,12,13,0.016714,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,297.31,168.15
+ID_95c4a59c_ID_47aa7ea02b,train,13,29,0.037286,"< 0,1 mL",sous-arachnoïdien,4,5,5,5,5.0,299.45,175.62
+ID_95c4a59c_ID_47aa7ea02b,train,14,118,0.151714,"0,1 à 1 mL",sous-arachnoïdien,4,10,11,11,10.64,324.91,311.94
+ID_95c4a59c_ID_47aa7ea02b,train,15,175,0.225,"0,1 à 1 mL",sous-arachnoïdien,4,9,9,9,9.0,332.88,285.39
+ID_95c4a59c_ID_47aa7ea02b,train,16,25,0.032143,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,329.8,294.36
+ID_95c4a59c_ID_47aa7ea02b,train,17,15,0.019286,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,331.07,301.8
+ID_95c4a59c_ID_47aa7ea02b,train,18,19,0.024429,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,338.11,301.63
+ID_9631ec18_ID_c205d02b10,train,1,7176,8.92229,> 5 mL,intraparenchymateux,2,18,25,21,21.19,330.45,201.8
+ID_96967deb_ID_5d782e9379,train,1,92,0.109673,"0,1 à 1 mL",intraparenchymateux,2,16,16,16,16.0,285.99,64.45
+ID_977da27d_ID_7ca7e2a2e4,train,1,10551,12.913292,> 5 mL,sous-arachnoïdien,4,13,19,16,15.82,218.97,217.77
+ID_977da27d_ID_7ca7e2a2e4,train,2,103,0.126061,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,168.65,289.65
+ID_977da27d_ID_7ca7e2a2e4,train,3,243,0.297406,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,18,18.36,174.92,220.53
+ID_977da27d_ID_7ca7e2a2e4,train,4,1100,1.346282,1 à 5 mL,sous-arachnoïdien,4,21,25,24,23.28,187.44,209.57
+ID_977da27d_ID_7ca7e2a2e4,train,5,67,0.082001,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,174.54,271.57
+ID_977da27d_ID_7ca7e2a2e4,train,6,671,0.821232,"0,1 à 1 mL",sous-arachnoïdien,4,21,23,23,22.05,186.57,181.07
+ID_977da27d_ID_7ca7e2a2e4,train,7,44,0.053851,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,170.77,313.34
+ID_977da27d_ID_7ca7e2a2e4,train,8,286,0.350033,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,192.56,338.58
+ID_977da27d_ID_7ca7e2a2e4,train,9,1566,1.916616,1 à 5 mL,sous-arachnoïdien,4,13,17,15,15.12,206.74,159.0
+ID_977da27d_ID_7ca7e2a2e4,train,10,82,0.100359,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,196.12,300.06
+ID_977da27d_ID_7ca7e2a2e4,train,11,522,0.638872,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.63,211.7,158.78
+ID_977da27d_ID_7ca7e2a2e4,train,12,203,0.24845,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,24,23.65,236.5,306.86
+ID_977da27d_ID_7ca7e2a2e4,train,13,860,1.052548,1 à 5 mL,sous-arachnoïdien,4,21,22,22,21.5,244.17,323.31
+ID_977da27d_ID_7ca7e2a2e4,train,14,2659,3.254331,1 à 5 mL,intraventriculaire,3,17,20,18,18.06,278.65,115.67
+ID_977da27d_ID_7ca7e2a2e4,train,15,996,1.218997,1 à 5 mL,intraparenchymateux,2,18,18,18,18.0,308.16,290.57
+ID_977da27d_ID_7ca7e2a2e4,train,16,622,0.761261,"0,1 à 1 mL",sous-arachnoïdien,4,13,14,14,13.83,328.18,223.44
+ID_977da27d_ID_7ca7e2a2e4,train,17,6806,8.329814,> 5 mL,sous-arachnoïdien,4,17,23,17,19.57,367.3,270.63
+ID_977da27d_ID_7ca7e2a2e4,train,18,1390,1.701211,1 à 5 mL,sous-arachnoïdien,4,15,17,17,16.13,345.38,111.53
+ID_977da27d_ID_7ca7e2a2e4,train,19,358,0.438154,"0,1 à 1 mL",intraparenchymateux,2,19,20,19,19.49,324.78,248.95
+ID_977da27d_ID_7ca7e2a2e4,train,20,113,0.1383,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,331.29,316.7
+ID_977da27d_ID_7ca7e2a2e4,train,21,277,0.339018,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.68,373.42,282.16
+ID_977da27d_ID_7ca7e2a2e4,train,22,2204,2.697459,1 à 5 mL,intraventriculaire,3,18,20,19,19.03,379.84,120.89
+ID_977da27d_ID_7ca7e2a2e4,train,23,148,0.181136,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,389.62,175.97
+ID_977da27d_ID_7ca7e2a2e4,train,24,236,0.288839,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,24,24.49,407.31,194.28
+ID_977da27d_ID_7ca7e2a2e4,train,25,2114,2.587309,1 à 5 mL,sous-arachnoïdien,4,18,22,21,19.87,411.34,227.5
+ID_98450f26_ID_8d66ffdc94,train,1,133,0.160525,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,215.14,175.77
+ID_98450f26_ID_8d66ffdc94,train,2,303,0.365706,"0,1 à 1 mL",sous-arachnoïdien,4,23,26,24,24.63,228.37,200.98
+ID_98450f26_ID_8d66ffdc94,train,3,32,0.038622,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,238.53,219.94
+ID_98450f26_ID_8d66ffdc94,train,4,10,0.01207,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,250.3,216.9
+ID_98450f26_ID_8d66ffdc94,train,5,106,0.127937,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.44,258.87,223.58
+ID_98450f26_ID_8d66ffdc94,train,6,61,0.073624,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,255.46,232.34
+ID_98450f26_ID_8d66ffdc94,train,7,46,0.05552,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,263.85,238.39
+ID_98450f26_ID_8d66ffdc94,train,8,9,0.010863,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,260.33,221.89
+ID_98fcfe52_ID_a8bbf4336d,train,1,312,0.382027,"0,1 à 1 mL",intraventriculaire,3,11,14,12,12.13,185.1,168.66
+ID_98fcfe52_ID_a8bbf4336d,train,2,357,0.437128,"0,1 à 1 mL",intraventriculaire,3,12,15,13,13.07,287.79,163.69
+ID_9ba3be10_ID_1c4e9f3c40,train,1,227,0.136989,"0,1 à 1 mL",intraparenchymateux,2,10,11,11,10.7,183.89,319.31
+ID_9ba3be10_ID_1c4e9f3c40,train,2,55,0.033191,"< 0,1 mL",intraparenchymateux,2,12,12,12,12.0,190.56,328.93
+ID_9ba3be10_ID_1c4e9f3c40,train,3,48,0.028967,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,355.33,332.25
+ID_9cc1c1a0_ID_8fb44d82d0,train,1,11778,14.84919,> 5 mL,sous-arachnoïdien,4,15,21,19,18.2,279.5,194.4
+ID_a1703be5_ID_d0e02f0443,train,1,7784,9.5038,> 5 mL,intraparenchymateux,2,7,11,10,8.94,230.45,184.58
+ID_a2ddcdfe_ID_d7aedfd21f,train,1,17730,21.135807,> 5 mL,sous-arachnoïdien,4,15,26,22,21.03,151.72,191.91
+ID_a2ddcdfe_ID_d7aedfd21f,train,2,1076,1.282692,1 à 5 mL,sous-arachnoïdien,4,11,14,13,12.62,143.34,176.27
+ID_a2ddcdfe_ID_d7aedfd21f,train,3,800,0.953674,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.5,146.97,253.56
+ID_a2ddcdfe_ID_d7aedfd21f,train,4,398,0.474453,"0,1 à 1 mL",sous-arachnoïdien,4,20,22,20,20.81,142.94,251.0
+ID_a2ddcdfe_ID_d7aedfd21f,train,5,246,0.293255,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.31,155.21,275.26
+ID_a2ddcdfe_ID_d7aedfd21f,train,6,518,0.617504,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.48,157.76,294.35
+ID_a2ddcdfe_ID_d7aedfd21f,train,7,403,0.480413,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.46,160.85,268.84
+ID_a2ddcdfe_ID_d7aedfd21f,train,8,10448,12.454987,> 5 mL,intraventriculaire,3,14,23,17,17.84,197.78,172.41
+ID_a2ddcdfe_ID_d7aedfd21f,train,9,181,0.215769,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,191.72,160.6
+ID_a2ddcdfe_ID_d7aedfd21f,train,10,4166,4.966259,1 à 5 mL,sous-arachnoïdien,4,9,15,10,11.52,221.53,124.48
+ID_a2ddcdfe_ID_d7aedfd21f,train,11,262,0.312328,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.44,206.83,144.89
+ID_a2ddcdfe_ID_d7aedfd21f,train,12,1303,1.553297,1 à 5 mL,sous-arachnoïdien,4,17,19,17,17.61,211.94,119.25
+ID_a2ddcdfe_ID_d7aedfd21f,train,13,37,0.044107,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,207.65,97.73
+ID_a2ddcdfe_ID_d7aedfd21f,train,14,70857,84.468126,> 5 mL,intraventriculaire,3,9,24,18,16.78,294.92,165.51
+ID_a554892c_ID_7d5bccea0e,train,1,532,0.658165,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,18,18.28,139.18,191.37
+ID_a554892c_ID_7d5bccea0e,train,2,133,0.164541,"0,1 à 1 mL",intraparenchymateux,2,19,19,19,19.0,142.91,234.29
+ID_a554892c_ID_7d5bccea0e,train,3,487,0.602493,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.24,148.21,243.2
+ID_a554892c_ID_7d5bccea0e,train,4,93,0.115055,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,165.77,144.16
+ID_a554892c_ID_7d5bccea0e,train,5,239,0.295679,"0,1 à 1 mL",intraparenchymateux,2,21,22,22,21.55,165.28,138.42
+ID_a554892c_ID_7d5bccea0e,train,6,300,0.371146,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,192.45,103.21
+ID_a554892c_ID_7d5bccea0e,train,7,1799,2.225637,1 à 5 mL,intraventriculaire,3,16,18,16,16.81,242.5,230.79
+ID_a554892c_ID_7d5bccea0e,train,8,24,0.029692,"< 0,1 mL",intraventriculaire,3,8,8,8,8.0,221.67,179.21
+ID_a554892c_ID_7d5bccea0e,train,9,87,0.107632,"0,1 à 1 mL",intraventriculaire,3,8,8,8,8.0,257.85,172.9
+ID_a554892c_ID_7d5bccea0e,train,10,74,0.091549,"< 0,1 mL",intraventriculaire,3,7,7,7,7.0,260.85,191.24
+ID_a554892c_ID_7d5bccea0e,train,11,2167,2.68091,1 à 5 mL,intraventriculaire,3,14,17,15,15.56,279.48,117.3
+ID_a84354a5_ID_6699da85bb,train,1,120,0.155407,"0,1 à 1 mL",intraparenchymateux,2,5,5,5,5.0,173.82,307.77
+ID_a84354a5_ID_6699da85bb,train,2,286,0.370388,"0,1 à 1 mL",sous-dural,5,18,19,18,18.28,192.69,89.99
+ID_a84354a5_ID_6699da85bb,train,3,1193,1.545009,1 à 5 mL,intraparenchymateux,2,5,7,6,6.05,205.02,316.78
+ID_a84354a5_ID_6699da85bb,train,4,914,1.183687,1 à 5 mL,sous-arachnoïdien,4,12,13,13,12.52,213.97,148.32
+ID_a84354a5_ID_6699da85bb,train,5,8848,11.458711,> 5 mL,sous-dural,5,12,23,12,17.48,248.91,145.16
+ID_a9b3fedc_ID_3850bef0a3,train,1,131160,106.161227,> 5 mL,intraparenchymateux,2,7,24,15,15.09,150.65,264.51
+ID_a9b3fedc_ID_3850bef0a3,train,2,155,0.125457,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,156.29,181.74
+ID_a9b3fedc_ID_3850bef0a3,train,3,100,0.08094,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,168.16,177.82
+ID_a9b3fedc_ID_3850bef0a3,train,4,877,0.709846,"0,1 à 1 mL",sous-arachnoïdien,4,17,19,17,17.8,182.93,367.38
+ID_a9b3fedc_ID_3850bef0a3,train,5,82,0.066371,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,176.78,120.85
+ID_a9b3fedc_ID_3850bef0a3,train,6,212,0.171593,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,189.06,121.25
+ID_a9b3fedc_ID_3850bef0a3,train,7,209,0.169165,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,199.08,109.51
+ID_a9b3fedc_ID_3850bef0a3,train,8,9469,7.664232,> 5 mL,intraventriculaire,3,13,19,17,16.19,316.73,180.86
+ID_a9fe41fd_ID_ba000cea10,train,1,684,0.420177,"0,1 à 1 mL",épidural,1,20,22,21,21.0,312.06,107.33
+ID_aaf2973d_ID_4002bc3ced,train,1,5468,8.378549,> 5 mL,intraventriculaire,3,11,17,13,13.04,201.21,228.84
+ID_aaf2973d_ID_4002bc3ced,train,2,11161,17.101862,> 5 mL,intraventriculaire,3,9,14,13,11.67,253.95,263.0
+ID_aaf2973d_ID_4002bc3ced,train,3,595,0.911711,"0,1 à 1 mL",intraventriculaire,3,5,6,6,5.55,233.54,222.08
+ID_ad252872_ID_74f728bfad,train,1,120,0.152229,"0,1 à 1 mL",sous-arachnoïdien,4,23,25,24,24.23,314.73,210.65
+ID_af8ac3ec_ID_81a154bf08,train,1,44723,55.904976,> 5 mL,sous-dural,5,15,27,22,22.37,339.14,226.26
+ID_af8ac3ec_ID_81a154bf08,train,2,106,0.132503,"0,1 à 1 mL",sous-dural,5,14,14,14,14.0,380.94,251.61
+ID_b3a33085_ID_175a5c4119,train,1,48,0.063938,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,130.23,159.19
+ID_b3a33085_ID_175a5c4119,train,2,84,0.111891,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,143.13,115.27
+ID_b3a33085_ID_175a5c4119,train,3,1205,1.605107,1 à 5 mL,sous-arachnoïdien,4,20,24,21,21.62,160.16,107.64
+ID_b3a33085_ID_175a5c4119,train,4,5589,7.444764,> 5 mL,intraparenchymateux,2,18,25,24,22.04,164.34,150.28
+ID_b3a33085_ID_175a5c4119,train,5,81,0.107895,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,152.83,103.46
+ID_b3a33085_ID_175a5c4119,train,6,245,0.326349,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,201.26,109.39
+ID_ba3a77dd_ID_70715be365,train,1,34665,41.3239,> 5 mL,intraparenchymateux,2,13,22,17,17.1,211.65,370.58
+ID_ba3a77dd_ID_70715be365,train,2,778,0.927448,"0,1 à 1 mL",intraparenchymateux,2,17,18,17,17.38,209.43,310.63
+ID_ba3a77dd_ID_70715be365,train,3,37,0.044107,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,296.3,161.92
+ID_c08a7b51_ID_b98f437f69,train,1,11576,13.799667,> 5 mL,intraparenchymateux,2,11,19,14,14.18,161.82,210.36
+ID_c08a7b51_ID_b98f437f69,train,2,461,0.549555,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.66,166.68,218.07
+ID_c08a7b51_ID_b98f437f69,train,3,501,0.597239,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,21,20.59,168.0,199.26
+ID_c08a7b51_ID_b98f437f69,train,4,219,0.261068,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,177.83,174.24
+ID_c08a7b51_ID_b98f437f69,train,5,316,0.376701,"0,1 à 1 mL",intraparenchymateux,2,12,12,12,12.0,180.66,227.92
+ID_c08a7b51_ID_b98f437f69,train,6,80,0.095367,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,180.61,145.2
+ID_c08a7b51_ID_b98f437f69,train,7,88,0.104904,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,182.27,159.58
+ID_c08a7b51_ID_b98f437f69,train,8,578,0.68903,"0,1 à 1 mL",intraparenchymateux,2,12,14,13,13.09,197.84,132.61
+ID_c08a7b51_ID_b98f437f69,train,9,69,0.082254,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,198.17,162.04
+ID_c08a7b51_ID_b98f437f69,train,10,541,0.644922,"0,1 à 1 mL",sous-arachnoïdien,4,22,24,24,23.24,207.15,170.59
+ID_c08a7b51_ID_b98f437f69,train,11,95,0.113249,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,232.89,158.17
+ID_c08a7b51_ID_b98f437f69,train,12,213,0.253916,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,243.18,215.86
+ID_c08a7b51_ID_b98f437f69,train,13,373,0.444651,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,26,25.88,238.32,185.71
+ID_c1e1c4ef_ID_521bc36497,train,1,1336,0.847282,"0,1 à 1 mL",sous-arachnoïdien,4,22,26,23,23.46,175.14,290.34
+ID_c1e1c4ef_ID_521bc36497,train,2,260,0.16489,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,170.53,197.46
+ID_c1e1c4ef_ID_521bc36497,train,3,252,0.159817,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,24,24.49,169.41,242.43
+ID_c1e1c4ef_ID_521bc36497,train,4,7707,4.887724,1 à 5 mL,intraventriculaire,3,24,30,26,26.7,211.63,164.97
+ID_c1e1c4ef_ID_521bc36497,train,5,64,0.040588,"< 0,1 mL",sous-arachnoïdien,4,27,27,27,27.0,184.98,256.39
+ID_c1e1c4ef_ID_521bc36497,train,6,10237,6.492231,> 5 mL,sous-arachnoïdien,4,0,20,15,11.93,237.88,236.24
+ID_c1e1c4ef_ID_521bc36497,train,7,448,0.284118,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.88,200.65,291.57
+ID_c1e1c4ef_ID_521bc36497,train,8,54,0.034246,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,195.46,100.81
+ID_c1e1c4ef_ID_521bc36497,train,9,46,0.029173,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,200.7,241.83
+ID_c1e1c4ef_ID_521bc36497,train,10,214,0.135717,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,22,21.52,219.19,217.92
+ID_c1e1c4ef_ID_521bc36497,train,11,102,0.064688,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,216.85,233.94
+ID_c1e1c4ef_ID_521bc36497,train,12,741,0.469937,"0,1 à 1 mL",sous-arachnoïdien,4,27,28,28,27.9,227.25,127.37
+ID_c1e1c4ef_ID_521bc36497,train,13,305,0.193429,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.73,234.94,351.48
+ID_c1e1c4ef_ID_521bc36497,train,14,1410,0.894212,"0,1 à 1 mL",sous-dural,5,20,23,21,21.23,267.8,171.62
+ID_c1e1c4ef_ID_521bc36497,train,15,22,0.013952,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,243.5,196.73
+ID_c1e1c4ef_ID_521bc36497,train,16,144,0.091324,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,255.51,304.56
+ID_c1e1c4ef_ID_521bc36497,train,17,769,0.487694,"0,1 à 1 mL",intraventriculaire,3,21,23,23,22.15,256.5,222.76
+ID_c1e1c4ef_ID_521bc36497,train,18,71,0.045028,"< 0,1 mL",sous-arachnoïdien,4,18,19,18,18.42,268.17,260.06
+ID_c1e1c4ef_ID_521bc36497,train,19,1269,0.804791,"0,1 à 1 mL",sous-dural,5,18,19,18,18.33,292.14,200.42
+ID_c1e1c4ef_ID_521bc36497,train,20,4514,2.862746,1 à 5 mL,intraventriculaire,3,20,28,24,24.24,308.31,159.91
+ID_c1e1c4ef_ID_521bc36497,train,21,23,0.014586,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,340.04,227.13
+ID_ca7bbeab_ID_228e9cbe5c,train,1,795,1.005334,1 à 5 mL,sous-arachnoïdien,4,23,24,23,23.3,182.87,226.81
+ID_ca7bbeab_ID_228e9cbe5c,train,2,285,0.360403,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,189.71,183.08
+ID_ca7bbeab_ID_228e9cbe5c,train,3,17030,21.535645,> 5 mL,intraventriculaire,3,13,21,16,16.11,223.09,124.33
+ID_ca7bbeab_ID_228e9cbe5c,train,4,1305,1.650265,1 à 5 mL,intraventriculaire,3,11,14,13,12.63,242.6,253.4
+ID_ca7bbeab_ID_228e9cbe5c,train,5,160734,203.259566,> 5 mL,intraparenchymateux,2,7,26,17,18.09,341.75,163.72
+ID_cb4c887c_ID_ec2a4643f3,train,1,9141,10.917592,> 5 mL,sous-dural,5,9,15,11,11.99,145.9,231.52
+ID_cb4c887c_ID_ec2a4643f3,train,2,459,0.548209,"0,1 à 1 mL",sous-dural,5,17,17,17,17.0,148.58,261.39
+ID_cb4c887c_ID_ec2a4643f3,train,3,18,0.021498,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,185.33,183.0
+ID_cb4c887c_ID_ec2a4643f3,train,4,378,0.451466,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,22,21.87,207.66,170.4
+ID_cb4c887c_ID_ec2a4643f3,train,5,272,0.324864,"0,1 à 1 mL",sous-arachnoïdien,4,21,23,22,22.19,233.2,149.57
+ID_cb4c887c_ID_ec2a4643f3,train,6,13,0.015527,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,223.77,164.54
+ID_cb4c887c_ID_ec2a4643f3,train,7,148,0.176764,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,21,21.38,247.54,122.57
+ID_cb4c887c_ID_ec2a4643f3,train,8,108,0.12899,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,256.31,146.31
+ID_ccbe16e6_ID_706deb5ba2,train,1,51364,62.71238,> 5 mL,sous-dural,5,12,25,24,19.72,364.72,287.58
+ID_d039497d_ID_da6cc2290f,train,1,969,0.609041,"0,1 à 1 mL",sous-dural,5,12,18,16,14.87,374.66,328.27
+ID_d3d99dce_ID_cd10b6aba1,train,1,1555,1.99236,1 à 5 mL,intraparenchymateux,2,6,10,8,8.06,233.26,154.08
+ID_d3d99dce_ID_cd10b6aba1,train,2,1926,2.467707,1 à 5 mL,sous-dural,5,7,13,9,9.79,263.14,123.99
+ID_d3d99dce_ID_cd10b6aba1,train,3,102,0.130689,"0,1 à 1 mL",intraparenchymateux,2,12,12,12,12.0,254.99,140.31
+ID_d3d99dce_ID_cd10b6aba1,train,4,44,0.056375,"< 0,1 mL",intraparenchymateux,2,9,9,9,9.0,256.68,139.8
+ID_d3d99dce_ID_cd10b6aba1,train,5,791,1.013477,1 à 5 mL,sous-arachnoïdien,4,10,12,12,11.26,275.9,182.27
+ID_daf22e49_ID_bf76e84f8d,train,1,132,0.160301,"0,1 à 1 mL",intraventriculaire,3,15,16,15,15.29,192.48,179.86
+ID_daf22e49_ID_bf76e84f8d,train,2,47467,57.644108,> 5 mL,intraparenchymateux,2,12,22,16,16.41,321.99,195.7
+ID_e05b3047_ID_3d78428b2d,train,1,39291,49.24597,> 5 mL,intraparenchymateux,2,13,24,18,18.95,270.37,236.71
+ID_e05b3047_ID_3d78428b2d,train,2,52,0.065175,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,259.35,304.6
+ID_e05b3047_ID_3d78428b2d,train,3,111,0.139124,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,263.88,149.09
+ID_e1d9fe9d_ID_f73aea5186,train,1,20619,26.417968,> 5 mL,intraparenchymateux,2,17,25,24,21.51,174.21,153.41
+ID_e1d9fe9d_ID_f73aea5186,train,2,2284,2.926361,1 à 5 mL,intraventriculaire,3,15,18,15,16.43,194.12,161.61
+ID_e1d9fe9d_ID_f73aea5186,train,3,2499,3.201829,1 à 5 mL,intraventriculaire,3,14,17,16,15.76,218.6,284.1
+ID_e1d9fe9d_ID_f73aea5186,train,4,919,1.177463,1 à 5 mL,intraparenchymateux,2,23,25,25,24.06,218.81,93.26
+ID_e1d9fe9d_ID_f73aea5186,train,5,2733,3.50164,1 à 5 mL,intraventriculaire,3,14,19,17,16.17,299.36,156.08
+ID_e2e2e522_ID_7b7b5543dc,train,1,84848,109.090193,> 5 mL,intraparenchymateux,2,6,24,16,14.9,221.38,307.22
+ID_e2e2e522_ID_7b7b5543dc,train,2,71,0.091286,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,135.93,178.34
+ID_e2e2e522_ID_7b7b5543dc,train,3,500,0.642857,"0,1 à 1 mL",sous-arachnoïdien,4,19,21,20,20.03,138.94,212.3
+ID_e2e2e522_ID_7b7b5543dc,train,4,68,0.087428,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,142.87,179.66
+ID_e2e2e522_ID_7b7b5543dc,train,5,208,0.267428,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,23,22.58,151.97,187.32
+ID_e2e2e522_ID_7b7b5543dc,train,6,230,0.295714,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.56,147.83,193.84
+ID_e2e2e522_ID_7b7b5543dc,train,7,291,0.374143,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,23,22.59,165.98,205.32
+ID_e2e2e522_ID_7b7b5543dc,train,8,78,0.100286,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,152.68,230.21
+ID_e2e2e522_ID_7b7b5543dc,train,9,218,0.280285,"0,1 à 1 mL",sous-arachnoïdien,4,23,25,23,23.56,164.96,229.0
+ID_e2e2e522_ID_7b7b5543dc,train,10,656,0.843428,"0,1 à 1 mL",sous-arachnoïdien,4,22,24,23,22.95,175.81,137.39
+ID_e2e2e522_ID_7b7b5543dc,train,11,45,0.057857,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,174.33,209.89
+ID_e2e2e522_ID_7b7b5543dc,train,12,42,0.054,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,185.26,259.6
+ID_e2e2e522_ID_7b7b5543dc,train,13,221,0.284143,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.63,206.57,127.57
+ID_e2e2e522_ID_7b7b5543dc,train,14,39,0.050143,"< 0,1 mL",intraparenchymateux,2,19,19,19,19.0,211.51,368.21
+ID_e2e2e522_ID_7b7b5543dc,train,15,68,0.087428,"< 0,1 mL",intraventriculaire,3,15,15,15,15.0,221.19,207.94
+ID_e2e2e522_ID_7b7b5543dc,train,16,86,0.110571,"0,1 à 1 mL",intraventriculaire,3,16,16,16,16.0,232.52,207.28
+ID_e2e2e522_ID_7b7b5543dc,train,17,464,0.596571,"0,1 à 1 mL",sous-arachnoïdien,4,15,17,15,15.64,279.46,382.89
+ID_e2e2e522_ID_7b7b5543dc,train,18,82,0.105428,"0,1 à 1 mL",intraventriculaire,3,12,14,12,12.63,300.8,169.33
+ID_e393f193_ID_c81bf5f45d,train,1,945,1.158541,1 à 5 mL,sous-dural,5,7,8,8,7.68,188.41,209.47
+ID_e393f193_ID_c81bf5f45d,train,2,651,0.798106,"0,1 à 1 mL",sous-dural,5,9,9,9,9.0,191.07,186.93
+ID_e393f193_ID_c81bf5f45d,train,3,215,0.263584,"0,1 à 1 mL",intraventriculaire,3,12,13,12,12.38,194.17,192.27
+ID_e393f193_ID_c81bf5f45d,train,4,1091,1.337533,1 à 5 mL,sous-arachnoïdien,4,4,7,4,4.88,228.93,262.14
+ID_e393f193_ID_c81bf5f45d,train,5,26,0.031875,"< 0,1 mL",sous-arachnoïdien,4,8,8,8,8.0,228.58,278.73
+ID_e393f193_ID_c81bf5f45d,train,6,55,0.067428,"< 0,1 mL",sous-arachnoïdien,4,6,6,6,6.0,238.44,280.16
+ID_e393f193_ID_c81bf5f45d,train,7,448,0.549234,"0,1 à 1 mL",sous-dural,5,12,14,13,13.22,257.05,146.35
+ID_e393f193_ID_c81bf5f45d,train,8,456,0.559042,"0,1 à 1 mL",intraventriculaire,3,12,14,13,12.68,306.59,194.47
+ID_e3db11e0_ID_1863688c5b,train,1,26945,32.397145,> 5 mL,intraparenchymateux,2,8,19,16,15.57,229.73,228.79
+ID_e3db11e0_ID_1863688c5b,train,2,6422,7.72145,> 5 mL,intraventriculaire,3,12,19,14,14.32,231.53,156.15
+ID_e3db11e0_ID_1863688c5b,train,3,454,0.545864,"0,1 à 1 mL",intraventriculaire,3,16,17,16,16.27,284.11,234.86
+ID_e3db11e0_ID_1863688c5b,train,4,1063,1.278091,1 à 5 mL,intraventriculaire,3,11,13,12,12.2,320.15,142.95
+ID_e714812a_ID_11a3b1afdc,train,1,81,0.099135,"< 0,1 mL",intraventriculaire,3,16,17,16,16.16,209.93,90.37
+ID_e714812a_ID_11a3b1afdc,train,2,434,0.531169,"0,1 à 1 mL",intraparenchymateux,2,10,11,11,10.53,243.71,154.52
+ID_e714812a_ID_11a3b1afdc,train,3,404,0.494453,"0,1 à 1 mL",intraventriculaire,3,11,13,12,11.69,246.8,175.46
+ID_e714812a_ID_11a3b1afdc,train,4,1321,1.616762,1 à 5 mL,sous-arachnoïdien,4,11,12,12,11.76,300.82,200.08
+ID_e714812a_ID_11a3b1afdc,train,5,68,0.083225,"< 0,1 mL",intraventriculaire,3,17,17,17,17.0,293.46,90.4
+ID_eb39f236_ID_d7edccdb08,train,1,41429,51.510817,> 5 mL,sous-arachnoïdien,4,0,16,9,9.57,277.1,268.7
+ID_eb39f236_ID_d7edccdb08,train,2,73,0.090765,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,190.75,255.86
+ID_eb39f236_ID_d7edccdb08,train,3,152,0.188989,"0,1 à 1 mL",intraventriculaire,3,14,16,16,15.16,218.07,160.75
+ID_eb39f236_ID_d7edccdb08,train,4,27,0.03357,"< 0,1 mL",sous-arachnoïdien,4,5,5,5,5.0,212.52,339.0
+ID_eb39f236_ID_d7edccdb08,train,5,77,0.095738,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,227.47,160.35
+ID_eb39f236_ID_d7edccdb08,train,6,200,0.24867,"0,1 à 1 mL",sous-arachnoïdien,4,7,7,7,7.0,291.26,330.54
+ID_eb39f236_ID_d7edccdb08,train,7,276,0.343165,"0,1 à 1 mL",intraventriculaire,3,13,15,14,13.93,310.17,145.82
+ID_eb5a964a_ID_c2f5350a3f,train,1,2714,3.23534,1 à 5 mL,sous-dural,5,12,17,13,13.73,326.2,300.29
+ID_eb5a964a_ID_c2f5350a3f,train,2,3473,4.140139,1 à 5 mL,intraparenchymateux,2,22,27,26,25.73,320.49,183.36
+ID_eb5a964a_ID_c2f5350a3f,train,3,76,0.090599,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,320.64,337.49
+ID_eb5a964a_ID_c2f5350a3f,train,4,255,0.303984,"0,1 à 1 mL",sous-arachnoïdien,4,15,17,16,15.95,327.83,167.62
+ID_eb5a964a_ID_c2f5350a3f,train,5,173,0.206232,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,355.46,190.78
+ID_eb5a964a_ID_c2f5350a3f,train,6,189,0.225306,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,23,22.64,358.94,219.6
+ID_ed6dfff7_ID_f54a5fd2c8,train,1,27844,35.799348,> 5 mL,intraparenchymateux,2,10,17,14,14.01,289.61,329.95
+ID_ed6dfff7_ID_f54a5fd2c8,train,2,129,0.165857,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,215.23,364.47
+ID_ed6dfff7_ID_f54a5fd2c8,train,3,147,0.189,"0,1 à 1 mL",sous-arachnoïdien,4,17,18,17,17.2,228.78,365.82
+ID_f4795940_ID_6317a06429,train,1,794,0.995361,"0,1 à 1 mL",intraventriculaire,3,14,17,16,15.53,179.86,190.98
+ID_f4795940_ID_6317a06429,train,2,399,0.500188,"0,1 à 1 mL",intraventriculaire,3,11,14,12,12.33,220.87,267.26
+ID_f4795940_ID_6317a06429,train,3,1156,1.449166,1 à 5 mL,intraventriculaire,3,4,9,7,7.09,228.13,197.9
+ID_f4795940_ID_6317a06429,train,4,24,0.030086,"< 0,1 mL",intraventriculaire,3,10,10,10,10.0,224.96,212.67
+ID_f4795940_ID_6317a06429,train,5,2710,3.397266,1 à 5 mL,intraventriculaire,3,12,17,16,15.37,240.29,263.93
+ID_f4795940_ID_6317a06429,train,6,348,0.436254,"0,1 à 1 mL",intraventriculaire,3,18,18,18,18.0,259.01,252.82
+ID_f4795940_ID_6317a06429,train,7,62737,78.647335,> 5 mL,sous-dural,5,8,19,13,12.77,338.07,273.09
+ID_f4795940_ID_6317a06429,train,8,337,0.422464,"0,1 à 1 mL",intraventriculaire,3,13,14,14,13.69,280.06,179.47
+ID_f4795940_ID_6317a06429,train,9,1899,2.380593,1 à 5 mL,sous-arachnoïdien,4,16,19,18,17.46,340.23,194.91
+ID_f4795940_ID_6317a06429,train,10,39,0.048891,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,369.05,219.36
+ID_fb6d0135_ID_497840f16e,train,1,452,0.581142,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.65,160.78,327.83
+ID_fb6d0135_ID_497840f16e,train,2,4531,5.825562,> 5 mL,sous-arachnoïdien,4,7,13,8,8.45,236.21,292.95
+ID_fb6d0135_ID_497840f16e,train,3,798,1.025998,1 à 5 mL,sous-arachnoïdien,4,3,4,4,3.5,223.51,253.81
+ID_fb6d0135_ID_497840f16e,train,4,632,0.81257,"0,1 à 1 mL",sous-arachnoïdien,4,1,2,1,1.3,231.38,213.39
+ID_fb6d0135_ID_497840f16e,train,5,74,0.095143,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,214.69,236.42
+ID_fb6d0135_ID_497840f16e,train,6,372,0.478285,"0,1 à 1 mL",sous-arachnoïdien,4,0,0,0,0.0,237.69,248.48
+ID_fb6d0135_ID_497840f16e,train,7,1440,1.851426,1 à 5 mL,sous-arachnoïdien,4,7,13,13,10.34,245.29,363.7
+ID_fb6d0135_ID_497840f16e,train,8,124,0.159428,"0,1 à 1 mL",sous-arachnoïdien,4,10,10,10,10.0,252.64,230.06
+ID_fb6d0135_ID_497840f16e,train,9,95,0.122143,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,258.34,161.11
+ID_fb6d0135_ID_497840f16e,train,10,1031,1.325569,1 à 5 mL,sous-dural,5,16,17,16,16.3,335.27,323.05
+ID_fb6d0135_ID_497840f16e,train,11,134,0.172285,"0,1 à 1 mL",sous-dural,5,21,21,21,21.0,337.72,216.96
+ID_fb6d0135_ID_497840f16e,train,12,19,0.024429,"< 0,1 mL",sous-dural,5,19,19,19,19.0,346.11,250.0
+ID_fb6d0135_ID_497840f16e,train,13,16,0.020571,"< 0,1 mL",sous-dural,5,18,18,18,18.0,350.69,258.94
+ID_fcbe7eda_ID_5726e1c630,train,1,729,0.869036,"0,1 à 1 mL",sous-arachnoïdien,4,6,8,8,7.44,275.46,272.61
+ID_fcbe7eda_ID_5726e1c630,train,2,42,0.050068,"< 0,1 mL",sous-arachnoïdien,4,4,4,4,4.0,281.71,222.74
+ID_fcbe7eda_ID_5726e1c630,train,3,451,0.537634,"0,1 à 1 mL",sous-arachnoïdien,4,5,6,5,5.39,295.18,239.32
+ID_09b33fc4_ID_bcd322d4ed,val,1,352,0.50354,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.53,115.82,152.08
+ID_09b33fc4_ID_bcd322d4ed,val,2,29,0.041485,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,109.48,212.1
+ID_09b33fc4_ID_bcd322d4ed,val,3,42,0.060081,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,109.48,231.55
+ID_09b33fc4_ID_bcd322d4ed,val,4,93,0.133038,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,126.6,187.05
+ID_09b33fc4_ID_bcd322d4ed,val,5,1508,2.157211,1 à 5 mL,sous-arachnoïdien,4,12,15,13,13.23,145.8,225.63
+ID_09b33fc4_ID_bcd322d4ed,val,6,93,0.133038,"0,1 à 1 mL",sous-arachnoïdien,4,13,13,13,13.0,125.54,193.59
+ID_09b33fc4_ID_bcd322d4ed,val,7,109,0.155926,"0,1 à 1 mL",intraventriculaire,3,11,13,12,12.4,173.07,124.25
+ID_09b33fc4_ID_bcd322d4ed,val,8,2345,3.354549,1 à 5 mL,intraparenchymateux,2,9,11,11,10.42,195.36,308.82
+ID_09b33fc4_ID_bcd322d4ed,val,9,8,0.011444,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,223.0,222.25
+ID_09b33fc4_ID_bcd322d4ed,val,10,23,0.032902,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,234.3,218.65
+ID_09b33fc4_ID_bcd322d4ed,val,11,405,0.579357,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,18,18.4,255.83,282.27
+ID_09b33fc4_ID_bcd322d4ed,val,12,79,0.11301,"0,1 à 1 mL",sous-dural,5,15,15,15,15.0,253.05,347.2
+ID_09b33fc4_ID_bcd322d4ed,val,13,16283,23.293018,> 5 mL,sous-dural,5,8,20,14,14.97,324.53,262.58
+ID_09b33fc4_ID_bcd322d4ed,val,14,56,0.080109,"< 0,1 mL",sous-dural,5,17,17,17,17.0,261.25,322.54
+ID_09b33fc4_ID_bcd322d4ed,val,15,66,0.094414,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,261.0,334.15
+ID_09b33fc4_ID_bcd322d4ed,val,16,84,0.120163,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,279.29,85.7
+ID_09b33fc4_ID_bcd322d4ed,val,17,38,0.054359,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,275.84,227.03
+ID_09b33fc4_ID_bcd322d4ed,val,18,409,0.585079,"0,1 à 1 mL",sous-arachnoïdien,4,13,16,15,14.78,279.81,308.98
+ID_09b33fc4_ID_bcd322d4ed,val,19,59,0.0844,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,290.05,205.9
+ID_09b33fc4_ID_bcd322d4ed,val,20,222,0.317574,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.92,305.59,214.38
+ID_09b33fc4_ID_bcd322d4ed,val,21,57,0.081539,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,296.65,172.39
+ID_09b33fc4_ID_bcd322d4ed,val,22,144,0.205994,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,302.81,72.03
+ID_09b33fc4_ID_bcd322d4ed,val,23,154,0.220299,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,305.38,95.57
+ID_09b33fc4_ID_bcd322d4ed,val,24,410,0.58651,"0,1 à 1 mL",sous-arachnoïdien,4,6,8,7,6.96,313.6,274.28
+ID_09b33fc4_ID_bcd322d4ed,val,25,176,0.25177,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.84,326.88,281.83
+ID_09b33fc4_ID_bcd322d4ed,val,26,177,0.253201,"0,1 à 1 mL",sous-arachnoïdien,4,7,9,8,7.79,330.05,243.89
+ID_09b33fc4_ID_bcd322d4ed,val,27,44,0.062943,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,331.43,117.14
+ID_09b33fc4_ID_bcd322d4ed,val,28,93,0.133038,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,339.9,155.2
+ID_09b33fc4_ID_bcd322d4ed,val,29,71,0.101566,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,335.99,108.2
+ID_09b33fc4_ID_bcd322d4ed,val,30,78,0.11158,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,333.31,138.95
+ID_09b33fc4_ID_bcd322d4ed,val,31,17,0.024319,"< 0,1 mL",sous-arachnoïdien,4,8,8,8,8.0,341.24,235.59
+ID_09b33fc4_ID_bcd322d4ed,val,32,26,0.037193,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,345.77,143.62
+ID_09b33fc4_ID_bcd322d4ed,val,33,10,0.014305,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,347.5,132.0
+ID_0c3eef60_ID_6994ad7df0,val,1,596,0.545211,"0,1 à 1 mL",sous-dural,5,12,12,12,12.0,133.91,289.85
+ID_0c3eef60_ID_6994ad7df0,val,2,2217,2.028075,1 à 5 mL,intraparenchymateux,2,19,22,20,20.21,169.55,330.34
+ID_0c3eef60_ID_6994ad7df0,val,3,2127,1.945744,1 à 5 mL,sous-arachnoïdien,4,24,26,25,24.98,329.59,306.15
+ID_14058625_ID_527c581583,val,1,3772,4.496574,1 à 5 mL,sous-dural,5,16,24,18,19.03,356.38,274.07
+ID_2334b45f_ID_9f31e831ac,val,1,138356,169.332897,> 5 mL,intraparenchymateux,2,18,35,26,26.14,334.52,269.14
+ID_2334b45f_ID_9f31e831ac,val,2,55,0.067314,"< 0,1 mL",intraventriculaire,3,22,22,22,22.0,226.8,175.0
+ID_2334b45f_ID_9f31e831ac,val,3,3568,4.366849,1 à 5 mL,intraventriculaire,3,10,18,15,14.38,281.25,221.38
+ID_2334b45f_ID_9f31e831ac,val,4,55,0.067314,"< 0,1 mL",intraventriculaire,3,20,20,20,20.0,339.64,187.22
+ID_2334b45f_ID_9f31e831ac,val,5,98,0.119941,"0,1 à 1 mL",intraparenchymateux,2,23,23,23,23.0,347.76,322.55
+ID_2334b45f_ID_9f31e831ac,val,6,516,0.631529,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.52,375.41,294.91
+ID_30d19531_ID_cf607a5cd7,val,1,21,0.027002,"< 0,1 mL",sous-dural,5,17,17,17,17.0,66.0,429.0
+ID_30d19531_ID_cf607a5cd7,val,2,130014,167.170712,> 5 mL,sous-dural,5,7,26,14,15.25,332.43,325.75
+ID_30d19531_ID_cf607a5cd7,val,3,1684,2.165271,1 à 5 mL,sous-arachnoïdien,4,14,15,15,14.53,178.44,250.03
+ID_30d19531_ID_cf607a5cd7,val,4,243,0.312447,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,177.19,290.79
+ID_30d19531_ID_cf607a5cd7,val,5,1749,2.248847,1 à 5 mL,sous-arachnoïdien,4,11,13,12,11.97,231.28,327.55
+ID_30d19531_ID_cf607a5cd7,val,6,305,0.392166,"0,1 à 1 mL",intraparenchymateux,2,8,8,8,8.0,193.48,334.17
+ID_30d19531_ID_cf607a5cd7,val,7,64551,82.999036,> 5 mL,sous-arachnoïdien,4,6,21,9,11.5,274.97,201.48
+ID_30d19531_ID_cf607a5cd7,val,8,1656,2.129268,1 à 5 mL,sous-arachnoïdien,4,16,23,19,19.27,238.48,331.55
+ID_30d19531_ID_cf607a5cd7,val,9,242,0.311161,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,245.65,274.27
+ID_30d19531_ID_cf607a5cd7,val,10,75,0.096434,"< 0,1 mL",intraventriculaire,3,15,15,15,15.0,254.23,267.08
+ID_30d19531_ID_cf607a5cd7,val,11,173,0.222442,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,24,24.35,261.27,284.97
+ID_30d19531_ID_cf607a5cd7,val,12,847,1.089064,1 à 5 mL,intraventriculaire,3,18,19,19,18.55,276.7,222.2
+ID_30d19531_ID_cf607a5cd7,val,13,107,0.13758,"0,1 à 1 mL",sous-dural,5,27,27,27,27.0,325.74,222.81
+ID_30d19531_ID_cf607a5cd7,val,14,217,0.279016,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,351.93,220.26
+ID_30d19531_ID_cf607a5cd7,val,15,186,0.239157,"0,1 à 1 mL",intraventriculaire,3,15,15,15,15.0,352.41,185.55
+ID_30d19531_ID_cf607a5cd7,val,16,158,0.203155,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,384.2,202.21
+ID_39702b69_ID_167ab8c629,val,1,120,0.156588,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,171.57,218.73
+ID_39702b69_ID_167ab8c629,val,2,237,0.309261,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.86,179.03,403.01
+ID_39702b69_ID_167ab8c629,val,3,1025,1.337522,1 à 5 mL,intraparenchymateux,2,9,11,10,9.94,192.29,331.46
+ID_39702b69_ID_167ab8c629,val,4,158,0.206174,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.75,188.62,353.7
+ID_39702b69_ID_167ab8c629,val,5,585,0.763366,"0,1 à 1 mL",intraparenchymateux,2,12,14,13,13.38,188.85,381.14
+ID_39702b69_ID_167ab8c629,val,6,23,0.030013,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,181.26,349.09
+ID_39702b69_ID_167ab8c629,val,7,4816,6.284395,> 5 mL,intraparenchymateux,2,9,16,11,12.1,226.84,373.21
+ID_39702b69_ID_167ab8c629,val,8,1272,1.659832,1 à 5 mL,intraparenchymateux,2,19,22,20,20.86,207.54,276.9
+ID_39702b69_ID_167ab8c629,val,9,234,0.305346,"0,1 à 1 mL",intraventriculaire,3,16,16,16,16.0,246.38,288.84
+ID_39702b69_ID_167ab8c629,val,10,377,0.491947,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,26,26.09,253.06,166.55
+ID_39702b69_ID_167ab8c629,val,11,57,0.074379,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,259.53,376.16
+ID_39702b69_ID_167ab8c629,val,12,196,0.25576,"0,1 à 1 mL",intraventriculaire,3,16,17,17,16.51,281.07,110.64
+ID_495ac92a_ID_4daa7b9cc7,val,1,9929,12.152031,> 5 mL,sous-dural,5,11,26,20,18.93,180.21,328.39
+ID_495ac92a_ID_4daa7b9cc7,val,2,182,0.222748,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,196.2,233.68
+ID_495ac92a_ID_4daa7b9cc7,val,3,76,0.093016,"< 0,1 mL",intraventriculaire,3,18,18,18,18.0,197.66,184.17
+ID_495ac92a_ID_4daa7b9cc7,val,4,302,0.369616,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,246.61,321.47
+ID_495ac92a_ID_4daa7b9cc7,val,5,202,0.247226,"0,1 à 1 mL",intraventriculaire,3,20,20,20,20.0,277.4,118.02
+ID_495ac92a_ID_4daa7b9cc7,val,6,13,0.015911,"< 0,1 mL",intraventriculaire,3,14,14,14,14.0,281.38,224.38
+ID_495ac92a_ID_4daa7b9cc7,val,7,222,0.271704,"0,1 à 1 mL",intraventriculaire,3,19,20,19,19.48,300.66,143.81
+ID_6874ab42_ID_209e53bf66,val,1,224,0.267029,"0,1 à 1 mL",intraventriculaire,3,20,22,20,20.93,182.71,161.26
+ID_6874ab42_ID_209e53bf66,val,2,206,0.245571,"0,1 à 1 mL",intraventriculaire,3,14,16,14,14.9,232.64,205.71
+ID_6874ab42_ID_209e53bf66,val,3,63741,75.985193,> 5 mL,intraparenchymateux,2,19,33,27,27.18,290.88,281.64
+ID_6874ab42_ID_209e53bf66,val,4,153,0.18239,"0,1 à 1 mL",intraparenchymateux,2,20,21,20,20.5,299.86,248.62
+ID_6874ab42_ID_209e53bf66,val,5,85,0.101328,"0,1 à 1 mL",intraparenchymateux,2,23,23,23,23.0,347.11,276.85
+ID_727c946e_ID_e1fd84171a,val,1,226,0.530027,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.54,229.82,196.72
+ID_727c946e_ID_e1fd84171a,val,2,56,0.131334,"0,1 à 1 mL",intraventriculaire,3,13,14,13,13.3,242.07,149.43
+ID_727c946e_ID_e1fd84171a,val,3,24,0.056286,"< 0,1 mL",intraventriculaire,3,16,16,16,16.0,245.46,150.58
+ID_727c946e_ID_e1fd84171a,val,4,178,0.417455,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.72,257.97,209.72
+ID_727c946e_ID_e1fd84171a,val,5,94,0.220454,"0,1 à 1 mL",intraventriculaire,3,15,15,15,15.0,261.73,190.83
+ID_727c946e_ID_e1fd84171a,val,6,382,0.895887,"0,1 à 1 mL",intraparenchymateux,2,14,15,15,14.51,274.18,208.93
+ID_727c946e_ID_e1fd84171a,val,7,58,0.136025,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,274.31,201.31
+ID_b79a2d4a_ID_710cdb6530,val,1,4959,5.911589,> 5 mL,intraparenchymateux,2,23,28,25,25.27,269.85,355.01
+ID_b85bdbe9_ID_cb52cd5d53,val,1,8198,10.033472,> 5 mL,intraventriculaire,3,12,14,13,13.06,200.82,202.25
+ID_b85bdbe9_ID_cb52cd5d53,val,2,43791,53.595485,> 5 mL,intraparenchymateux,2,16,24,18,19.56,226.83,226.74
+ID_b85bdbe9_ID_cb52cd5d53,val,3,115,0.140748,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,222.13,368.78
+ID_b85bdbe9_ID_cb52cd5d53,val,4,233,0.285167,"0,1 à 1 mL",intraventriculaire,3,9,10,10,9.89,276.52,203.9
+ID_b85bdbe9_ID_cb52cd5d53,val,5,11,0.013463,"< 0,1 mL",intraventriculaire,3,20,20,20,20.0,290.45,157.0
+ID_b85bdbe9_ID_cb52cd5d53,val,6,747,0.914248,"0,1 à 1 mL",intraventriculaire,3,14,18,16,16.22,316.04,140.93
+ID_b85bdbe9_ID_cb52cd5d53,val,7,401,0.490781,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,21,20.82,328.83,161.12
+ID_b85bdbe9_ID_cb52cd5d53,val,8,79,0.096688,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,340.62,245.03
+ID_b85bdbe9_ID_cb52cd5d53,val,9,640,0.783291,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,366.74,139.13
+ID_b85bdbe9_ID_cb52cd5d53,val,10,157,0.192151,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.03,354.33,149.36
+ID_c3769f3a_ID_32fc557515,val,1,1179,1.526878,1 à 5 mL,intraventriculaire,3,13,17,14,14.44,158.57,163.3
+ID_c3769f3a_ID_32fc557515,val,2,76776,99.429703,> 5 mL,intraparenchymateux,2,8,18,13,12.98,253.04,326.91
+ID_c3769f3a_ID_32fc557515,val,3,3021,3.912383,1 à 5 mL,intraventriculaire,3,14,18,17,16.56,250.22,176.72
+ID_d79fa3ff_ID_90d02c54ba,val,1,792,0.969323,"0,1 à 1 mL",sous-dural,5,19,24,22,21.78,131.29,302.98
+ID_d79fa3ff_ID_90d02c54ba,val,2,259,0.316988,"0,1 à 1 mL",sous-dural,5,26,26,26,26.0,146.51,287.38
+ID_d79fa3ff_ID_90d02c54ba,val,3,444,0.543408,"0,1 à 1 mL",sous-dural,5,28,28,28,28.0,168.29,253.25
+ID_d79fa3ff_ID_90d02c54ba,val,4,279,0.341466,"0,1 à 1 mL",intraventriculaire,3,15,15,15,15.0,187.16,246.05
+ID_d79fa3ff_ID_90d02c54ba,val,5,157,0.192151,"0,1 à 1 mL",intraventriculaire,3,14,14,14,14.0,212.2,141.41
+ID_d79fa3ff_ID_90d02c54ba,val,6,21421,26.217005,> 5 mL,intraparenchymateux,2,14,24,20,19.17,277.09,225.64
+ID_db89259c_ID_2c20aff0f9,val,1,244,0.290871,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,205.83,261.79
+ID_db89259c_ID_2c20aff0f9,val,2,69,0.082254,"< 0,1 mL",intraparenchymateux,2,26,26,26,26.0,214.35,286.33
+ID_db89259c_ID_2c20aff0f9,val,3,191,0.22769,"0,1 à 1 mL",intraparenchymateux,2,26,27,27,26.63,221.97,243.26
+ID_e8691c40_ID_4e6812b21a,val,1,19779,13.618905,> 5 mL,intraparenchymateux,2,5,10,8,7.75,197.48,184.0
+ID_ec8a7bf0_ID_c853ba89ce,val,1,50,0.073864,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,164.02,219.44
+ID_ec8a7bf0_ID_c853ba89ce,val,2,101,0.149204,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,166.94,135.96
+ID_ec8a7bf0_ID_c853ba89ce,val,3,105,0.155113,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,188.52,113.41
+ID_ec8a7bf0_ID_c853ba89ce,val,4,115,0.169886,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,198.81,106.12
+ID_ec8a7bf0_ID_c853ba89ce,val,5,198,0.2925,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.28,200.98,128.68
+ID_ec8a7bf0_ID_c853ba89ce,val,6,210,0.310227,"0,1 à 1 mL",intraventriculaire,3,16,17,16,16.39,204.68,175.26
+ID_ec8a7bf0_ID_c853ba89ce,val,7,283,0.418068,"0,1 à 1 mL",intraventriculaire,3,15,16,15,15.25,210.78,117.7
+ID_ec8a7bf0_ID_c853ba89ce,val,8,31,0.045795,"< 0,1 mL",intraparenchymateux,2,15,15,15,15.0,213.29,236.97
+ID_ec8a7bf0_ID_c853ba89ce,val,9,78,0.115227,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,223.27,132.37
+ID_ec8a7bf0_ID_c853ba89ce,val,10,189,0.279204,"0,1 à 1 mL",sous-arachnoïdien,4,23,25,24,24.03,222.4,184.53
+ID_ec8a7bf0_ID_c853ba89ce,val,11,53,0.078295,"< 0,1 mL",intraparenchymateux,2,16,17,17,16.6,222.38,226.58
+ID_ec8a7bf0_ID_c853ba89ce,val,12,33,0.04875,"< 0,1 mL",intraparenchymateux,2,15,15,15,15.0,221.73,254.15
+ID_ec8a7bf0_ID_c853ba89ce,val,13,711,1.05034,1 à 5 mL,intraparenchymateux,2,9,10,10,9.7,237.7,313.46
+ID_ec8a7bf0_ID_c853ba89ce,val,14,262,0.387045,"0,1 à 1 mL",intraparenchymateux,2,11,11,11,11.0,242.74,251.1
+ID_ec8a7bf0_ID_c853ba89ce,val,15,130,0.192045,"0,1 à 1 mL",intraparenchymateux,2,7,8,7,7.35,247.06,246.72
+ID_ec8a7bf0_ID_c853ba89ce,val,16,481,0.710568,"0,1 à 1 mL",intraparenchymateux,2,8,10,8,8.61,275.2,383.58
+ID_ec8a7bf0_ID_c853ba89ce,val,17,414,0.61159,"0,1 à 1 mL",intraparenchymateux,2,21,22,21,21.46,280.66,170.92
+ID_ec8a7bf0_ID_c853ba89ce,val,18,100,0.147727,"0,1 à 1 mL",intraparenchymateux,2,13,14,14,13.69,276.1,268.62
+ID_ec8a7bf0_ID_c853ba89ce,val,19,1248,1.843635,1 à 5 mL,sous-dural,5,13,17,17,15.21,285.49,387.7
+ID_ec8a7bf0_ID_c853ba89ce,val,20,32,0.047273,"< 0,1 mL",intraparenchymateux,2,14,14,14,14.0,280.44,248.72
+ID_ec8a7bf0_ID_c853ba89ce,val,21,43,0.063523,"< 0,1 mL",intraparenchymateux,2,18,18,18,18.0,280.42,325.14
+ID_ec8a7bf0_ID_c853ba89ce,val,22,268,0.395909,"0,1 à 1 mL",intraparenchymateux,2,13,15,14,13.87,295.52,260.4
+ID_ec8a7bf0_ID_c853ba89ce,val,23,966,1.427044,1 à 5 mL,intraventriculaire,3,15,16,15,15.41,305.13,129.51
+ID_ec8a7bf0_ID_c853ba89ce,val,24,296,0.437272,"0,1 à 1 mL",intraparenchymateux,2,10,11,10,10.42,297.52,327.49
+ID_ec8a7bf0_ID_c853ba89ce,val,25,111,0.163977,"0,1 à 1 mL",intraparenchymateux,2,15,16,15,15.36,299.73,245.5
+ID_ec8a7bf0_ID_c853ba89ce,val,26,21656,31.991788,> 5 mL,sous-dural,5,7,22,13,14.09,350.49,313.92
+ID_ec8a7bf0_ID_c853ba89ce,val,27,137,0.202386,"0,1 à 1 mL",intraparenchymateux,2,10,10,10,10.0,308.2,365.45
+ID_ec8a7bf0_ID_c853ba89ce,val,28,82,0.121136,"0,1 à 1 mL",sous-dural,5,12,12,12,12.0,320.56,403.29
+ID_0237f3c9_ID_40015688b9,test,1,8774,11.061875,> 5 mL,intraparenchymateux,2,12,18,15,15.01,280.42,211.93
+ID_029ebbea_ID_563afa0901,test,1,1844,2.370853,1 à 5 mL,intraparenchymateux,2,10,11,10,10.47,118.59,216.18
+ID_029ebbea_ID_563afa0901,test,2,30198,38.825938,> 5 mL,sous-dural,5,6,24,19,16.8,313.09,232.34
+ID_02b882cc_ID_a4892e60ae,test,1,1833,2.356711,1 à 5 mL,sous-arachnoïdien,4,14,18,17,15.95,162.04,250.85
+ID_02b882cc_ID_a4892e60ae,test,2,77,0.099,"< 0,1 mL",sous-arachnoïdien,4,20,20,20,20.0,148.16,222.18
+ID_02b882cc_ID_a4892e60ae,test,3,167,0.214714,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,18,18.33,168.21,206.58
+ID_02b882cc_ID_a4892e60ae,test,4,691,0.888427,"0,1 à 1 mL",intraventriculaire,3,13,15,14,14.15,201.16,164.04
+ID_02b882cc_ID_a4892e60ae,test,5,77320,99.411271,> 5 mL,intraventriculaire,3,10,23,18,17.66,255.45,240.51
+ID_02b882cc_ID_a4892e60ae,test,6,232,0.298285,"0,1 à 1 mL",intraparenchymateux,2,12,12,12,12.0,228.42,364.21
+ID_02b882cc_ID_a4892e60ae,test,7,219,0.281571,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,248.74,337.37
+ID_02b882cc_ID_a4892e60ae,test,8,119,0.153,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,21,20.66,266.87,346.33
+ID_02b882cc_ID_a4892e60ae,test,9,33,0.042429,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,266.24,307.3
+ID_02b882cc_ID_a4892e60ae,test,10,38,0.048857,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,269.87,312.89
+ID_02b882cc_ID_a4892e60ae,test,11,28,0.036,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,276.11,176.25
+ID_02b882cc_ID_a4892e60ae,test,12,32,0.041143,"< 0,1 mL",intraparenchymateux,2,13,13,13,13.0,290.88,139.78
+ID_02b882cc_ID_a4892e60ae,test,13,1260,1.619997,1 à 5 mL,sous-arachnoïdien,4,12,16,12,13.17,332.61,284.14
+ID_02f779fb_ID_c4d7f33559,test,1,32648,38.919449,> 5 mL,intraparenchymateux,2,11,18,14,14.44,240.11,295.61
+ID_02f779fb_ID_c4d7f33559,test,2,2421,2.886057,1 à 5 mL,intraventriculaire,3,13,17,15,15.12,297.11,178.66
+ID_041e6601_ID_1fa1d20bba,test,1,309,0.235748,"0,1 à 1 mL",intraparenchymateux,2,18,18,18,18.0,156.18,338.02
+ID_041e6601_ID_1fa1d20bba,test,2,4158,3.172302,1 à 5 mL,sous-dural,5,8,12,8,9.36,200.87,361.84
+ID_041e6601_ID_1fa1d20bba,test,3,200,0.152588,"0,1 à 1 mL",intraparenchymateux,2,14,14,14,14.0,238.11,365.2
+ID_041e6601_ID_1fa1d20bba,test,4,23379,17.836761,> 5 mL,épidural,1,13,24,21,20.05,394.94,335.28
+ID_0492041f_ID_b4fcf2f799,test,1,391,0.468625,"0,1 à 1 mL",intraventriculaire,3,12,14,12,12.52,199.7,120.47
+ID_0492041f_ID_b4fcf2f799,test,2,7153,8.573082,> 5 mL,intraparenchymateux,2,15,20,18,17.27,234.06,230.16
+ID_0492041f_ID_b4fcf2f799,test,3,908,1.088265,1 à 5 mL,intraventriculaire,3,8,13,9,9.82,239.66,186.16
+ID_0492041f_ID_b4fcf2f799,test,4,136,0.163,"0,1 à 1 mL",intraventriculaire,3,8,8,8,8.0,243.4,158.84
+ID_0492041f_ID_b4fcf2f799,test,5,84,0.100676,"0,1 à 1 mL",intraventriculaire,3,8,8,8,8.0,275.7,161.87
+ID_0492041f_ID_b4fcf2f799,test,6,1605,1.92364,1 à 5 mL,intraventriculaire,3,12,16,13,13.42,288.98,98.01
+ID_07365cde_ID_8e661b8f07,test,1,7318,9.549253,> 5 mL,intraparenchymateux,2,4,8,6,5.57,228.91,243.88
+ID_0b10cbee_ID_f91d6a7cd2,test,1,2147,2.676365,1 à 5 mL,épidural,1,6,11,8,8.53,318.25,104.04
+ID_10beb45f_ID_7184e80f09,test,1,664,0.801415,"0,1 à 1 mL",intraparenchymateux,2,16,19,18,17.69,259.02,342.34
+ID_1653b22b_ID_c35cd0de73,test,1,344,0.430009,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,22,22.34,133.02,233.92
+ID_1653b22b_ID_c35cd0de73,test,2,151,0.188754,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,127.15,298.54
+ID_1653b22b_ID_c35cd0de73,test,3,77,0.096252,"< 0,1 mL",intraparenchymateux,2,22,22,22,22.0,130.78,261.31
+ID_1653b22b_ID_c35cd0de73,test,4,348,0.43501,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.38,147.74,270.33
+ID_1653b22b_ID_c35cd0de73,test,5,400,0.500011,"0,1 à 1 mL",sous-arachnoïdien,4,18,20,19,18.91,148.58,300.27
+ID_1653b22b_ID_c35cd0de73,test,6,134,0.167504,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,143.14,276.44
+ID_1653b22b_ID_c35cd0de73,test,7,65,0.081252,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,149.75,258.26
+ID_1653b22b_ID_c35cd0de73,test,8,232,0.290006,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,153.77,307.82
+ID_1653b22b_ID_c35cd0de73,test,9,132,0.165004,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,162.29,322.52
+ID_1653b22b_ID_c35cd0de73,test,10,640,0.800018,"0,1 à 1 mL",sous-arachnoïdien,4,12,14,12,12.79,169.12,321.48
+ID_1653b22b_ID_c35cd0de73,test,11,158,0.197504,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,170.54,334.65
+ID_1653b22b_ID_c35cd0de73,test,12,1394,1.742538,1 à 5 mL,sous-arachnoïdien,4,11,14,11,11.74,199.19,341.13
+ID_1653b22b_ID_c35cd0de73,test,13,55,0.068752,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,190.67,367.76
+ID_1653b22b_ID_c35cd0de73,test,14,129,0.161254,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,191.79,287.05
+ID_1653b22b_ID_c35cd0de73,test,15,161,0.201254,"0,1 à 1 mL",sous-arachnoïdien,4,15,16,16,15.7,208.82,383.07
+ID_1653b22b_ID_c35cd0de73,test,16,85,0.106252,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,214.05,364.47
+ID_1653b22b_ID_c35cd0de73,test,17,56,0.070002,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,218.88,354.66
+ID_1653b22b_ID_c35cd0de73,test,18,9208,11.510252,> 5 mL,intraparenchymateux,2,12,17,15,14.7,268.17,306.0
+ID_1653b22b_ID_c35cd0de73,test,19,74,0.092502,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,245.73,398.43
+ID_1653b22b_ID_c35cd0de73,test,20,347,0.43376,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.76,254.35,410.76
+ID_18747540_ID_1eb1de9633,test,1,34186,40.752847,> 5 mL,intraparenchymateux,2,12,21,17,16.45,213.27,335.86
+ID_18747540_ID_1eb1de9633,test,2,69,0.082254,"< 0,1 mL",intraventriculaire,3,12,14,13,13.22,191.13,155.01
+ID_18747540_ID_1eb1de9633,test,3,751,0.895261,"0,1 à 1 mL",intraventriculaire,3,6,8,7,7.14,250.22,199.35
+ID_18747540_ID_1eb1de9633,test,4,1050,1.251696,1 à 5 mL,intraventriculaire,3,13,15,14,13.73,248.78,239.42
+ID_18747540_ID_1eb1de9633,test,5,1323,1.577137,1 à 5 mL,intraventriculaire,3,12,15,14,13.78,291.76,165.22
+ID_1879071b_ID_4b8e1377e7,test,1,12,0.014696,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,154.5,240.0
+ID_1879071b_ID_4b8e1377e7,test,2,156,0.191042,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.59,157.72,297.86
+ID_1879071b_ID_4b8e1377e7,test,3,405,0.495975,"0,1 à 1 mL",sous-arachnoïdien,4,22,25,23,23.48,175.4,358.76
+ID_1879071b_ID_4b8e1377e7,test,4,1604,1.964307,1 à 5 mL,sous-arachnoïdien,4,21,25,23,22.44,191.22,314.23
+ID_1879071b_ID_4b8e1377e7,test,5,109,0.133485,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,177.15,287.93
+ID_1879071b_ID_4b8e1377e7,test,6,98,0.120014,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,174.07,313.86
+ID_1879071b_ID_4b8e1377e7,test,7,34,0.041637,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,169.76,286.32
+ID_1879071b_ID_4b8e1377e7,test,8,60,0.073478,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,181.22,376.62
+ID_1879071b_ID_4b8e1377e7,test,9,5271,6.455025,> 5 mL,intraparenchymateux,2,14,17,16,15.48,203.02,323.08
+ID_1879071b_ID_4b8e1377e7,test,10,40,0.048985,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,182.07,384.73
+ID_1879071b_ID_4b8e1377e7,test,11,100,0.122463,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,190.34,283.72
+ID_1879071b_ID_4b8e1377e7,test,12,259,0.317179,"0,1 à 1 mL",intraventriculaire,3,20,21,20,20.37,217.35,232.46
+ID_1879071b_ID_4b8e1377e7,test,13,30,0.036739,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,219.7,364.8
+ID_1879071b_ID_4b8e1377e7,test,14,87,0.106543,"0,1 à 1 mL",intraventriculaire,3,20,20,20,20.0,219.93,207.49
+ID_1879071b_ID_4b8e1377e7,test,15,160,0.195941,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,227.61,365.61
+ID_1879071b_ID_4b8e1377e7,test,16,92,0.112666,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,227.93,350.43
+ID_1879071b_ID_4b8e1377e7,test,17,125,0.153079,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,236.79,274.76
+ID_1879071b_ID_4b8e1377e7,test,18,2152,2.635404,1 à 5 mL,intraparenchymateux,2,27,30,29,29.05,249.81,352.12
+ID_1879071b_ID_4b8e1377e7,test,19,251,0.307382,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.38,244.41,349.82
+ID_1879071b_ID_4b8e1377e7,test,20,23,0.028166,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,260.0,295.0
+ID_1879071b_ID_4b8e1377e7,test,21,34,0.041637,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,269.76,431.74
+ID_1879071b_ID_4b8e1377e7,test,22,267,0.326976,"0,1 à 1 mL",intraventriculaire,3,23,23,23,23.0,279.16,318.91
+ID_1879071b_ID_4b8e1377e7,test,23,82,0.10042,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,24,23.54,286.98,400.5
+ID_1879071b_ID_4b8e1377e7,test,24,52,0.063681,"< 0,1 mL",intraventriculaire,3,20,20,20,20.0,287.08,165.46
+ID_1879071b_ID_4b8e1377e7,test,25,95,0.11634,"0,1 à 1 mL",sous-arachnoïdien,4,22,24,23,23.09,293.31,372.65
+ID_1879071b_ID_4b8e1377e7,test,26,30,0.036739,"< 0,1 mL",sous-arachnoïdien,4,23,24,23,23.47,299.87,388.1
+ID_1879071b_ID_4b8e1377e7,test,27,363,0.444541,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,15,14.59,314.85,283.93
+ID_1879071b_ID_4b8e1377e7,test,28,741,0.907451,"0,1 à 1 mL",intraventriculaire,3,20,22,20,20.59,308.43,200.97
+ID_1879071b_ID_4b8e1377e7,test,29,82,0.10042,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.56,309.55,377.59
+ID_1879071b_ID_4b8e1377e7,test,30,71,0.086949,"< 0,1 mL",sous-arachnoïdien,4,23,24,24,23.8,311.07,400.83
+ID_1879071b_ID_4b8e1377e7,test,31,241,0.295136,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,323.52,345.31
+ID_1879071b_ID_4b8e1377e7,test,32,625,0.765394,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,359.52,367.16
+ID_1879071b_ID_4b8e1377e7,test,33,2037,2.494571,1 à 5 mL,sous-arachnoïdien,4,20,22,20,20.17,381.37,317.91
+ID_199b0a56_ID_09e623e993,test,1,65,0.038743,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,135.48,209.03
+ID_199b0a56_ID_09e623e993,test,2,6902,4.113908,1 à 5 mL,intraparenchymateux,2,5,15,10,9.18,167.01,269.16
+ID_199b0a56_ID_09e623e993,test,3,62,0.036955,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,149.79,271.39
+ID_199b0a56_ID_09e623e993,test,4,28,0.016689,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,153.04,291.04
+ID_199b0a56_ID_09e623e993,test,5,28,0.016689,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,172.82,367.82
+ID_199b0a56_ID_09e623e993,test,6,72,0.042915,"< 0,1 mL",intraparenchymateux,2,21,21,21,21.0,185.53,105.6
+ID_199b0a56_ID_09e623e993,test,7,38,0.02265,"< 0,1 mL",sous-arachnoïdien,4,6,6,6,6.0,246.45,217.89
+ID_199b0a56_ID_09e623e993,test,8,2442,1.455544,1 à 5 mL,intraparenchymateux,2,13,16,15,14.16,275.97,371.71
+ID_199b0a56_ID_09e623e993,test,9,26,0.015497,"< 0,1 mL",sous-arachnoïdien,4,6,6,6,6.0,264.92,216.42
+ID_199b0a56_ID_09e623e993,test,10,24,0.014305,"< 0,1 mL",intraparenchymateux,2,16,16,16,16.0,305.54,298.12
+ID_199b0a56_ID_09e623e993,test,11,1985,1.183151,1 à 5 mL,intraparenchymateux,2,13,16,13,14.02,320.07,355.66
+ID_199b0a56_ID_09e623e993,test,12,192,0.114441,"0,1 à 1 mL",intraparenchymateux,2,16,17,17,16.73,316.2,308.36
+ID_199b0a56_ID_09e623e993,test,13,136,0.081062,"< 0,1 mL",intraparenchymateux,2,13,13,13,13.0,315.12,227.73
+ID_19d26713_ID_9f54cdc920,test,1,973,1.195398,1 à 5 mL,sous-dural,5,10,11,10,10.39,241.51,133.48
+ID_268b38fe_ID_d747ae3ffb,test,1,16,0.01333,"< 0,1 mL",intraparenchymateux,2,12,12,12,12.0,6.5,440.5
+ID_268b38fe_ID_d747ae3ffb,test,2,109524,91.249806,> 5 mL,intraparenchymateux,2,7,21,16,14.53,204.06,286.92
+ID_268b38fe_ID_d747ae3ffb,test,3,320,0.266608,"0,1 à 1 mL",sous-arachnoïdien,4,17,18,18,17.75,160.61,187.54
+ID_268b38fe_ID_d747ae3ffb,test,4,112,0.093313,"< 0,1 mL",intraparenchymateux,2,13,13,13,13.0,143.74,244.54
+ID_268b38fe_ID_d747ae3ffb,test,5,191,0.159131,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,168.27,160.84
+ID_268b38fe_ID_d747ae3ffb,test,6,486,0.40491,"0,1 à 1 mL",sous-arachnoïdien,4,20,22,20,20.83,185.73,158.06
+ID_268b38fe_ID_d747ae3ffb,test,7,154,0.128305,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,190.0,288.93
+ID_268b38fe_ID_d747ae3ffb,test,8,1180,0.983116,"0,1 à 1 mL",intraparenchymateux,2,9,11,10,9.89,225.73,270.7
+ID_268b38fe_ID_d747ae3ffb,test,9,211,0.175794,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,279.05,406.25
+ID_268b38fe_ID_d747ae3ffb,test,10,134,0.111642,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,22,21.73,283.3,190.84
+ID_268b38fe_ID_d747ae3ffb,test,11,1752,1.459677,1 à 5 mL,sous-arachnoïdien,4,21,25,24,23.71,322.65,224.49
+ID_268b38fe_ID_d747ae3ffb,test,12,123,0.102477,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,285.77,231.58
+ID_268b38fe_ID_d747ae3ffb,test,13,179,0.149134,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,299.51,101.94
+ID_268b38fe_ID_d747ae3ffb,test,14,119,0.099145,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,293.47,194.02
+ID_268b38fe_ID_d747ae3ffb,test,15,209,0.174128,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,309.47,356.9
+ID_268b38fe_ID_d747ae3ffb,test,16,96,0.079982,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,306.56,137.44
+ID_268b38fe_ID_d747ae3ffb,test,17,282,0.234948,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,317.8,300.12
+ID_268b38fe_ID_d747ae3ffb,test,18,3243,2.701902,1 à 5 mL,sous-arachnoïdien,4,20,24,22,22.21,357.84,196.19
+ID_268b38fe_ID_d747ae3ffb,test,19,72,0.059987,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,320.72,412.28
+ID_268b38fe_ID_d747ae3ffb,test,20,63,0.052488,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,325.37,116.71
+ID_268b38fe_ID_d747ae3ffb,test,21,254,0.21162,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.64,330.31,383.78
+ID_268b38fe_ID_d747ae3ffb,test,22,437,0.364086,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.59,339.3,201.06
+ID_268b38fe_ID_d747ae3ffb,test,23,120,0.099978,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,347.75,272.25
+ID_268b38fe_ID_d747ae3ffb,test,24,172,0.143302,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,362.45,145.57
+ID_268b38fe_ID_d747ae3ffb,test,25,91,0.075817,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,361.86,108.26
+ID_268b38fe_ID_d747ae3ffb,test,26,304,0.253277,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,19,19.44,374.71,165.39
+ID_268b38fe_ID_d747ae3ffb,test,27,1086,0.9048,"0,1 à 1 mL",sous-arachnoïdien,4,17,20,20,19.31,386.2,294.6
+ID_268b38fe_ID_d747ae3ffb,test,28,203,0.169129,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,377.84,153.33
+ID_268b38fe_ID_d747ae3ffb,test,29,215,0.179127,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.39,376.36,364.51
+ID_268b38fe_ID_d747ae3ffb,test,30,856,0.713176,"0,1 à 1 mL",sous-arachnoïdien,4,18,22,20,19.53,389.06,200.27
+ID_268b38fe_ID_d747ae3ffb,test,31,111,0.09248,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,386.24,126.66
+ID_268b38fe_ID_d747ae3ffb,test,32,230,0.191624,"0,1 à 1 mL",sous-arachnoïdien,4,15,16,16,15.73,391.54,212.96
+ID_268b38fe_ID_d747ae3ffb,test,33,86,0.071651,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,395.35,327.5
+ID_268b38fe_ID_d747ae3ffb,test,34,100,0.083315,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,394.82,142.32
+ID_268b38fe_ID_d747ae3ffb,test,35,73,0.06082,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,402.4,176.14
+ID_2931ca43_ID_2a2b28e0ab,test,1,2268,2.759052,1 à 5 mL,sous-dural,5,12,15,12,13.14,140.96,344.7
+ID_2931ca43_ID_2a2b28e0ab,test,2,171,0.208024,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,159.99,298.53
+ID_2e21c3f3_ID_bc8f99a0cc,test,1,21951,26.3934,> 5 mL,sous-dural,5,13,27,25,24.06,310.58,236.53
+ID_3343ddf2_ID_fddff2e9c1,test,1,20,0.041721,"< 0,1 mL",intraventriculaire,3,11,11,11,11.0,205.55,185.15
+ID_3343ddf2_ID_fddff2e9c1,test,2,1673,3.48993,1 à 5 mL,intraventriculaire,3,9,13,11,10.87,263.64,281.17
+ID_3343ddf2_ID_fddff2e9c1,test,3,66,0.137678,"0,1 à 1 mL",intraventriculaire,3,10,11,11,10.61,300.94,187.11
+ID_39bdd84b_ID_a318f304e4,test,1,470,0.57549,"0,1 à 1 mL",intraventriculaire,3,10,14,10,11.59,223.76,110.45
+ID_39bdd84b_ID_a318f304e4,test,2,157,0.192238,"0,1 à 1 mL",intraventriculaire,3,10,11,11,10.57,330.31,125.24
+ID_39e94772_ID_f1a5ef6a24,test,1,1907,1.185478,1 à 5 mL,sous-dural,5,17,23,19,19.17,209.01,338.94
+ID_39e94772_ID_f1a5ef6a24,test,2,910,0.565697,"0,1 à 1 mL",sous-dural,5,10,15,14,13.28,207.98,332.74
+ID_39e94772_ID_f1a5ef6a24,test,3,53,0.032947,"< 0,1 mL",sous-dural,5,22,23,22,22.45,219.81,335.62
+ID_39e94772_ID_f1a5ef6a24,test,4,61,0.03792,"< 0,1 mL",sous-dural,5,30,30,30,30.0,237.67,254.46
+ID_3bda60be_ID_067209cc9a,test,1,350,0.217545,"0,1 à 1 mL",intraparenchymateux,2,17,17,17,17.0,133.74,205.81
+ID_3bda60be_ID_067209cc9a,test,2,56,0.034807,"< 0,1 mL",intraparenchymateux,2,13,13,13,13.0,132.0,301.77
+ID_3bda60be_ID_067209cc9a,test,3,67,0.041644,"< 0,1 mL",intraparenchymateux,2,22,22,22,22.0,135.24,213.22
+ID_3bda60be_ID_067209cc9a,test,4,3056,1.899476,1 à 5 mL,intraparenchymateux,2,18,19,18,18.5,166.67,173.74
+ID_3bda60be_ID_067209cc9a,test,5,180,0.11188,"0,1 à 1 mL",intraventriculaire,3,23,23,23,23.0,159.53,166.68
+ID_3bda60be_ID_067209cc9a,test,6,1910,1.187172,1 à 5 mL,intraventriculaire,3,21,23,23,22.12,197.84,173.75
+ID_3bda60be_ID_067209cc9a,test,7,1129,0.701737,"0,1 à 1 mL",intraparenchymateux,2,22,23,23,22.51,214.23,117.91
+ID_3bda60be_ID_067209cc9a,test,8,1041,0.64704,"0,1 à 1 mL",intraventriculaire,3,21,24,24,22.99,226.07,293.62
+ID_3bda60be_ID_067209cc9a,test,9,2015,1.252436,1 à 5 mL,intraparenchymateux,2,25,28,26,26.56,241.28,328.32
+ID_3bda60be_ID_067209cc9a,test,10,897,0.557536,"0,1 à 1 mL",intraventriculaire,3,23,25,24,24.15,283.98,189.21
+ID_3bda60be_ID_067209cc9a,test,11,91,0.056562,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,284.41,241.96
+ID_3bda60be_ID_067209cc9a,test,12,92,0.057183,"< 0,1 mL",sous-arachnoïdien,4,28,28,28,28.0,290.38,240.0
+ID_3bda60be_ID_067209cc9a,test,13,270,0.16782,"0,1 à 1 mL",sous-arachnoïdien,4,28,29,28,28.38,311.32,211.47
+ID_3bda60be_ID_067209cc9a,test,14,149,0.092612,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,305.17,240.25
+ID_3bda60be_ID_067209cc9a,test,15,223,0.138607,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,320.58,226.26
+ID_3be7cc35_ID_cf2643c5a8,test,1,24836,15.105377,> 5 mL,épidural,1,11,26,19,19.25,147.71,318.95
+ID_3be7cc35_ID_cf2643c5a8,test,2,296,0.180029,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,111.96,204.52
+ID_3be7cc35_ID_cf2643c5a8,test,3,53,0.032235,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,117.87,265.57
+ID_3be7cc35_ID_cf2643c5a8,test,4,114,0.069335,"< 0,1 mL",sous-arachnoïdien,4,29,29,29,29.0,122.41,186.95
+ID_3be7cc35_ID_cf2643c5a8,test,5,453,0.275517,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,122.69,322.59
+ID_3be7cc35_ID_cf2643c5a8,test,6,179,0.108869,"0,1 à 1 mL",sous-dural,5,27,27,27,27.0,129.99,286.46
+ID_3be7cc35_ID_cf2643c5a8,test,7,118,0.071768,"< 0,1 mL",sous-arachnoïdien,4,30,30,30,30.0,138.61,219.48
+ID_3be7cc35_ID_cf2643c5a8,test,8,91,0.055347,"< 0,1 mL",sous-arachnoïdien,4,31,31,31,31.0,146.76,182.42
+ID_3be7cc35_ID_cf2643c5a8,test,9,764,0.464669,"0,1 à 1 mL",sous-arachnoïdien,4,29,31,30,30.31,172.18,153.96
+ID_3be7cc35_ID_cf2643c5a8,test,10,65,0.039533,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,152.42,276.38
+ID_3be7cc35_ID_cf2643c5a8,test,11,197,0.119816,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,174.87,215.32
+ID_3be7cc35_ID_cf2643c5a8,test,12,240,0.145969,"0,1 à 1 mL",sous-arachnoïdien,4,32,32,32,32.0,187.37,196.05
+ID_3be7cc35_ID_cf2643c5a8,test,13,521,0.316875,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,192.4,256.22
+ID_3be7cc35_ID_cf2643c5a8,test,14,89,0.05413,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,178.67,222.48
+ID_3be7cc35_ID_cf2643c5a8,test,15,58,0.035276,"< 0,1 mL",sous-arachnoïdien,4,32,32,32,32.0,187.93,230.12
+ID_3be7cc35_ID_cf2643c5a8,test,16,2110,1.283312,1 à 5 mL,sous-arachnoïdien,4,10,14,11,11.75,214.48,281.06
+ID_3be7cc35_ID_cf2643c5a8,test,17,1466,0.891628,"0,1 à 1 mL",sous-arachnoïdien,4,12,17,15,14.98,216.78,270.63
+ID_3be7cc35_ID_cf2643c5a8,test,18,541,0.329039,"0,1 à 1 mL",sous-arachnoïdien,4,25,29,27,26.75,226.48,287.95
+ID_3be7cc35_ID_cf2643c5a8,test,19,48,0.029194,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,221.08,328.79
+ID_3be7cc35_ID_cf2643c5a8,test,20,52,0.031627,"< 0,1 mL",sous-arachnoïdien,4,29,29,29,29.0,225.79,264.54
+ID_3be7cc35_ID_cf2643c5a8,test,21,97,0.058996,"< 0,1 mL",sous-arachnoïdien,4,31,31,31,31.0,235.56,263.99
+ID_3be7cc35_ID_cf2643c5a8,test,22,107,0.065078,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,243.05,237.33
+ID_3be7cc35_ID_cf2643c5a8,test,23,76,0.046224,"< 0,1 mL",sous-arachnoïdien,4,31,31,31,31.0,243.07,241.97
+ID_3be7cc35_ID_cf2643c5a8,test,24,1299,0.790058,"0,1 à 1 mL",sous-arachnoïdien,4,8,11,9,9.3,258.81,220.94
+ID_3be7cc35_ID_cf2643c5a8,test,25,101,0.061429,"< 0,1 mL",sous-arachnoïdien,4,32,32,32,32.0,250.67,225.24
+ID_3be7cc35_ID_cf2643c5a8,test,26,99,0.060212,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,250.88,349.6
+ID_3be7cc35_ID_cf2643c5a8,test,27,175,0.106436,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,11,11.38,253.92,298.74
+ID_3be7cc35_ID_cf2643c5a8,test,28,252,0.153268,"0,1 à 1 mL",sous-arachnoïdien,4,31,31,31,31.0,269.27,228.54
+ID_3be7cc35_ID_cf2643c5a8,test,29,87,0.052914,"< 0,1 mL",sous-arachnoïdien,4,31,31,31,31.0,270.89,194.03
+ID_3be7cc35_ID_cf2643c5a8,test,30,536,0.325998,"0,1 à 1 mL",sous-arachnoïdien,4,13,15,13,13.82,277.07,304.17
+ID_3dab46e7_ID_e837f87e46,test,1,36937,41.647214,> 5 mL,intraparenchymateux,2,10,19,16,15.0,234.56,205.25
+ID_3dab46e7_ID_e837f87e46,test,2,32,0.036081,"< 0,1 mL",intraparenchymateux,2,15,15,15,15.0,242.69,255.31
+ID_3dab46e7_ID_e837f87e46,test,3,276,0.311196,"0,1 à 1 mL",intraventriculaire,3,3,9,6,6.74,275.15,211.39
+ID_3dab46e7_ID_e837f87e46,test,4,42,0.047356,"< 0,1 mL",intraventriculaire,3,12,12,12,12.0,278.62,239.6
+ID_3dab46e7_ID_e837f87e46,test,5,69,0.077799,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,285.23,280.42
+ID_3dab46e7_ID_e837f87e46,test,6,330,0.372082,"0,1 à 1 mL",intraventriculaire,3,14,15,15,14.52,294.25,259.09
+ID_3dab46e7_ID_e837f87e46,test,7,1098,1.238017,1 à 5 mL,intraventriculaire,3,11,15,12,12.6,341.0,156.86
+ID_4681a956_ID_5b133aa2c0,test,1,34,0.043714,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,137.82,241.09
+ID_4681a956_ID_5b133aa2c0,test,2,27,0.034714,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,139.41,184.19
+ID_4681a956_ID_5b133aa2c0,test,3,76,0.097714,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,150.79,264.64
+ID_4681a956_ID_5b133aa2c0,test,4,691,0.888428,"0,1 à 1 mL",sous-arachnoïdien,4,10,15,11,12.07,161.12,259.06
+ID_4681a956_ID_5b133aa2c0,test,5,297,0.381857,"0,1 à 1 mL",sous-arachnoïdien,4,8,10,9,9.12,163.11,311.62
+ID_4681a956_ID_5b133aa2c0,test,6,31117,40.007538,> 5 mL,intraparenchymateux,2,7,14,11,10.09,248.5,247.78
+ID_4681a956_ID_5b133aa2c0,test,7,191,0.245571,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,203.1,207.2
+ID_4681a956_ID_5b133aa2c0,test,8,1814,2.332284,1 à 5 mL,intraventriculaire,3,5,9,8,7.33,232.32,170.66
+ID_4681a956_ID_5b133aa2c0,test,9,179,0.230143,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,224.4,184.94
+ID_4681a956_ID_5b133aa2c0,test,10,460,0.591428,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,12,11.73,263.31,186.74
+ID_4681a956_ID_5b133aa2c0,test,11,275,0.353571,"0,1 à 1 mL",intraventriculaire,3,15,15,15,15.0,275.9,113.63
+ID_4681a956_ID_5b133aa2c0,test,12,53,0.068143,"< 0,1 mL",intraventriculaire,3,16,16,16,16.0,292.53,145.85
+ID_4681a956_ID_5b133aa2c0,test,13,38,0.048857,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,322.0,202.63
+ID_4681a956_ID_5b133aa2c0,test,14,971,1.248428,1 à 5 mL,sous-arachnoïdien,4,8,12,10,9.84,332.26,261.19
+ID_4681a956_ID_5b133aa2c0,test,15,126,0.162,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.63,331.73,240.12
+ID_4681a956_ID_5b133aa2c0,test,16,85,0.109286,"0,1 à 1 mL",sous-arachnoïdien,4,13,13,13,13.0,347.08,217.54
+ID_46cd34ad_ID_3003623499,test,1,3805,4.656912,1 à 5 mL,intraparenchymateux,2,21,25,23,22.94,204.46,243.5
+ID_46cd34ad_ID_3003623499,test,2,238,0.291286,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,213.3,271.43
+ID_46cd34ad_ID_3003623499,test,3,2627,3.215166,1 à 5 mL,sous-arachnoïdien,4,12,12,12,12.0,275.86,240.08
+ID_4a16396b_ID_1f3e0c2c5c,test,1,62842,74.913502,> 5 mL,intraparenchymateux,2,13,21,18,17.15,241.78,256.66
+ID_4a16396b_ID_1f3e0c2c5c,test,2,1240,1.478195,1 à 5 mL,intraventriculaire,3,7,9,8,8.04,235.83,207.88
+ID_4e227c9c_ID_d8607fa88e,test,1,612,0.588882,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,151.74,202.61
+ID_4e227c9c_ID_d8607fa88e,test,2,320,0.307912,"0,1 à 1 mL",sous-arachnoïdien,4,7,7,7,7.0,149.33,327.84
+ID_4e227c9c_ID_d8607fa88e,test,3,905,0.870815,"0,1 à 1 mL",sous-dural,5,5,5,5,5.0,164.07,315.94
+ID_4e227c9c_ID_d8607fa88e,test,4,11562,11.125259,> 5 mL,intraparenchymateux,2,17,22,19,19.58,186.61,133.76
+ID_4e227c9c_ID_d8607fa88e,test,5,320,0.307912,"0,1 à 1 mL",intraparenchymateux,2,10,10,10,10.0,226.04,430.52
+ID_4e227c9c_ID_d8607fa88e,test,6,5768,5.550121,> 5 mL,intraparenchymateux,2,8,10,8,8.3,255.78,397.6
+ID_4e227c9c_ID_d8607fa88e,test,7,696,0.669709,"0,1 à 1 mL",intraparenchymateux,2,13,14,13,13.42,318.65,416.9
+ID_5117f9bf_ID_14d96feecf,test,1,583,0.543104,"0,1 à 1 mL",intraparenchymateux,2,17,22,22,20.26,218.45,287.66
+ID_5117f9bf_ID_14d96feecf,test,2,43,0.040057,"< 0,1 mL",intraparenchymateux,2,17,17,17,17.0,241.77,274.0
+ID_5117f9bf_ID_14d96feecf,test,3,643,0.598998,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,274.67,295.48
+ID_5117f9bf_ID_14d96feecf,test,4,59,0.054963,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,287.56,330.03
+ID_5117f9bf_ID_14d96feecf,test,5,186,0.173272,"0,1 à 1 mL",intraventriculaire,3,16,17,16,16.49,327.87,128.6
+ID_5117f9bf_ID_14d96feecf,test,6,1953,1.819353,1 à 5 mL,sous-arachnoïdien,4,13,17,14,14.67,366.7,277.89
+ID_55742eb7_ID_7d5ad548ca,test,1,73,0.087023,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,130.12,259.78
+ID_55742eb7_ID_7d5ad548ca,test,2,92,0.109673,"0,1 à 1 mL",intraparenchymateux,2,9,9,9,9.0,144.83,269.02
+ID_55742eb7_ID_7d5ad548ca,test,3,231,0.275373,"0,1 à 1 mL",sous-arachnoïdien,4,9,10,9,9.37,153.34,220.24
+ID_55742eb7_ID_7d5ad548ca,test,4,201,0.239611,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,21,20.55,151.52,197.53
+ID_55742eb7_ID_7d5ad548ca,test,5,4187,4.991293,1 à 5 mL,sous-dural,5,14,23,20,18.57,186.75,122.54
+ID_55742eb7_ID_7d5ad548ca,test,6,95,0.113249,"0,1 à 1 mL",intraparenchymateux,2,11,11,11,11.0,158.12,265.2
+ID_55742eb7_ID_7d5ad548ca,test,7,103,0.122786,"0,1 à 1 mL",intraparenchymateux,2,9,9,9,9.0,160.4,312.14
+ID_55742eb7_ID_7d5ad548ca,test,8,258,0.30756,"0,1 à 1 mL",intraparenchymateux,2,8,9,9,8.67,165.67,292.29
+ID_55742eb7_ID_7d5ad548ca,test,9,102,0.121593,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,161.06,337.5
+ID_55742eb7_ID_7d5ad548ca,test,10,38,0.0453,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,160.42,336.05
+ID_55742eb7_ID_7d5ad548ca,test,11,41,0.048876,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,163.17,317.15
+ID_55742eb7_ID_7d5ad548ca,test,12,317,0.377893,"0,1 à 1 mL",sous-dural,5,24,24,24,24.0,204.05,146.61
+ID_55742eb7_ID_7d5ad548ca,test,13,41,0.048876,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,193.83,178.73
+ID_55742eb7_ID_7d5ad548ca,test,14,28,0.033379,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,319.96,168.61
+ID_56faaf6f_ID_dd8f688dff,test,1,3259,0.388503,"0,1 à 1 mL",sous-dural,5,31,37,31,32.7,172.27,340.12
+ID_56faaf6f_ID_dd8f688dff,test,2,1831,0.218272,"0,1 à 1 mL",sous-dural,5,27,27,27,27.0,189.72,388.76
+ID_56faaf6f_ID_dd8f688dff,test,3,2453,0.29242,"0,1 à 1 mL",sous-arachnoïdien,4,26,33,27,29.37,192.49,280.26
+ID_56faaf6f_ID_dd8f688dff,test,4,1346,0.160456,"0,1 à 1 mL",sous-dural,5,25,25,25,25.0,191.23,396.52
+ID_56faaf6f_ID_dd8f688dff,test,5,351,0.041842,"< 0,1 mL",sous-dural,5,38,39,39,38.61,181.28,281.78
+ID_56faaf6f_ID_dd8f688dff,test,6,13331,1.589177,1 à 5 mL,sous-arachnoïdien,4,19,29,24,22.91,268.0,315.43
+ID_56faaf6f_ID_dd8f688dff,test,7,3148,0.37527,"0,1 à 1 mL",intraparenchymateux,2,19,20,19,19.35,217.42,386.16
+ID_56faaf6f_ID_dd8f688dff,test,8,111,0.013232,"< 0,1 mL",sous-dural,5,40,40,40,40.0,191.85,258.03
+ID_56faaf6f_ID_dd8f688dff,test,9,132,0.015736,"< 0,1 mL",sous-dural,5,22,22,22,22.0,197.47,402.03
+ID_56faaf6f_ID_dd8f688dff,test,10,102,0.012159,"< 0,1 mL",sous-arachnoïdien,4,40,40,40,40.0,213.47,208.74
+ID_56faaf6f_ID_dd8f688dff,test,11,105,0.012517,"< 0,1 mL",sous-arachnoïdien,4,41,41,41,41.0,219.66,201.31
+ID_56faaf6f_ID_dd8f688dff,test,12,748,0.089168,"< 0,1 mL",sous-dural,5,22,23,23,22.74,244.67,431.52
+ID_56faaf6f_ID_dd8f688dff,test,13,498,0.059366,"< 0,1 mL",sous-arachnoïdien,4,30,30,30,30.0,251.02,220.18
+ID_56faaf6f_ID_dd8f688dff,test,14,142,0.016928,"< 0,1 mL",sous-arachnoïdien,4,28,28,28,28.0,233.13,241.12
+ID_56faaf6f_ID_dd8f688dff,test,15,151,0.018001,"< 0,1 mL",sous-dural,5,20,20,20,20.0,253.34,434.54
+ID_56faaf6f_ID_dd8f688dff,test,16,1244,0.148296,"0,1 à 1 mL",sous-arachnoïdien,4,1,2,1,1.5,273.48,225.57
+ID_56faaf6f_ID_dd8f688dff,test,17,158,0.018835,"< 0,1 mL",sous-arachnoïdien,4,38,40,38,38.86,261.53,282.13
+ID_56faaf6f_ID_dd8f688dff,test,18,2924,0.348568,"0,1 à 1 mL",sous-arachnoïdien,4,7,13,10,9.91,275.62,255.47
+ID_56faaf6f_ID_dd8f688dff,test,19,88,0.01049,"< 0,1 mL",sous-arachnoïdien,4,34,34,34,34.0,263.89,361.18
+ID_56faaf6f_ID_dd8f688dff,test,20,507,0.060439,"< 0,1 mL",intraparenchymateux,2,16,17,17,16.51,274.16,348.43
+ID_56faaf6f_ID_dd8f688dff,test,21,607,0.07236,"< 0,1 mL",sous-arachnoïdien,4,4,5,4,4.35,276.92,233.81
+ID_56faaf6f_ID_dd8f688dff,test,22,169,0.020146,"< 0,1 mL",sous-arachnoïdien,4,35,36,35,35.12,284.54,334.81
+ID_56faaf6f_ID_dd8f688dff,test,23,102,0.012159,"< 0,1 mL",sous-arachnoïdien,4,38,38,38,38.0,290.71,282.21
+ID_56faaf6f_ID_dd8f688dff,test,24,334,0.039816,"< 0,1 mL",sous-arachnoïdien,4,30,32,31,30.98,289.44,379.1
+ID_56faaf6f_ID_dd8f688dff,test,25,117,0.013947,"< 0,1 mL",sous-arachnoïdien,4,40,40,40,40.0,283.79,282.79
+ID_56faaf6f_ID_dd8f688dff,test,26,123,0.014663,"< 0,1 mL",sous-arachnoïdien,4,33,33,33,33.0,291.3,357.13
+ID_56faaf6f_ID_dd8f688dff,test,27,177,0.0211,"< 0,1 mL",sous-arachnoïdien,4,40,40,40,40.0,295.07,189.73
+ID_56faaf6f_ID_dd8f688dff,test,28,90,0.010729,"< 0,1 mL",sous-arachnoïdien,4,39,39,39,39.0,298.13,197.37
+ID_56faaf6f_ID_dd8f688dff,test,29,95,0.011325,"< 0,1 mL",sous-arachnoïdien,4,43,43,43,43.0,303.04,252.97
+ID_56faaf6f_ID_dd8f688dff,test,30,199,0.023723,"< 0,1 mL",sous-arachnoïdien,4,41,41,41,41.0,316.63,211.23
+ID_56faaf6f_ID_dd8f688dff,test,31,409,0.048757,"< 0,1 mL",sous-arachnoïdien,4,40,43,41,41.24,342.83,175.12
+ID_56faaf6f_ID_dd8f688dff,test,32,737,0.087857,"< 0,1 mL",sous-arachnoïdien,4,20,21,20,20.26,343.72,314.5
+ID_56faaf6f_ID_dd8f688dff,test,33,492,0.058651,"< 0,1 mL",sous-arachnoïdien,4,28,28,28,28.0,366.29,291.36
+ID_56faaf6f_ID_dd8f688dff,test,34,415,0.049472,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,357.0,304.72
+ID_56faaf6f_ID_dd8f688dff,test,35,158,0.018835,"< 0,1 mL",sous-arachnoïdien,4,37,37,37,37.0,365.37,279.77
+ID_56faaf6f_ID_dd8f688dff,test,36,272,0.032425,"< 0,1 mL",sous-arachnoïdien,4,30,30,30,30.0,363.14,280.27
+ID_56faaf6f_ID_dd8f688dff,test,37,173,0.020623,"< 0,1 mL",sous-arachnoïdien,4,38,39,38,38.43,377.51,185.62
+ID_58d2ebfa_ID_76487f508f,test,1,29573,31.682698,> 5 mL,intraparenchymateux,2,13,21,16,16.9,195.27,290.6
+ID_5910d129_ID_094eb98167,test,1,13542,16.583939,> 5 mL,épidural,1,14,27,21,19.26,150.22,236.63
+ID_5910d129_ID_094eb98167,test,2,320,0.391882,"0,1 à 1 mL",sous-arachnoïdien,4,21,25,22,22.85,165.25,273.39
+ID_5910d129_ID_094eb98167,test,3,435,0.532714,"0,1 à 1 mL",sous-arachnoïdien,4,20,23,21,21.2,175.67,299.57
+ID_5910d129_ID_094eb98167,test,4,681,0.833973,"0,1 à 1 mL",sous-arachnoïdien,4,17,21,20,18.7,197.01,253.13
+ID_5910d129_ID_094eb98167,test,5,79,0.096746,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,175.92,246.49
+ID_5910d129_ID_094eb98167,test,6,167,0.204513,"0,1 à 1 mL",sous-arachnoïdien,4,24,25,25,24.59,187.56,215.56
+ID_5910d129_ID_094eb98167,test,7,5566,6.816291,> 5 mL,intraparenchymateux,2,11,14,13,12.48,207.48,290.25
+ID_5910d129_ID_094eb98167,test,8,57,0.069804,"< 0,1 mL",épidural,1,28,28,28,28.0,185.3,228.77
+ID_5910d129_ID_094eb98167,test,9,45,0.055108,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,194.13,231.87
+ID_5910d129_ID_094eb98167,test,10,150,0.183694,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.42,201.58,270.42
+ID_5910d129_ID_094eb98167,test,11,38,0.046536,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,200.45,208.79
+ID_5910d129_ID_094eb98167,test,12,2011,2.462731,1 à 5 mL,intraparenchymateux,2,25,28,27,26.51,254.85,288.45
+ID_5910d129_ID_094eb98167,test,13,90,0.110217,"0,1 à 1 mL",intraventriculaire,3,14,15,14,14.4,237.28,186.91
+ID_5910d129_ID_094eb98167,test,14,97,0.118789,"0,1 à 1 mL",intraventriculaire,3,14,14,14,14.0,246.62,164.71
+ID_5910d129_ID_094eb98167,test,15,71,0.086949,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,256.04,205.32
+ID_5910d129_ID_094eb98167,test,16,24,0.029391,"< 0,1 mL",sous-arachnoïdien,4,22,22,22,22.0,269.92,349.58
+ID_5910d129_ID_094eb98167,test,17,610,0.747024,"0,1 à 1 mL",intraventriculaire,3,19,22,20,19.9,282.53,273.4
+ID_5910d129_ID_094eb98167,test,18,57,0.069804,"< 0,1 mL",sous-arachnoïdien,4,22,23,23,22.67,297.11,356.63
+ID_5910d129_ID_094eb98167,test,19,30,0.036739,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,300.13,331.63
+ID_5910d129_ID_094eb98167,test,20,877,1.074001,1 à 5 mL,intraventriculaire,3,14,17,15,15.1,331.48,177.02
+ID_5910d129_ID_094eb98167,test,21,1921,2.352514,1 à 5 mL,sous-arachnoïdien,4,15,18,16,16.24,374.58,278.37
+ID_5910d129_ID_094eb98167,test,22,83,0.101644,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,400.42,275.94
+ID_5910d129_ID_094eb98167,test,23,38,0.046536,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,397.39,294.42
+ID_5adb32dc_ID_35dd6d3d56,test,1,3467,4.638032,1 à 5 mL,intraventriculaire,3,16,20,17,17.35,206.96,134.12
+ID_5adb32dc_ID_35dd6d3d56,test,2,17993,24.07041,> 5 mL,intraventriculaire,3,10,21,16,16.67,261.52,247.36
+ID_5adb32dc_ID_35dd6d3d56,test,3,3811,5.098223,> 5 mL,intraventriculaire,3,15,20,16,17.27,299.81,125.07
+ID_5ca2154a_ID_d4984e0dcc,test,1,26310,16.913557,> 5 mL,épidural,1,21,33,27,26.66,370.34,219.04
+ID_63862d24_ID_24f0f2ff02,test,1,455,0.280205,"0,1 à 1 mL",intraventriculaire,3,41,43,42,41.86,249.71,260.51
+ID_63862d24_ID_24f0f2ff02,test,2,8595,5.293098,> 5 mL,sous-dural,5,32,49,47,42.76,363.81,253.52
+ID_66a9a60e_ID_3a4f389a07,test,1,52941,64.794103,> 5 mL,sous-arachnoïdien,4,16,35,25,26.07,268.1,289.89
+ID_66a9a60e_ID_3a4f389a07,test,2,174,0.212957,"0,1 à 1 mL",sous-arachnoïdien,4,33,33,33,33.0,162.63,243.72
+ID_66a9a60e_ID_3a4f389a07,test,3,84,0.102807,"0,1 à 1 mL",sous-arachnoïdien,4,31,31,31,31.0,164.07,235.48
+ID_66a9a60e_ID_3a4f389a07,test,4,602,0.736783,"0,1 à 1 mL",sous-arachnoïdien,4,33,35,34,34.01,189.23,250.25
+ID_66a9a60e_ID_3a4f389a07,test,5,79,0.096688,"< 0,1 mL",sous-arachnoïdien,4,33,33,33,33.0,180.29,177.32
+ID_66a9a60e_ID_3a4f389a07,test,6,358,0.438154,"0,1 à 1 mL",sous-arachnoïdien,4,37,38,38,37.65,215.59,257.82
+ID_66a9a60e_ID_3a4f389a07,test,7,107,0.130957,"0,1 à 1 mL",sous-arachnoïdien,4,33,33,33,33.0,210.14,358.91
+ID_66a9a60e_ID_3a4f389a07,test,8,364,0.445497,"0,1 à 1 mL",sous-arachnoïdien,4,25,26,26,25.58,217.71,360.41
+ID_66a9a60e_ID_3a4f389a07,test,9,523,0.640096,"0,1 à 1 mL",intraventriculaire,3,27,29,28,28.1,221.01,200.06
+ID_66a9a60e_ID_3a4f389a07,test,10,126,0.15421,"0,1 à 1 mL",sous-arachnoïdien,4,38,38,38,38.0,219.33,286.37
+ID_66a9a60e_ID_3a4f389a07,test,11,51,0.062419,"< 0,1 mL",sous-arachnoïdien,4,39,39,39,39.0,216.84,213.59
+ID_66a9a60e_ID_3a4f389a07,test,12,218,0.266809,"0,1 à 1 mL",intraventriculaire,3,27,27,27,27.0,222.19,152.51
+ID_66a9a60e_ID_3a4f389a07,test,13,247,0.302301,"0,1 à 1 mL",sous-arachnoïdien,4,38,40,39,39.06,233.95,214.76
+ID_66a9a60e_ID_3a4f389a07,test,14,83,0.101583,"0,1 à 1 mL",sous-arachnoïdien,4,36,36,36,36.0,249.13,250.76
+ID_66a9a60e_ID_3a4f389a07,test,15,64,0.078329,"< 0,1 mL",sous-arachnoïdien,4,36,36,36,36.0,254.55,321.12
+ID_66a9a60e_ID_3a4f389a07,test,16,325,0.397765,"0,1 à 1 mL",sous-arachnoïdien,4,9,11,10,9.94,275.1,232.54
+ID_66a9a60e_ID_3a4f389a07,test,17,109,0.133404,"0,1 à 1 mL",intraventriculaire,3,27,28,27,27.35,265.92,279.04
+ID_66a9a60e_ID_3a4f389a07,test,18,43,0.052627,"< 0,1 mL",sous-arachnoïdien,4,36,36,36,36.0,274.88,244.44
+ID_66a9a60e_ID_3a4f389a07,test,19,108,0.13218,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,279.78,176.04
+ID_66a9a60e_ID_3a4f389a07,test,20,196,0.239883,"0,1 à 1 mL",sous-arachnoïdien,4,27,27,27,27.0,307.91,224.34
+ID_66a9a60e_ID_3a4f389a07,test,21,170,0.208062,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,305.2,352.71
+ID_66a9a60e_ID_3a4f389a07,test,22,1178,1.441746,1 à 5 mL,intraventriculaire,3,26,30,27,27.96,313.11,183.47
+ID_66a9a60e_ID_3a4f389a07,test,23,428,0.523826,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,330.85,353.89
+ID_66a9a60e_ID_3a4f389a07,test,24,134,0.164002,"0,1 à 1 mL",sous-arachnoïdien,4,36,36,36,36.0,344.73,235.88
+ID_66a9a60e_ID_3a4f389a07,test,25,141,0.172569,"0,1 à 1 mL",sous-arachnoïdien,4,33,33,33,33.0,353.99,307.67
+ID_66a9a60e_ID_3a4f389a07,test,26,173,0.211733,"0,1 à 1 mL",sous-arachnoïdien,4,35,35,35,35.0,361.53,215.5
+ID_66a9a60e_ID_3a4f389a07,test,27,173,0.211733,"0,1 à 1 mL",sous-arachnoïdien,4,32,32,32,32.0,369.79,183.9
+ID_66a9a60e_ID_3a4f389a07,test,28,111,0.135852,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,382.43,204.83
+ID_693f2d48_ID_06a88c0e8b,test,1,74,0.132357,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,178.45,191.11
+ID_693f2d48_ID_06a88c0e8b,test,2,71,0.126992,"0,1 à 1 mL",sous-arachnoïdien,4,13,14,13,13.25,193.72,184.24
+ID_693f2d48_ID_06a88c0e8b,test,3,12457,22.280767,> 5 mL,intraparenchymateux,2,9,14,11,10.98,245.33,222.91
+ID_693f2d48_ID_06a88c0e8b,test,4,377,0.674308,"0,1 à 1 mL",intraventriculaire,3,11,14,14,13.29,330.88,192.06
+ID_6bb6dd02_ID_dd6370b417,test,1,1041,1.268766,1 à 5 mL,intraparenchymateux,2,19,22,21,20.84,187.98,330.44
+ID_6bb6dd02_ID_dd6370b417,test,2,488,0.594772,"0,1 à 1 mL",intraventriculaire,3,13,14,14,13.77,212.77,157.51
+ID_6bb6dd02_ID_dd6370b417,test,3,2186,2.664287,1 à 5 mL,intraparenchymateux,2,6,8,7,6.68,284.73,204.57
+ID_6bb6dd02_ID_dd6370b417,test,4,380,0.463142,"0,1 à 1 mL",intraventriculaire,3,14,15,14,14.46,296.59,134.52
+ID_6c70bf18_ID_3915fd7d41,test,1,10007,8.987801,> 5 mL,intraparenchymateux,2,7,9,8,7.6,269.11,155.16
+ID_6c70bf18_ID_3915fd7d41,test,2,9472,8.50729,> 5 mL,intraparenchymateux,2,16,20,18,18.41,357.33,184.71
+ID_6c70bf18_ID_3915fd7d41,test,3,111,0.099695,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,374.9,240.15
+ID_6c70bf18_ID_3915fd7d41,test,4,12,0.010778,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,357.42,193.08
+ID_6c70bf18_ID_3915fd7d41,test,5,26,0.023352,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,393.23,209.65
+ID_6c85adda_ID_86bc0ab248,test,1,95,0.114834,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,244.6,322.2
+ID_6c85adda_ID_86bc0ab248,test,2,109,0.131757,"0,1 à 1 mL",sous-arachnoïdien,4,17,18,17,17.42,254.55,338.06
+ID_6c85adda_ID_86bc0ab248,test,3,154,0.186152,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.44,262.52,355.26
+ID_6c85adda_ID_86bc0ab248,test,4,150,0.181317,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,262.22,305.1
+ID_6c85adda_ID_86bc0ab248,test,5,91,0.109999,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,276.74,313.92
+ID_6c85adda_ID_86bc0ab248,test,6,337,0.407359,"0,1 à 1 mL",sous-arachnoïdien,4,16,18,18,17.17,292.65,340.91
+ID_6c85adda_ID_86bc0ab248,test,7,158,0.190987,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,15,14.61,303.54,349.22
+ID_75448f16_ID_780b14c9d7,test,1,10694,13.482527,> 5 mL,sous-arachnoïdien,4,8,14,10,10.85,242.03,275.51
+ID_75448f16_ID_780b14c9d7,test,2,129,0.162638,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,175.98,334.77
+ID_75448f16_ID_780b14c9d7,test,3,732,0.922874,"0,1 à 1 mL",intraventriculaire,3,14,16,14,14.84,186.01,178.59
+ID_75448f16_ID_780b14c9d7,test,4,155,0.195417,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,188.59,342.08
+ID_75448f16_ID_780b14c9d7,test,5,128,0.161377,"0,1 à 1 mL",sous-dural,5,19,19,19,19.0,195.89,380.87
+ID_75448f16_ID_780b14c9d7,test,6,667,0.840924,"0,1 à 1 mL",sous-dural,5,20,22,21,20.81,206.07,362.04
+ID_75448f16_ID_780b14c9d7,test,7,4040,5.093455,> 5 mL,sous-arachnoïdien,4,9,16,14,12.08,217.95,221.01
+ID_75448f16_ID_780b14c9d7,test,8,131,0.165159,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.6,211.79,290.95
+ID_75448f16_ID_780b14c9d7,test,9,110,0.138683,"0,1 à 1 mL",sous-dural,5,23,23,23,23.0,221.36,344.13
+ID_75448f16_ID_780b14c9d7,test,10,1167,1.471303,1 à 5 mL,sous-arachnoïdien,4,3,6,6,5.14,255.1,266.13
+ID_75448f16_ID_780b14c9d7,test,11,134,0.168941,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,250.24,362.13
+ID_75448f16_ID_780b14c9d7,test,12,179,0.225675,"0,1 à 1 mL",intraventriculaire,3,6,8,8,7.4,253.55,217.11
+ID_75448f16_ID_780b14c9d7,test,13,303,0.382009,"0,1 à 1 mL",sous-arachnoïdien,4,3,3,3,3.0,270.5,242.35
+ID_75448f16_ID_780b14c9d7,test,14,3232,4.074764,1 à 5 mL,sous-arachnoïdien,4,7,9,8,8.11,333.78,327.11
+ID_75448f16_ID_780b14c9d7,test,15,818,1.031299,1 à 5 mL,intraventriculaire,3,14,16,15,14.96,299.01,163.55
+ID_75448f16_ID_780b14c9d7,test,16,1057,1.332619,1 à 5 mL,sous-arachnoïdien,4,16,18,17,16.84,332.27,149.01
+ID_75448f16_ID_780b14c9d7,test,17,436,0.54969,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.35,323.28,398.48
+ID_75448f16_ID_780b14c9d7,test,18,8461,10.667259,> 5 mL,sous-arachnoïdien,4,12,22,16,16.34,355.77,215.14
+ID_75448f16_ID_780b14c9d7,test,19,625,0.787973,"0,1 à 1 mL",sous-arachnoïdien,4,11,13,12,11.66,336.92,327.35
+ID_75448f16_ID_780b14c9d7,test,20,1088,1.371703,1 à 5 mL,sous-arachnoïdien,4,18,21,19,19.4,357.33,234.74
+ID_75448f16_ID_780b14c9d7,test,21,5559,7.008544,> 5 mL,sous-arachnoïdien,4,14,23,16,17.52,362.71,306.76
+ID_75448f16_ID_780b14c9d7,test,22,159,0.20046,"0,1 à 1 mL",sous-arachnoïdien,4,9,9,9,9.0,349.1,293.16
+ID_75448f16_ID_780b14c9d7,test,23,561,0.707284,"0,1 à 1 mL",sous-arachnoïdien,4,10,12,11,11.08,360.36,378.15
+ID_75448f16_ID_780b14c9d7,test,24,259,0.326536,"0,1 à 1 mL",sous-dural,5,13,14,14,13.63,356.3,387.72
+ID_75448f16_ID_780b14c9d7,test,25,348,0.438743,"0,1 à 1 mL",sous-arachnoïdien,4,13,13,13,13.0,364.22,206.82
+ID_75448f16_ID_780b14c9d7,test,26,233,0.293756,"0,1 à 1 mL",sous-arachnoïdien,4,9,10,9,9.34,374.41,291.21
+ID_75448f16_ID_780b14c9d7,test,27,237,0.298799,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,19,19.44,380.54,272.19
+ID_77cd921b_ID_e0d0a5f299,test,1,32,0.041142,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,1.5,414.5
+ID_77cd921b_ID_e0d0a5f299,test,2,46356,59.599482,> 5 mL,sous-dural,5,8,25,21,18.43,173.79,184.06
+ID_77cd921b_ID_e0d0a5f299,test,3,36,0.046285,"< 0,1 mL",sous-dural,5,7,7,7,7.0,173.56,274.06
+ID_77cd921b_ID_e0d0a5f299,test,4,54,0.069427,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,189.39,179.3
+ID_77cd921b_ID_e0d0a5f299,test,5,43,0.055285,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,198.16,178.47
+ID_77cd921b_ID_e0d0a5f299,test,6,33,0.042428,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,205.12,194.97
+ID_77cd921b_ID_e0d0a5f299,test,7,18,0.023142,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,206.5,206.0
+ID_77cd921b_ID_e0d0a5f299,test,8,16,0.020571,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,209.31,164.69
+ID_77cd921b_ID_e0d0a5f299,test,9,95,0.122141,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,212.83,132.93
+ID_77cd921b_ID_e0d0a5f299,test,10,20,0.025714,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,212.25,169.25
+ID_77cd921b_ID_e0d0a5f299,test,11,91,0.116998,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.78,219.37,176.58
+ID_77cd921b_ID_e0d0a5f299,test,12,58,0.07457,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,220.07,196.57
+ID_77cd921b_ID_e0d0a5f299,test,13,291,0.374136,"0,1 à 1 mL",sous-dural,5,26,26,26,26.0,241.29,179.26
+ID_77cd921b_ID_e0d0a5f299,test,14,85,0.109284,"0,1 à 1 mL",sous-dural,5,18,18,18,18.0,281.59,88.41
+ID_77cd921b_ID_e0d0a5f299,test,15,129,0.165854,"0,1 à 1 mL",intraventriculaire,3,12,13,13,12.87,334.58,161.35
+ID_7860208e_ID_f68c193b69,test,1,104059,133.324142,> 5 mL,épidural,1,9,25,18,18.21,368.33,227.65
+ID_790acb3f_ID_c294f81468,test,1,4870,7.452024,> 5 mL,sous-dural,5,10,20,14,14.3,130.53,295.99
+ID_790acb3f_ID_c294f81468,test,2,2839,4.344209,1 à 5 mL,sous-dural,5,7,15,8,10.33,129.8,225.48
+ID_790acb3f_ID_c294f81468,test,3,156,0.23871,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,145.03,166.85
+ID_790acb3f_ID_c294f81468,test,4,50,0.076509,"< 0,1 mL",sous-dural,5,22,22,22,22.0,136.6,281.06
+ID_790acb3f_ID_c294f81468,test,5,44,0.067328,"< 0,1 mL",sous-dural,5,23,23,23,23.0,139.86,272.82
+ID_790acb3f_ID_c294f81468,test,6,231,0.353474,"0,1 à 1 mL",sous-dural,5,7,8,8,7.58,145.84,298.92
+ID_790acb3f_ID_c294f81468,test,7,6208,9.499418,> 5 mL,intraparenchymateux,2,15,20,20,18.6,165.1,143.97
+ID_790acb3f_ID_c294f81468,test,8,52,0.07957,"< 0,1 mL",sous-dural,5,24,24,24,24.0,145.35,269.65
+ID_790acb3f_ID_c294f81468,test,9,54,0.08263,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,223.63,191.98
+ID_790acb3f_ID_c294f81468,test,10,3304,5.055747,> 5 mL,intraparenchymateux,2,19,24,21,21.05,251.49,339.68
+ID_790acb3f_ID_c294f81468,test,11,43,0.065798,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,233.53,172.93
+ID_790acb3f_ID_c294f81468,test,12,30,0.045906,"< 0,1 mL",sous-arachnoïdien,4,27,27,27,27.0,233.77,280.27
+ID_790acb3f_ID_c294f81468,test,13,220,0.336642,"0,1 à 1 mL",sous-arachnoïdien,4,27,28,27,27.4,267.33,193.85
+ID_790acb3f_ID_c294f81468,test,14,20,0.030604,"< 0,1 mL",sous-arachnoïdien,4,28,28,28,28.0,252.75,261.05
+ID_790acb3f_ID_c294f81468,test,15,68,0.104053,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,261.53,198.51
+ID_790acb3f_ID_c294f81468,test,16,1492,2.283043,1 à 5 mL,intraventriculaire,3,14,18,16,15.83,273.85,144.16
+ID_790acb3f_ID_c294f81468,test,17,314,0.48048,"0,1 à 1 mL",intraparenchymateux,2,11,12,12,11.61,270.32,398.25
+ID_790acb3f_ID_c294f81468,test,18,150,0.229528,"0,1 à 1 mL",sous-arachnoïdien,4,26,28,27,27.13,272.99,138.65
+ID_790acb3f_ID_c294f81468,test,19,1351,2.067286,1 à 5 mL,intraparenchymateux,2,11,13,12,12.16,282.92,344.42
+ID_790acb3f_ID_c294f81468,test,20,118,0.180562,"0,1 à 1 mL",sous-arachnoïdien,4,25,26,25,25.27,290.13,211.66
+ID_790acb3f_ID_c294f81468,test,21,176,0.269313,"0,1 à 1 mL",intraparenchymateux,2,13,13,13,13.0,288.98,379.04
+ID_790acb3f_ID_c294f81468,test,22,22,0.033664,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,289.73,186.77
+ID_790acb3f_ID_c294f81468,test,23,42,0.064268,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,303.33,155.0
+ID_790acb3f_ID_c294f81468,test,24,73,0.111704,"0,1 à 1 mL",intraparenchymateux,2,19,19,19,19.0,303.21,323.97
+ID_790acb3f_ID_c294f81468,test,25,221,0.338172,"0,1 à 1 mL",intraparenchymateux,2,13,13,13,13.0,315.15,310.48
+ID_790acb3f_ID_c294f81468,test,26,42,0.064268,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,315.21,183.29
+ID_790acb3f_ID_c294f81468,test,27,2096,3.207278,1 à 5 mL,intraparenchymateux,2,13,16,15,14.76,337.05,236.83
+ID_7d5594ff_ID_cb535d3e8b,test,1,39,0.050143,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,168.36,152.74
+ID_7d5594ff_ID_cb535d3e8b,test,2,44,0.056571,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,171.61,175.86
+ID_7d5594ff_ID_cb535d3e8b,test,3,99,0.127286,"0,1 à 1 mL",sous-arachnoïdien,4,27,27,27,27.0,190.89,178.1
+ID_7d5594ff_ID_cb535d3e8b,test,4,31,0.039857,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,191.68,129.26
+ID_7d5594ff_ID_cb535d3e8b,test,5,36,0.046286,"< 0,1 mL",sous-arachnoïdien,4,7,7,7,7.0,191.08,224.97
+ID_7d5594ff_ID_cb535d3e8b,test,6,66,0.084857,"< 0,1 mL",sous-arachnoïdien,4,7,7,7,7.0,202.41,242.48
+ID_7d5594ff_ID_cb535d3e8b,test,7,18,0.023143,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,200.5,230.0
+ID_7d5594ff_ID_cb535d3e8b,test,8,7667,9.857556,> 5 mL,sous-arachnoïdien,4,0,6,5,3.65,235.6,241.84
+ID_7d5594ff_ID_cb535d3e8b,test,9,724,0.930856,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.52,233.29,285.39
+ID_7d5594ff_ID_cb535d3e8b,test,10,624,0.802284,"0,1 à 1 mL",intraventriculaire,3,8,10,9,8.88,242.68,210.68
+ID_7d5594ff_ID_cb535d3e8b,test,11,123,0.158143,"0,1 à 1 mL",intraventriculaire,3,14,14,14,14.0,239.93,243.96
+ID_7d5594ff_ID_cb535d3e8b,test,12,13,0.016714,"< 0,1 mL",sous-arachnoïdien,4,3,3,3,3.0,239.38,193.69
+ID_7d5594ff_ID_cb535d3e8b,test,13,42,0.054,"< 0,1 mL",sous-arachnoïdien,4,3,3,3,3.0,244.98,204.71
+ID_7d5594ff_ID_cb535d3e8b,test,14,75,0.096428,"< 0,1 mL",sous-arachnoïdien,4,0,1,0,0.41,249.19,211.09
+ID_7d5594ff_ID_cb535d3e8b,test,15,630,0.809999,"0,1 à 1 mL",intraventriculaire,3,15,17,17,16.35,290.57,179.29
+ID_7d5594ff_ID_cb535d3e8b,test,16,75,0.096428,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,294.04,182.68
+ID_7d5594ff_ID_cb535d3e8b,test,17,14,0.018,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,345.79,154.86
+ID_7d5594ff_ID_cb535d3e8b,test,18,20,0.025714,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,350.4,172.4
+ID_7db5845a_ID_0c7cd6982b,test,1,70,0.044844,"< 0,1 mL",intraparenchymateux,2,9,9,9,9.0,180.6,330.07
+ID_7db5845a_ID_0c7cd6982b,test,2,448,0.287002,"0,1 à 1 mL",intraventriculaire,3,21,22,22,21.64,214.8,185.23
+ID_7db5845a_ID_0c7cd6982b,test,3,6020,3.856588,1 à 5 mL,sous-dural,5,8,21,17,14.71,247.3,414.53
+ID_7db5845a_ID_0c7cd6982b,test,4,131,0.083922,"< 0,1 mL",intraventriculaire,3,23,23,23,23.0,227.69,138.13
+ID_7db5845a_ID_0c7cd6982b,test,5,262,0.167845,"0,1 à 1 mL",intraparenchymateux,2,20,21,20,20.47,294.22,384.91
+ID_7db5845a_ID_0c7cd6982b,test,6,694,0.444597,"0,1 à 1 mL",intraventriculaire,3,21,23,22,22.13,311.74,166.61
+ID_7f065b1e_ID_4c02f6eaaf,test,1,9340,11.24325,> 5 mL,sous-dural,5,14,23,20,19.12,190.35,210.55
+ID_7f065b1e_ID_4c02f6eaaf,test,2,285,0.343076,"0,1 à 1 mL",sous-dural,5,18,19,19,18.62,173.78,258.44
+ID_7f065b1e_ID_4c02f6eaaf,test,3,189,0.227513,"0,1 à 1 mL",sous-dural,5,13,13,13,13.0,195.52,354.91
+ID_7f065b1e_ID_4c02f6eaaf,test,4,146,0.175751,"0,1 à 1 mL",sous-dural,5,15,15,15,15.0,199.09,323.55
+ID_7f065b1e_ID_4c02f6eaaf,test,5,349,0.420117,"0,1 à 1 mL",sous-dural,5,12,12,12,12.0,225.49,388.21
+ID_7f065b1e_ID_4c02f6eaaf,test,6,156,0.187789,"0,1 à 1 mL",sous-dural,5,15,15,15,15.0,221.99,352.1
+ID_7f065b1e_ID_4c02f6eaaf,test,7,839,1.009966,1 à 5 mL,sous-dural,5,17,19,17,17.45,239.62,348.38
+ID_7f065b1e_ID_4c02f6eaaf,test,8,134,0.161306,"0,1 à 1 mL",sous-dural,5,15,15,15,15.0,249.48,387.18
+ID_80b8d734_ID_f599f2d14b,test,1,71,0.086936,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,132.1,226.8
+ID_80b8d734_ID_f599f2d14b,test,2,97,0.118771,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,161.43,168.73
+ID_80b8d734_ID_f599f2d14b,test,3,16,0.019591,"< 0,1 mL",sous-arachnoïdien,4,27,27,27,27.0,161.62,286.62
+ID_80b8d734_ID_f599f2d14b,test,4,725,0.887724,"0,1 à 1 mL",intraparenchymateux,2,15,15,15,15.0,185.75,204.12
+ID_80b8d734_ID_f599f2d14b,test,5,346,0.423659,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,27,26.45,187.66,136.24
+ID_80b8d734_ID_f599f2d14b,test,6,30,0.036733,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,184.3,127.8
+ID_80b8d734_ID_f599f2d14b,test,7,191,0.233869,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,215.49,90.53
+ID_80b8d734_ID_f599f2d14b,test,8,461,0.56447,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,245.76,93.34
+ID_811a274b_ID_fa1c9402fb,test,1,566,0.674725,"0,1 à 1 mL",intraventriculaire,3,12,13,12,12.46,194.02,210.2
+ID_811a274b_ID_fa1c9402fb,test,2,496,0.591278,"0,1 à 1 mL",intraventriculaire,3,14,14,14,14.0,204.51,153.03
+ID_811a274b_ID_fa1c9402fb,test,3,438,0.522137,"0,1 à 1 mL",intraventriculaire,3,16,17,17,16.58,213.26,182.19
+ID_811a274b_ID_fa1c9402fb,test,4,43798,52.211285,> 5 mL,intraparenchymateux,2,8,20,12,13.29,326.36,209.16
+ID_811a274b_ID_fa1c9402fb,test,5,301,0.35882,"0,1 à 1 mL",intraventriculaire,3,14,15,15,14.54,300.67,132.74
+ID_82cfc6a8_ID_da93401499,test,1,8151,4.949707,1 à 5 mL,épidural,1,28,34,33,31.78,215.06,163.12
+ID_83a07ec6_ID_ef148a90ed,test,1,116,0.149143,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,130.35,189.86
+ID_83a07ec6_ID_ef148a90ed,test,2,1384,1.779426,1 à 5 mL,sous-arachnoïdien,4,7,11,8,8.47,150.96,302.46
+ID_83a07ec6_ID_ef148a90ed,test,3,72,0.092571,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,166.97,180.61
+ID_83a07ec6_ID_ef148a90ed,test,4,205,0.263571,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,22,22.36,169.23,193.04
+ID_83a07ec6_ID_ef148a90ed,test,5,83,0.106714,"0,1 à 1 mL",sous-arachnoïdien,4,6,6,6,6.0,168.29,325.8
+ID_83a07ec6_ID_ef148a90ed,test,6,119,0.153,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,195.59,121.56
+ID_83a07ec6_ID_ef148a90ed,test,7,233,0.299571,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.33,197.27,112.9
+ID_83a07ec6_ID_ef148a90ed,test,8,62,0.079714,"< 0,1 mL",intraventriculaire,3,11,11,11,11.0,187.6,183.74
+ID_83a07ec6_ID_ef148a90ed,test,9,8732,11.226839,> 5 mL,sous-arachnoïdien,4,8,22,15,13.93,208.39,343.61
+ID_83a07ec6_ID_ef148a90ed,test,10,361,0.464142,"0,1 à 1 mL",sous-arachnoïdien,4,20,23,20,21.18,197.29,184.9
+ID_83a07ec6_ID_ef148a90ed,test,11,80,0.102857,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,206.38,258.25
+ID_83a07ec6_ID_ef148a90ed,test,12,42,0.054,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,217.31,188.19
+ID_83a07ec6_ID_ef148a90ed,test,13,84,0.108,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,219.73,334.86
+ID_83a07ec6_ID_ef148a90ed,test,14,88,0.113143,"0,1 à 1 mL",sous-arachnoïdien,4,10,10,10,10.0,221.86,221.22
+ID_83a07ec6_ID_ef148a90ed,test,15,234,0.300857,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,243.07,340.84
+ID_83a07ec6_ID_ef148a90ed,test,16,127,0.163285,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,237.83,288.39
+ID_83a07ec6_ID_ef148a90ed,test,17,1497,1.924711,1 à 5 mL,sous-arachnoïdien,4,20,25,23,22.62,270.74,211.01
+ID_83a07ec6_ID_ef148a90ed,test,18,43168,55.501626,> 5 mL,intraparenchymateux,2,7,23,12,13.87,304.38,273.31
+ID_83a07ec6_ID_ef148a90ed,test,19,283,0.363857,"0,1 à 1 mL",intraventriculaire,3,6,7,6,6.35,251.63,223.24
+ID_83a07ec6_ID_ef148a90ed,test,20,178,0.228857,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,22,22.39,261.52,132.74
+ID_83a07ec6_ID_ef148a90ed,test,21,109,0.140143,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,253.86,271.69
+ID_83a07ec6_ID_ef148a90ed,test,22,229,0.294428,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,261.75,310.42
+ID_83a07ec6_ID_ef148a90ed,test,23,110,0.141428,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,269.59,319.43
+ID_83a07ec6_ID_ef148a90ed,test,24,824,1.059427,1 à 5 mL,sous-arachnoïdien,4,19,22,20,20.16,295.74,282.04
+ID_83a07ec6_ID_ef148a90ed,test,25,214,0.275142,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,23,22.5,287.12,133.36
+ID_83a07ec6_ID_ef148a90ed,test,26,25,0.032143,"< 0,1 mL",sous-arachnoïdien,4,8,8,8,8.0,277.48,305.0
+ID_83a07ec6_ID_ef148a90ed,test,27,92,0.118286,"0,1 à 1 mL",intraparenchymateux,2,17,17,17,17.0,286.2,191.46
+ID_83a07ec6_ID_ef148a90ed,test,28,400,0.514285,"0,1 à 1 mL",sous-arachnoïdien,4,17,19,19,18.19,296.1,320.88
+ID_83a07ec6_ID_ef148a90ed,test,29,40,0.051428,"< 0,1 mL",intraventriculaire,3,13,13,13,13.0,293.62,170.18
+ID_83a07ec6_ID_ef148a90ed,test,30,373,0.479571,"0,1 à 1 mL",sous-arachnoïdien,4,19,21,20,19.9,312.16,255.97
+ID_83a07ec6_ID_ef148a90ed,test,31,277,0.356142,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,17,16.68,311.03,306.25
+ID_83a07ec6_ID_ef148a90ed,test,32,254,0.326571,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,21,21.47,318.53,230.52
+ID_83a07ec6_ID_ef148a90ed,test,33,223,0.286714,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,345.65,221.46
+ID_85f42dd5_ID_a0ef1a9eaf,test,1,1841,2.254207,1 à 5 mL,intraparenchymateux,2,27,30,28,28.37,204.0,300.29
+ID_85f42dd5_ID_a0ef1a9eaf,test,2,90,0.1102,"0,1 à 1 mL",intraventriculaire,3,15,15,15,15.0,261.72,154.94
+ID_85f42dd5_ID_a0ef1a9eaf,test,3,121,0.148158,"0,1 à 1 mL",intraventriculaire,3,13,14,13,13.48,274.14,146.69
+ID_85f42dd5_ID_a0ef1a9eaf,test,4,729,0.892622,"0,1 à 1 mL",sous-arachnoïdien,4,19,22,20,20.14,321.16,161.45
+ID_87e60d98_ID_0c2d2758ae,test,1,7781,18.236719,> 5 mL,épidural,1,9,18,16,14.25,349.15,116.36
+ID_8e8df8c0_ID_857231e0c6,test,1,4144,5.327991,> 5 mL,intraparenchymateux,2,14,17,16,15.75,264.17,297.47
+ID_8e8df8c0_ID_857231e0c6,test,2,4060,5.219991,> 5 mL,sous-arachnoïdien,4,14,19,16,16.56,309.04,369.41
+ID_8e8df8c0_ID_857231e0c6,test,3,359,0.461571,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,321.33,300.58
+ID_8e8df8c0_ID_857231e0c6,test,4,353,0.453856,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,365.08,291.38
+ID_8e8df8c0_ID_857231e0c6,test,5,127,0.163285,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,368.42,317.66
+ID_90b88b8b_ID_8d39c61ccd,test,1,1960,1.776639,1 à 5 mL,épidural,1,5,8,6,6.48,350.76,307.79
+ID_90b88b8b_ID_8d39c61ccd,test,2,574,0.520301,"0,1 à 1 mL",sous-dural,5,12,14,14,13.22,404.48,267.45
+ID_92ef7cc4_ID_b0c4006e93,test,1,8852,11.381125,> 5 mL,sous-dural,5,12,24,18,16.9,129.17,306.51
+ID_92ef7cc4_ID_b0c4006e93,test,2,322,0.413999,"0,1 à 1 mL",sous-dural,5,12,13,12,12.36,136.1,319.86
+ID_92ef7cc4_ID_b0c4006e93,test,3,32,0.041143,"< 0,1 mL",sous-dural,5,15,15,15,15.0,126.69,259.25
+ID_92ef7cc4_ID_b0c4006e93,test,4,2676,3.440566,1 à 5 mL,intraparenchymateux,2,13,14,13,13.36,156.33,224.45
+ID_92ef7cc4_ID_b0c4006e93,test,5,4520,5.811419,> 5 mL,intraparenchymateux,2,10,16,14,13.08,152.73,285.55
+ID_92ef7cc4_ID_b0c4006e93,test,6,87,0.111857,"0,1 à 1 mL",sous-dural,5,15,15,15,15.0,144.49,322.32
+ID_92ef7cc4_ID_b0c4006e93,test,7,44,0.056571,"< 0,1 mL",sous-dural,5,24,24,24,24.0,144.93,287.95
+ID_92ef7cc4_ID_b0c4006e93,test,8,143,0.183857,"0,1 à 1 mL",sous-dural,5,25,25,25,25.0,155.74,290.82
+ID_92ef7cc4_ID_b0c4006e93,test,9,99,0.127286,"0,1 à 1 mL",sous-dural,5,14,15,15,14.63,154.39,344.7
+ID_92ef7cc4_ID_b0c4006e93,test,10,52,0.066857,"< 0,1 mL",sous-dural,5,15,15,15,15.0,162.23,378.88
+ID_92ef7cc4_ID_b0c4006e93,test,11,189,0.243,"0,1 à 1 mL",sous-dural,5,12,14,12,12.57,163.9,351.57
+ID_92ef7cc4_ID_b0c4006e93,test,12,20,0.025714,"< 0,1 mL",sous-dural,5,19,19,19,19.0,176.0,378.0
+ID_92ef7cc4_ID_b0c4006e93,test,13,60,0.077143,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,210.02,345.28
+ID_92ef7cc4_ID_b0c4006e93,test,14,4409,5.668705,> 5 mL,épidural,1,6,8,7,6.91,331.78,324.05
+ID_92ef7cc4_ID_b0c4006e93,test,15,4766,6.127705,> 5 mL,épidural,1,12,18,14,14.31,377.71,258.07
+ID_96cd5341_ID_41b80bd3ec,test,1,20491,31.504854,> 5 mL,sous-arachnoïdien,4,6,21,12,13.49,167.27,216.15
+ID_96cd5341_ID_41b80bd3ec,test,2,448,0.688799,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.59,141.1,246.36
+ID_96cd5341_ID_41b80bd3ec,test,3,98,0.150675,"0,1 à 1 mL",sous-arachnoïdien,4,8,8,8,8.0,137.95,210.02
+ID_96cd5341_ID_41b80bd3ec,test,4,244,0.375149,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.66,158.02,189.49
+ID_96cd5341_ID_41b80bd3ec,test,5,151,0.232162,"0,1 à 1 mL",sous-arachnoïdien,4,12,12,12,12.0,157.52,335.99
+ID_96cd5341_ID_41b80bd3ec,test,6,743,1.14236,1 à 5 mL,sous-arachnoïdien,4,17,18,17,17.43,177.9,201.72
+ID_96cd5341_ID_41b80bd3ec,test,7,100,0.15375,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,177.4,169.02
+ID_96cd5341_ID_41b80bd3ec,test,8,58,0.089175,"< 0,1 mL",intraparenchymateux,2,11,11,11,11.0,176.67,257.14
+ID_96cd5341_ID_41b80bd3ec,test,9,2643,4.063605,1 à 5 mL,sous-dural,5,13,19,15,15.88,216.58,86.51
+ID_96cd5341_ID_41b80bd3ec,test,10,258,0.396674,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,210.16,136.71
+ID_96cd5341_ID_41b80bd3ec,test,11,1670,2.56762,1 à 5 mL,intraventriculaire,3,8,11,9,8.87,235.1,138.56
+ID_96cd5341_ID_41b80bd3ec,test,12,872,1.340698,1 à 5 mL,sous-arachnoïdien,4,19,20,19,19.29,244.71,250.4
+ID_96cd5341_ID_41b80bd3ec,test,13,850,1.306873,1 à 5 mL,sous-arachnoïdien,4,19,22,19,19.78,244.07,203.23
+ID_96cd5341_ID_41b80bd3ec,test,14,157,0.241387,"0,1 à 1 mL",sous-arachnoïdien,4,21,22,22,21.54,246.82,166.95
+ID_96cd5341_ID_41b80bd3ec,test,15,171,0.262912,"0,1 à 1 mL",sous-arachnoïdien,4,10,10,10,10.0,258.27,296.06
+ID_96cd5341_ID_41b80bd3ec,test,16,55,0.084562,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,248.13,168.93
+ID_96cd5341_ID_41b80bd3ec,test,17,65124,100.127965,> 5 mL,sous-dural,5,7,22,14,13.71,357.73,233.54
+ID_96cd5341_ID_41b80bd3ec,test,18,90,0.138375,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,256.91,107.84
+ID_96cd5341_ID_41b80bd3ec,test,19,308,0.473549,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.55,259.3,218.97
+ID_96cd5341_ID_41b80bd3ec,test,20,71,0.109162,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,260.21,145.55
+ID_96cd5341_ID_41b80bd3ec,test,21,60,0.09225,"< 0,1 mL",sous-arachnoïdien,4,14,14,14,14.0,266.3,164.78
+ID_96cd5341_ID_41b80bd3ec,test,22,2857,4.392629,1 à 5 mL,intraparenchymateux,2,10,12,10,10.94,273.92,366.56
+ID_96cd5341_ID_41b80bd3ec,test,23,48,0.0738,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,263.9,194.15
+ID_96cd5341_ID_41b80bd3ec,test,24,1393,2.141734,1 à 5 mL,sous-arachnoïdien,4,16,19,18,17.52,302.38,301.24
+ID_96cd5341_ID_41b80bd3ec,test,25,1185,1.821934,1 à 5 mL,intraventriculaire,3,11,15,11,12.88,319.77,173.47
+ID_96cd5341_ID_41b80bd3ec,test,26,120,0.1845,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,326.21,268.15
+ID_96cd5341_ID_41b80bd3ec,test,27,46,0.070725,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,328.41,217.57
+ID_96cd5341_ID_41b80bd3ec,test,28,334,0.513524,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,8,8.46,360.87,238.47
+ID_981d95a4_ID_ec08553ddc,test,1,76,0.090599,"< 0,1 mL",sous-arachnoïdien,4,25,25,25,25.0,124.66,210.59
+ID_981d95a4_ID_ec08553ddc,test,2,105,0.12517,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,138.49,126.89
+ID_981d95a4_ID_ec08553ddc,test,3,265,0.315904,"0,1 à 1 mL",intraventriculaire,3,13,16,13,14.33,158.14,208.48
+ID_981d95a4_ID_ec08553ddc,test,4,383,0.456571,"0,1 à 1 mL",sous-arachnoïdien,4,9,11,9,9.99,161.53,130.1
+ID_981d95a4_ID_ec08553ddc,test,5,142,0.169277,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,156.18,139.4
+ID_981d95a4_ID_ec08553ddc,test,6,474,0.565051,"0,1 à 1 mL",sous-arachnoïdien,4,12,14,13,12.93,165.17,139.05
+ID_981d95a4_ID_ec08553ddc,test,7,257,0.306368,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,179.48,107.01
+ID_981d95a4_ID_ec08553ddc,test,8,290,0.345707,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.44,180.25,120.56
+ID_981d95a4_ID_ec08553ddc,test,9,61162,72.910713,> 5 mL,intraparenchymateux,2,13,23,19,17.72,254.78,130.38
+ID_981d95a4_ID_ec08553ddc,test,10,147,0.175237,"0,1 à 1 mL",intraparenchymateux,2,12,12,12,12.0,215.69,110.26
+ID_997f19cf_ID_8fc04eb1f5,test,1,568,0.730285,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,20,20.38,158.06,207.87
+ID_997f19cf_ID_8fc04eb1f5,test,2,748,0.961713,"0,1 à 1 mL",intraventriculaire,3,16,19,16,16.58,215.68,170.28
+ID_997f19cf_ID_8fc04eb1f5,test,3,415,0.533571,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,24,23.75,235.44,327.7
+ID_997f19cf_ID_8fc04eb1f5,test,4,297,0.381857,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,250.27,121.39
+ID_997f19cf_ID_8fc04eb1f5,test,5,128,0.164571,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,242.23,114.88
+ID_997f19cf_ID_8fc04eb1f5,test,6,229,0.294428,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,260.17,108.83
+ID_997f19cf_ID_8fc04eb1f5,test,7,1058,1.360284,1 à 5 mL,intraventriculaire,3,15,19,15,16.5,329.54,196.19
+ID_997f19cf_ID_8fc04eb1f5,test,8,320,0.411428,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,15,14.53,347.68,273.41
+ID_9a8ad2df_ID_0ec627c99a,test,1,40052,24.961414,> 5 mL,sous-dural,5,12,32,29,24.18,148.68,219.74
+ID_9a8ad2df_ID_0ec627c99a,test,2,663,0.413198,"0,1 à 1 mL",intraventriculaire,3,20,22,21,20.77,209.82,115.77
+ID_9dce269b_ID_4191982e02,test,1,19498,23.86346,> 5 mL,sous-dural,5,27,39,38,33.54,126.23,313.93
+ID_9dce269b_ID_4191982e02,test,2,750,0.91792,"0,1 à 1 mL",sous-dural,5,24,25,25,24.57,102.63,325.55
+ID_9dce269b_ID_4191982e02,test,3,79,0.096688,"< 0,1 mL",sous-dural,5,22,22,22,22.0,111.92,158.04
+ID_9dce269b_ID_4191982e02,test,4,197,0.241107,"0,1 à 1 mL",sous-dural,5,22,23,23,22.94,121.27,135.94
+ID_9dce269b_ID_4191982e02,test,5,363,0.444273,"0,1 à 1 mL",sous-dural,5,22,22,22,22.0,150.54,116.22
+ID_9dce269b_ID_4191982e02,test,6,1900,2.325396,1 à 5 mL,intraparenchymateux,2,24,30,26,27.02,179.71,300.26
+ID_9dce269b_ID_4191982e02,test,7,2714,3.321645,1 à 5 mL,intraparenchymateux,2,24,31,26,27.13,193.15,414.56
+ID_9dce269b_ID_4191982e02,test,8,445,0.544632,"0,1 à 1 mL",intraparenchymateux,2,28,30,29,29.14,181.25,364.13
+ID_9dce269b_ID_4191982e02,test,9,1182,1.446641,1 à 5 mL,intraparenchymateux,2,24,25,24,24.37,206.09,381.24
+ID_9dce269b_ID_4191982e02,test,10,58,0.070986,"< 0,1 mL",intraventriculaire,3,29,29,29,29.0,196.79,328.5
+ID_9dce269b_ID_4191982e02,test,11,294,0.359824,"0,1 à 1 mL",intraventriculaire,3,27,29,28,28.01,209.07,287.07
+ID_9dce269b_ID_4191982e02,test,12,45,0.055075,"< 0,1 mL",intraventriculaire,3,29,29,29,29.0,204.87,310.2
+ID_9dce269b_ID_4191982e02,test,13,211,0.258241,"0,1 à 1 mL",sous-dural,5,27,27,27,27.0,212.44,433.84
+ID_9dce269b_ID_4191982e02,test,14,2671,3.269017,1 à 5 mL,intraventriculaire,3,24,29,29,26.73,253.86,202.48
+ID_9dce269b_ID_4191982e02,test,15,495,0.605827,"0,1 à 1 mL",intraventriculaire,3,27,29,28,27.79,227.1,297.32
+ID_9dce269b_ID_4191982e02,test,16,11751,14.381963,> 5 mL,sous-dural,5,23,30,27,26.95,320.9,287.01
+ID_9dce269b_ID_4191982e02,test,17,51,0.062419,"< 0,1 mL",intraventriculaire,3,29,29,29,29.0,230.53,286.1
+ID_9dce269b_ID_4191982e02,test,18,51,0.062419,"< 0,1 mL",sous-dural,5,37,37,37,37.0,229.31,370.63
+ID_9dce269b_ID_4191982e02,test,19,113,0.1383,"0,1 à 1 mL",intraventriculaire,3,27,27,27,27.0,235.09,328.03
+ID_9dce269b_ID_4191982e02,test,20,6235,7.630971,> 5 mL,sous-dural,5,32,37,34,34.09,305.74,316.59
+ID_9dce269b_ID_4191982e02,test,21,375,0.45896,"0,1 à 1 mL",sous-dural,5,29,30,29,29.44,345.51,246.64
+ID_9e0eaeeb_ID_be5b5b11eb,test,1,252,0.331459,"0,1 à 1 mL",sous-arachnoïdien,4,20,21,21,20.5,384.62,203.65
+ID_9e0eaeeb_ID_be5b5b11eb,test,2,1337,1.758576,1 à 5 mL,intraparenchymateux,2,11,15,15,13.18,389.05,211.34
+ID_9ed18606_ID_8cfe740d83,test,1,84816,112.493263,> 5 mL,intraparenchymateux,2,7,21,12,12.75,167.03,210.78
+ID_9ed18606_ID_8cfe740d83,test,2,82,0.108758,"0,1 à 1 mL",sous-dural,5,8,8,8,8.0,181.45,346.44
+ID_9ed18606_ID_8cfe740d83,test,3,905,1.200321,1 à 5 mL,intraventriculaire,3,13,14,14,13.94,285.84,135.87
+ID_9ed18606_ID_8cfe740d83,test,4,397,0.52655,"0,1 à 1 mL",sous-dural,5,11,12,11,11.39,341.7,331.15
+ID_a40e10b0_ID_18c55dad14,test,1,4951,6.223668,> 5 mL,sous-arachnoïdien,4,20,26,22,22.23,227.86,143.93
+ID_a40e10b0_ID_18c55dad14,test,2,612,0.769316,"0,1 à 1 mL",sous-arachnoïdien,4,4,5,4,4.49,211.11,245.99
+ID_a40e10b0_ID_18c55dad14,test,3,2140,2.690093,1 à 5 mL,intraventriculaire,3,12,16,13,13.25,230.01,178.95
+ID_a40e10b0_ID_18c55dad14,test,4,1695,2.130704,1 à 5 mL,sous-arachnoïdien,4,16,19,16,17.39,235.13,102.74
+ID_a40e10b0_ID_18c55dad14,test,5,3965,4.984214,1 à 5 mL,sous-arachnoïdien,4,4,11,9,7.97,272.98,293.83
+ID_a40e10b0_ID_18c55dad14,test,6,171,0.214956,"0,1 à 1 mL",sous-arachnoïdien,4,3,4,4,3.71,243.99,255.72
+ID_a40e10b0_ID_18c55dad14,test,7,577,0.725319,"0,1 à 1 mL",sous-arachnoïdien,4,0,2,1,0.98,258.57,276.57
+ID_a40e10b0_ID_18c55dad14,test,8,870,1.093636,1 à 5 mL,sous-arachnoïdien,4,18,19,19,18.6,263.03,92.88
+ID_a40e10b0_ID_18c55dad14,test,9,176,0.221241,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,260.61,92.37
+ID_a40e10b0_ID_18c55dad14,test,10,524,0.658696,"0,1 à 1 mL",intraventriculaire,3,6,7,6,6.15,271.84,222.11
+ID_a40e10b0_ID_18c55dad14,test,11,233,0.292893,"0,1 à 1 mL",intraventriculaire,3,8,9,9,8.51,269.16,232.92
+ID_a40e10b0_ID_18c55dad14,test,12,150,0.188558,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,276.14,264.5
+ID_a40e10b0_ID_18c55dad14,test,13,249,0.313006,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,297.1,119.53
+ID_a40e10b0_ID_18c55dad14,test,14,273,0.343175,"0,1 à 1 mL",sous-dural,5,17,18,17,17.28,315.98,385.65
+ID_a40e10b0_ID_18c55dad14,test,15,1757,2.208642,1 à 5 mL,sous-dural,5,11,16,12,12.69,343.23,381.4
+ID_a40e10b0_ID_18c55dad14,test,16,308,0.387172,"0,1 à 1 mL",sous-arachnoïdien,4,17,17,17,17.0,310.08,93.94
+ID_a40e10b0_ID_18c55dad14,test,17,182,0.228784,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,311.57,87.75
+ID_a40e10b0_ID_18c55dad14,test,18,3808,4.786857,1 à 5 mL,intraventriculaire,3,10,16,12,12.15,323.17,163.9
+ID_a40e10b0_ID_18c55dad14,test,19,241,0.30295,"0,1 à 1 mL",sous-arachnoïdien,4,22,23,23,22.58,336.06,138.12
+ID_a40e10b0_ID_18c55dad14,test,20,1326,1.666852,1 à 5 mL,intraparenchymateux,2,7,9,9,8.33,348.69,230.88
+ID_a40e10b0_ID_18c55dad14,test,21,223,0.280323,"0,1 à 1 mL",intraparenchymateux,2,13,14,14,13.66,348.26,321.31
+ID_a40e10b0_ID_18c55dad14,test,22,272,0.341918,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,366.48,198.13
+ID_a40e10b0_ID_18c55dad14,test,23,117,0.147075,"0,1 à 1 mL",sous-arachnoïdien,4,22,22,22,22.0,358.25,144.33
+ID_a40e10b0_ID_18c55dad14,test,24,981,1.233169,1 à 5 mL,sous-dural,5,12,14,13,12.96,377.77,306.19
+ID_a429fd9a_ID_2eabc43f3d,test,1,91,0.113139,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.32,173.43,159.64
+ID_a72de500_ID_87b2b4fc60,test,1,32,0.039684,"< 0,1 mL",intraventriculaire,3,15,15,15,15.0,322.0,217.5
+ID_a72de500_ID_87b2b4fc60,test,2,266,0.329874,"0,1 à 1 mL",intraventriculaire,3,10,12,11,10.93,344.83,211.32
+ID_a768755c_ID_3541b002ac,test,1,653,0.778436,"0,1 à 1 mL",sous-dural,5,21,22,21,21.22,97.49,214.25
+ID_a768755c_ID_3541b002ac,test,2,8428,10.046949,> 5 mL,sous-dural,5,21,26,26,24.19,144.39,240.05
+ID_a768755c_ID_3541b002ac,test,3,73,0.087023,"< 0,1 mL",sous-dural,5,22,22,22,22.0,108.47,276.03
+ID_a768755c_ID_3541b002ac,test,4,80,0.095367,"< 0,1 mL",sous-dural,5,25,25,25,25.0,140.29,294.52
+ID_a768755c_ID_3541b002ac,test,5,1823,2.173183,1 à 5 mL,intraparenchymateux,2,24,27,26,26.01,284.75,264.33
+ID_a768755c_ID_3541b002ac,test,6,1246,1.485346,1 à 5 mL,intraparenchymateux,2,18,20,19,19.19,316.13,368.46
+ID_ab1ba874_ID_0c1c9bf0ae,test,1,29805,35.530329,> 5 mL,sous-dural,5,17,28,22,22.19,172.7,325.43
+ID_ab1ba874_ID_0c1c9bf0ae,test,2,7625,9.089708,> 5 mL,sous-arachnoïdien,4,21,27,24,24.01,172.89,188.21
+ID_ab1ba874_ID_0c1c9bf0ae,test,3,222,0.264645,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,168.82,268.76
+ID_ab1ba874_ID_0c1c9bf0ae,test,4,325,0.38743,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,209.49,220.53
+ID_ab1ba874_ID_0c1c9bf0ae,test,5,264,0.314713,"0,1 à 1 mL",intraventriculaire,3,13,15,13,13.83,215.55,123.36
+ID_ab1ba874_ID_0c1c9bf0ae,test,6,1883,2.244711,1 à 5 mL,intraparenchymateux,2,16,17,16,16.37,278.19,397.23
+ID_acaa9bd1_ID_02fe96388e,test,1,236,0.306766,"0,1 à 1 mL",intraventriculaire,3,15,17,16,16.12,214.74,137.01
+ID_acaa9bd1_ID_02fe96388e,test,2,51,0.066293,"< 0,1 mL",intraventriculaire,3,15,16,16,15.63,320.0,136.1
+ID_b14c7e8b_ID_fe3a6804e3,test,1,13296,10.85362,> 5 mL,intraparenchymateux,2,9,15,11,11.64,310.46,256.43
+ID_b1d5d5e8_ID_4cfa36b63f,test,1,1511,1.849302,1 à 5 mL,sous-arachnoïdien,4,26,29,28,27.51,236.54,240.15
+ID_b1d5d5e8_ID_4cfa36b63f,test,2,74,0.090568,"< 0,1 mL",sous-arachnoïdien,4,28,28,28,28.0,261.46,224.91
+ID_b1d5d5e8_ID_4cfa36b63f,test,3,45725,55.962493,> 5 mL,intraparenchymateux,2,10,18,14,14.28,328.3,162.56
+ID_b1d5d5e8_ID_4cfa36b63f,test,4,141,0.172569,"0,1 à 1 mL",sous-dural,5,29,29,29,29.0,304.21,187.38
+ID_b1d5d5e8_ID_4cfa36b63f,test,5,51,0.062419,"< 0,1 mL",sous-dural,5,28,28,28,28.0,334.12,250.22
+ID_b1d5d5e8_ID_4cfa36b63f,test,6,130,0.159106,"0,1 à 1 mL",sous-dural,5,27,27,27,27.0,349.79,238.39
+ID_b1d5d5e8_ID_4cfa36b63f,test,7,1769,2.165066,1 à 5 mL,sous-dural,5,20,26,24,23.2,376.36,261.48
+ID_b367130b_ID_debc60a9ba,test,1,1468,1.749991,1 à 5 mL,sous-arachnoïdien,4,11,17,15,13.77,173.05,297.16
+ID_b367130b_ID_debc60a9ba,test,2,44,0.052452,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,177.73,273.36
+ID_b367130b_ID_debc60a9ba,test,3,1125,1.341103,1 à 5 mL,intraventriculaire,3,15,19,15,16.37,197.2,181.75
+ID_b367130b_ID_debc60a9ba,test,4,2508,2.989766,1 à 5 mL,sous-arachnoïdien,4,13,17,16,14.96,253.05,347.93
+ID_b367130b_ID_debc60a9ba,test,5,310,0.369548,"0,1 à 1 mL",intraventriculaire,3,14,15,14,14.25,250.15,230.45
+ID_b367130b_ID_debc60a9ba,test,6,51,0.060797,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,253.22,348.47
+ID_b367130b_ID_debc60a9ba,test,7,47,0.056028,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,263.66,241.19
+ID_b367130b_ID_debc60a9ba,test,8,2524,3.008839,1 à 5 mL,sous-arachnoïdien,4,21,26,24,23.63,297.08,335.44
+ID_b367130b_ID_debc60a9ba,test,9,486,0.579357,"0,1 à 1 mL",sous-arachnoïdien,4,25,26,25,25.41,307.78,220.87
+ID_b367130b_ID_debc60a9ba,test,10,2709,3.229376,1 à 5 mL,intraventriculaire,3,15,17,15,15.69,300.05,139.94
+ID_b367130b_ID_debc60a9ba,test,11,2576,3.070828,1 à 5 mL,sous-arachnoïdien,4,11,16,13,12.93,331.09,286.57
+ID_b367130b_ID_debc60a9ba,test,12,280,0.333786,"0,1 à 1 mL",sous-arachnoïdien,4,25,26,25,25.5,316.43,258.09
+ID_b367130b_ID_debc60a9ba,test,13,415,0.494718,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.23,327.99,311.8
+ID_b80aec97_ID_2aa91505e6,test,1,8102,9.658327,> 5 mL,intraparenchymateux,2,19,23,19,20.79,124.21,354.57
+ID_b80aec97_ID_2aa91505e6,test,2,747,0.890493,"0,1 à 1 mL",sous-arachnoïdien,4,16,18,18,17.26,148.68,206.14
+ID_b80aec97_ID_2aa91505e6,test,3,122,0.145435,"0,1 à 1 mL",sous-arachnoïdien,4,19,19,19,19.0,125.46,176.79
+ID_b80aec97_ID_2aa91505e6,test,4,120,0.143051,"0,1 à 1 mL",sous-arachnoïdien,4,11,11,11,11.0,133.75,178.75
+ID_b80aec97_ID_2aa91505e6,test,5,51,0.060797,"< 0,1 mL",sous-arachnoïdien,4,17,17,17,17.0,136.18,143.49
+ID_b80aec97_ID_2aa91505e6,test,6,90,0.107288,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,141.43,147.07
+ID_b80aec97_ID_2aa91505e6,test,7,96,0.114441,"0,1 à 1 mL",sous-arachnoïdien,4,10,11,10,10.38,144.25,158.25
+ID_b80aec97_ID_2aa91505e6,test,8,227,0.270605,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,19,19.47,150.46,138.1
+ID_b80aec97_ID_2aa91505e6,test,9,76,0.090599,"< 0,1 mL",sous-arachnoïdien,4,18,18,18,18.0,149.39,168.74
+ID_b80aec97_ID_2aa91505e6,test,10,10586,12.619483,> 5 mL,intraparenchymateux,2,13,19,17,16.55,195.88,116.24
+ID_b80aec97_ID_2aa91505e6,test,11,65,0.077486,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,150.37,136.22
+ID_b80aec97_ID_2aa91505e6,test,12,57,0.067949,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,175.26,152.26
+ID_b80aec97_ID_2aa91505e6,test,13,69,0.082254,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,180.52,109.48
+ID_b80aec97_ID_2aa91505e6,test,14,31,0.036955,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,182.19,113.39
+ID_b80aec97_ID_2aa91505e6,test,15,106,0.126362,"0,1 à 1 mL",sous-arachnoïdien,4,10,10,10,10.0,201.75,106.26
+ID_b80aec97_ID_2aa91505e6,test,16,128,0.152588,"0,1 à 1 mL",sous-arachnoïdien,4,5,6,5,5.16,204.17,220.61
+ID_b80aec97_ID_2aa91505e6,test,17,1697,2.02298,1 à 5 mL,intraventriculaire,3,15,17,16,16.21,215.4,257.29
+ID_b80aec97_ID_2aa91505e6,test,18,102,0.121593,"0,1 à 1 mL",sous-arachnoïdien,4,6,6,6,6.0,272.44,249.56
+ID_b80aec97_ID_2aa91505e6,test,19,1796,2.140997,1 à 5 mL,intraventriculaire,3,12,18,14,14.83,304.87,190.31
+ID_b80aec97_ID_2aa91505e6,test,20,82,0.097752,"< 0,1 mL",sous-arachnoïdien,4,8,8,8,8.0,292.51,256.4
+ID_b80aec97_ID_2aa91505e6,test,21,110,0.13113,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,345.62,204.25
+ID_b92014da_ID_a9310805a0,test,1,1478,1.928588,1 à 5 mL,intraparenchymateux,2,15,17,16,16.08,200.24,234.3
+ID_b972b07f_ID_b5ace7f563,test,1,373,0.46377,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,24,23.72,165.26,176.62
+ID_b972b07f_ID_b5ace7f563,test,2,155,0.19272,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,155.91,149.35
+ID_b972b07f_ID_b5ace7f563,test,3,118,0.146716,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,175.26,150.57
+ID_b972b07f_ID_b5ace7f563,test,4,1441,1.79167,1 à 5 mL,intraventriculaire,3,15,16,16,15.68,199.9,152.66
+ID_b972b07f_ID_b5ace7f563,test,5,64,0.079575,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,194.16,207.27
+ID_b972b07f_ID_b5ace7f563,test,6,557,0.692547,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,26,26.12,231.26,167.78
+ID_b972b07f_ID_b5ace7f563,test,7,86,0.106928,"0,1 à 1 mL",sous-arachnoïdien,4,27,27,27,27.0,227.2,206.13
+ID_b972b07f_ID_b5ace7f563,test,8,53331,66.309189,> 5 mL,intraparenchymateux,2,11,21,17,15.75,348.01,355.08
+ID_b972b07f_ID_b5ace7f563,test,9,367,0.45631,"0,1 à 1 mL",intraventriculaire,3,16,18,16,16.77,295.97,198.34
+ID_b972b07f_ID_b5ace7f563,test,10,490,0.609242,"0,1 à 1 mL",sous-arachnoïdien,4,26,28,27,27.04,308.18,202.13
+ID_b972b07f_ID_b5ace7f563,test,11,364,0.45258,"0,1 à 1 mL",sous-arachnoïdien,4,16,17,16,16.33,316.82,149.77
+ID_b972b07f_ID_b5ace7f563,test,12,304,0.377979,"0,1 à 1 mL",sous-arachnoïdien,4,18,19,19,18.62,315.41,160.16
+ID_b972b07f_ID_b5ace7f563,test,13,324,0.402846,"0,1 à 1 mL",intraparenchymateux,2,23,23,23,23.0,324.1,127.61
+ID_b972b07f_ID_b5ace7f563,test,14,175,0.217587,"0,1 à 1 mL",sous-arachnoïdien,4,20,20,20,20.0,324.11,138.26
+ID_b972b07f_ID_b5ace7f563,test,15,139,0.172826,"0,1 à 1 mL",intraparenchymateux,2,23,23,23,23.0,335.04,145.25
+ID_b972b07f_ID_b5ace7f563,test,16,148,0.184016,"0,1 à 1 mL",sous-arachnoïdien,4,18,18,18,18.0,337.28,235.57
+ID_b972b07f_ID_b5ace7f563,test,17,79,0.098225,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,335.32,231.0
+ID_b972b07f_ID_b5ace7f563,test,18,486,0.604269,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,11,11.35,348.17,280.05
+ID_b972b07f_ID_b5ace7f563,test,19,172,0.213856,"0,1 à 1 mL",sous-arachnoïdien,4,13,15,13,13.7,342.6,289.51
+ID_b972b07f_ID_b5ace7f563,test,20,986,1.225945,1 à 5 mL,intraparenchymateux,2,20,23,21,21.41,353.81,201.5
+ID_b972b07f_ID_b5ace7f563,test,21,438,0.544588,"0,1 à 1 mL",intraparenchymateux,2,20,21,21,20.67,355.42,176.33
+ID_b972b07f_ID_b5ace7f563,test,22,78,0.096981,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,351.49,311.71
+ID_b972b07f_ID_b5ace7f563,test,23,233,0.289701,"0,1 à 1 mL",intraparenchymateux,2,21,22,21,21.27,366.89,231.91
+ID_b972b07f_ID_b5ace7f563,test,24,120,0.149202,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,377.53,179.76
+ID_b972b07f_ID_b5ace7f563,test,25,167,0.20764,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,386.19,230.83
+ID_c488fbef_ID_ae4af6dd21,test,1,225,0.221138,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,127.85,219.93
+ID_c488fbef_ID_ae4af6dd21,test,2,93,0.091404,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,122.9,194.23
+ID_c488fbef_ID_ae4af6dd21,test,3,133,0.130717,"0,1 à 1 mL",sous-arachnoïdien,4,23,24,23,23.4,121.23,184.47
+ID_c488fbef_ID_ae4af6dd21,test,4,113,0.111061,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,126.02,202.75
+ID_c488fbef_ID_ae4af6dd21,test,5,583,0.572994,"0,1 à 1 mL",sous-arachnoïdien,4,24,26,24,24.61,148.83,220.9
+ID_c488fbef_ID_ae4af6dd21,test,6,87,0.085507,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,132.62,164.32
+ID_c488fbef_ID_ae4af6dd21,test,7,620,0.609359,"0,1 à 1 mL",sous-arachnoïdien,4,23,25,23,23.72,150.45,254.93
+ID_c488fbef_ID_ae4af6dd21,test,8,220,0.216224,"0,1 à 1 mL",sous-arachnoïdien,4,26,27,26,26.46,152.6,198.76
+ID_c488fbef_ID_ae4af6dd21,test,9,1003,0.985786,"0,1 à 1 mL",sous-arachnoïdien,4,26,28,27,26.9,180.2,229.96
+ID_c488fbef_ID_ae4af6dd21,test,10,158,0.155288,"0,1 à 1 mL",sous-arachnoïdien,4,26,26,26,26.0,173.47,268.38
+ID_c488fbef_ID_ae4af6dd21,test,11,320,0.314508,"0,1 à 1 mL",intraventriculaire,3,17,18,18,17.69,177.29,180.22
+ID_c488fbef_ID_ae4af6dd21,test,12,216,0.212293,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,185.53,198.51
+ID_c488fbef_ID_ae4af6dd21,test,13,208,0.20443,"0,1 à 1 mL",sous-arachnoïdien,4,27,27,27,27.0,207.97,251.82
+ID_c488fbef_ID_ae4af6dd21,test,14,63,0.061919,"< 0,1 mL",intraventriculaire,3,21,21,21,21.0,197.84,195.29
+ID_c488fbef_ID_ae4af6dd21,test,15,105,0.103198,"0,1 à 1 mL",sous-arachnoïdien,4,28,28,28,28.0,225.83,203.72
+ID_c488fbef_ID_ae4af6dd21,test,16,191,0.187722,"0,1 à 1 mL",sous-arachnoïdien,4,28,29,28,28.25,233.26,174.29
+ID_c488fbef_ID_ae4af6dd21,test,17,98,0.096318,"< 0,1 mL",sous-arachnoïdien,4,30,30,30,30.0,231.42,206.54
+ID_c488fbef_ID_ae4af6dd21,test,18,48,0.047176,"< 0,1 mL",sous-arachnoïdien,4,29,29,29,29.0,232.56,241.06
+ID_c488fbef_ID_ae4af6dd21,test,19,550,0.540561,"0,1 à 1 mL",intraventriculaire,3,18,20,20,19.12,247.65,270.38
+ID_c488fbef_ID_ae4af6dd21,test,20,125,0.122855,"0,1 à 1 mL",intraventriculaire,3,16,16,16,16.0,249.08,228.63
+ID_c488fbef_ID_ae4af6dd21,test,21,619,0.608377,"0,1 à 1 mL",sous-arachnoïdien,4,26,27,26,26.27,315.39,208.69
+ID_c488fbef_ID_ae4af6dd21,test,22,291,0.286006,"0,1 à 1 mL",intraventriculaire,3,18,20,19,18.92,293.45,169.22
+ID_c488fbef_ID_ae4af6dd21,test,23,461,0.453088,"0,1 à 1 mL",sous-arachnoïdien,4,25,27,27,26.07,328.83,252.3
+ID_c488fbef_ID_ae4af6dd21,test,24,368,0.361684,"0,1 à 1 mL",intraparenchymateux,2,13,13,13,13.0,324.62,161.7
+ID_c488fbef_ID_ae4af6dd21,test,25,3037,2.984878,1 à 5 mL,intraparenchymateux,2,12,14,14,13.17,378.05,208.72
+ID_c5479170_ID_6cc8f5463a,test,1,9514,11.34156,> 5 mL,intraventriculaire,3,10,19,18,15.95,243.24,242.96
+ID_c5479170_ID_6cc8f5463a,test,2,70,0.083446,"< 0,1 mL",intraventriculaire,3,9,9,9,9.0,221.21,267.44
+ID_c91d516c_ID_2d2f3d2953,test,1,23487,31.151304,> 5 mL,intraparenchymateux,2,4,10,7,7.06,235.72,179.96
+ID_c91d516c_ID_2d2f3d2953,test,2,71,0.094169,"< 0,1 mL",intraventriculaire,3,11,11,11,11.0,256.07,246.66
+ID_c91d516c_ID_2d2f3d2953,test,3,282,0.374023,"0,1 à 1 mL",intraventriculaire,3,9,10,10,9.66,257.41,274.2
+ID_c91d516c_ID_2d2f3d2953,test,4,624,0.827624,"0,1 à 1 mL",intraventriculaire,3,12,15,13,13.67,302.21,162.77
+ID_c9d6fdc6_ID_7f09be285d,test,1,3971,4.862279,1 à 5 mL,intraventriculaire,3,19,24,21,21.08,240.94,174.85
+ID_c9d6fdc6_ID_7f09be285d,test,2,1215,1.487703,1 à 5 mL,intraventriculaire,3,24,25,24,24.47,269.5,249.94
+ID_c9d6fdc6_ID_7f09be285d,test,3,164,0.200809,"0,1 à 1 mL",intraventriculaire,3,22,22,22,22.0,271.63,264.36
+ID_c9d6fdc6_ID_7f09be285d,test,4,65240,79.882923,> 5 mL,intraparenchymateux,2,18,32,24,24.1,323.86,293.01
+ID_c9d6fdc6_ID_7f09be285d,test,5,700,0.857113,"0,1 à 1 mL",intraventriculaire,3,14,17,14,14.66,291.19,188.66
+ID_cdaa21cb_ID_a5f7ae30f1,test,1,1083,1.291035,1 à 5 mL,intraparenchymateux,2,14,17,15,15.27,310.4,247.99
+ID_cdaa21cb_ID_a5f7ae30f1,test,2,1421,1.693962,1 à 5 mL,intraparenchymateux,2,21,27,23,23.75,354.41,275.49
+ID_cf8f428f_ID_61ec5a3e22,test,1,10439,13.519155,> 5 mL,intraparenchymateux,2,11,17,13,13.83,314.65,222.19
+ID_cf8f428f_ID_61ec5a3e22,test,2,551,0.713579,"0,1 à 1 mL",intraventriculaire,3,11,12,12,11.64,310.21,140.95
+ID_d02f2ee1_ID_a732858fcd,test,1,1627,2.107066,1 à 5 mL,intraparenchymateux,2,16,20,18,17.87,227.76,135.17
+ID_d02f2ee1_ID_a732858fcd,test,2,110,0.142457,"0,1 à 1 mL",intraventriculaire,3,14,15,15,14.64,276.17,109.35
+ID_d29d246b_ID_6121b401e7,test,1,21328,26.103183,> 5 mL,sous-arachnoïdien,4,6,17,12,10.67,184.24,201.35
+ID_d29d246b_ID_6121b401e7,test,2,45,0.055075,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,163.91,234.2
+ID_d29d246b_ID_6121b401e7,test,3,1681,2.057364,1 à 5 mL,sous-arachnoïdien,4,15,17,17,16.05,235.14,122.23
+ID_d29d246b_ID_6121b401e7,test,4,2113,2.586085,1 à 5 mL,sous-arachnoïdien,4,17,21,20,19.46,244.64,146.21
+ID_d29d246b_ID_6121b401e7,test,5,38,0.046508,"< 0,1 mL",intraventriculaire,3,10,10,10,10.0,258.05,148.32
+ID_d29d246b_ID_6121b401e7,test,6,555,0.67926,"0,1 à 1 mL",intraventriculaire,3,6,6,6,6.0,272.9,143.7
+ID_d29d246b_ID_6121b401e7,test,7,58702,71.844949,> 5 mL,sous-dural,5,5,24,20,15.34,368.12,231.4
+ID_d29d246b_ID_6121b401e7,test,8,892,1.091712,1 à 5 mL,sous-arachnoïdien,4,10,11,10,10.29,315.96,306.69
+ID_d29d246b_ID_6121b401e7,test,9,1436,1.75751,1 à 5 mL,sous-arachnoïdien,4,12,14,13,12.89,334.36,254.74
+ID_d2deede6_ID_799247e354,test,1,415,0.547507,"0,1 à 1 mL",intraventriculaire,3,14,17,17,15.88,201.61,154.55
+ID_d2deede6_ID_799247e354,test,2,163,0.215045,"0,1 à 1 mL",intraventriculaire,3,15,17,16,15.99,311.52,154.99
+ID_d2deede6_ID_799247e354,test,3,154,0.203171,"0,1 à 1 mL",intraventriculaire,3,13,14,14,13.55,320.22,160.57
+ID_d8e67d7d_ID_c182bd8176,test,1,118,0.140667,"0,1 à 1 mL",intraventriculaire,3,16,18,16,16.58,265.21,135.12
+ID_d9675573_ID_02237f7694,test,1,13340,8.177067,> 5 mL,intraparenchymateux,2,20,26,25,23.44,304.07,242.78
+ID_d9675573_ID_02237f7694,test,2,289,0.177149,"0,1 à 1 mL",intraventriculaire,3,22,23,22,22.44,287.8,216.35
+ID_dd3d7720_ID_6a88b9c0eb,test,1,37,0.046649,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,172.81,323.97
+ID_dd3d7720_ID_6a88b9c0eb,test,2,953,1.201521,1 à 5 mL,sous-arachnoïdien,4,10,11,11,10.5,244.93,320.49
+ID_dd3d7720_ID_6a88b9c0eb,test,3,40,0.050431,"< 0,1 mL",sous-arachnoïdien,4,21,21,21,21.0,249.97,176.85
+ID_dd3d7720_ID_6a88b9c0eb,test,4,22,0.027737,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,268.23,306.77
+ID_df3f0a7d_ID_fbcdf807a8,test,1,4422,5.370532,> 5 mL,sous-arachnoïdien,4,6,16,8,10.92,171.29,278.23
+ID_df3f0a7d_ID_fbcdf807a8,test,2,83,0.100804,"0,1 à 1 mL",sous-dural,5,12,12,12,12.0,139.84,374.24
+ID_df3f0a7d_ID_fbcdf807a8,test,3,129,0.156671,"0,1 à 1 mL",sous-dural,5,18,18,18,18.0,149.82,337.78
+ID_df3f0a7d_ID_fbcdf807a8,test,4,672,0.816146,"0,1 à 1 mL",sous-arachnoïdien,4,8,9,9,8.54,170.77,338.71
+ID_df3f0a7d_ID_fbcdf807a8,test,5,6349,7.71088,> 5 mL,intraparenchymateux,2,8,11,9,9.47,172.82,366.25
+ID_df3f0a7d_ID_fbcdf807a8,test,6,22904,27.816978,> 5 mL,sous-dural,5,7,24,16,15.23,238.15,367.16
+ID_df3f0a7d_ID_fbcdf807a8,test,7,93,0.112949,"0,1 à 1 mL",sous-dural,5,12,12,12,12.0,174.01,403.62
+ID_df3f0a7d_ID_fbcdf807a8,test,8,80,0.09716,"< 0,1 mL",sous-arachnoïdien,4,12,13,12,12.43,168.07,297.69
+ID_df3f0a7d_ID_fbcdf807a8,test,9,37,0.044937,"< 0,1 mL",sous-arachnoïdien,4,11,11,11,11.0,173.27,393.7
+ID_df3f0a7d_ID_fbcdf807a8,test,10,14,0.017003,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,199.5,152.5
+ID_df3f0a7d_ID_fbcdf807a8,test,11,13,0.015789,"< 0,1 mL",sous-dural,5,12,12,12,12.0,212.31,415.62
+ID_df3f0a7d_ID_fbcdf807a8,test,12,1120,1.360243,1 à 5 mL,sous-dural,5,14,17,15,15.43,236.54,119.09
+ID_df3f0a7d_ID_fbcdf807a8,test,13,390,0.473656,"0,1 à 1 mL",sous-arachnoïdien,4,7,7,7,7.0,238.24,293.4
+ID_df3f0a7d_ID_fbcdf807a8,test,14,113,0.137239,"0,1 à 1 mL",sous-arachnoïdien,4,15,15,15,15.0,245.22,200.15
+ID_df3f0a7d_ID_fbcdf807a8,test,15,12161,14.769572,> 5 mL,intraparenchymateux,2,6,13,10,9.88,297.04,366.34
+ID_df3f0a7d_ID_fbcdf807a8,test,16,327,0.397142,"0,1 à 1 mL",sous-arachnoïdien,4,6,7,6,6.37,271.36,230.52
+ID_df3f0a7d_ID_fbcdf807a8,test,17,238,0.289052,"0,1 à 1 mL",sous-arachnoïdien,4,7,8,8,7.68,287.5,295.89
+ID_df3f0a7d_ID_fbcdf807a8,test,18,364,0.442079,"0,1 à 1 mL",sous-arachnoïdien,4,6,7,6,6.15,302.1,201.65
+ID_df3f0a7d_ID_fbcdf807a8,test,19,302,0.36678,"0,1 à 1 mL",sous-arachnoïdien,4,14,15,14,14.16,322.59,222.62
+ID_df3f0a7d_ID_fbcdf807a8,test,20,133,0.161529,"0,1 à 1 mL",sous-arachnoïdien,4,9,10,9,9.35,315.55,305.48
+ID_df3f0a7d_ID_fbcdf807a8,test,21,177,0.214967,"0,1 à 1 mL",sous-arachnoïdien,4,15,16,15,15.36,337.77,324.41
+ID_df3f0a7d_ID_fbcdf807a8,test,22,42,0.051009,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,329.5,215.0
+ID_df935041_ID_32b8592d2c,test,1,5224,3.479918,1 à 5 mL,sous-dural,5,13,26,21,20.3,345.04,367.63
+ID_e566ef9b_ID_439ce9720b,test,1,11117,14.50565,> 5 mL,sous-dural,5,12,26,24,21.69,260.4,194.27
+ID_e566ef9b_ID_439ce9720b,test,2,151,0.197027,"0,1 à 1 mL",sous-dural,5,21,21,21,21.0,251.48,320.23
+ID_e566ef9b_ID_439ce9720b,test,3,14,0.018267,"< 0,1 mL",sous-dural,5,11,11,11,11.0,307.0,190.5
+ID_ea687366_ID_452c5f1f8c,test,1,37454,45.839677,> 5 mL,sous-dural,5,18,33,28,27.84,171.15,169.5
+ID_ea687366_ID_452c5f1f8c,test,2,214,0.261913,"0,1 à 1 mL",sous-dural,5,19,20,19,19.42,121.48,275.27
+ID_ea687366_ID_452c5f1f8c,test,3,85,0.104031,"0,1 à 1 mL",sous-arachnoïdien,4,21,21,21,21.0,151.04,187.82
+ID_ea687366_ID_452c5f1f8c,test,4,57,0.069762,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,148.42,303.84
+ID_ea687366_ID_452c5f1f8c,test,5,81,0.099135,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,153.19,187.81
+ID_ea687366_ID_452c5f1f8c,test,6,359,0.439377,"0,1 à 1 mL",sous-arachnoïdien,4,23,23,23,23.0,175.77,198.04
+ID_ea687366_ID_452c5f1f8c,test,7,89,0.108926,"0,1 à 1 mL",sous-arachnoïdien,4,25,25,25,25.0,207.64,157.28
+ID_ea687366_ID_452c5f1f8c,test,8,44,0.053851,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,234.55,390.45
+ID_ea687366_ID_452c5f1f8c,test,9,58,0.070986,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,275.34,393.6
+ID_ea687366_ID_452c5f1f8c,test,10,240,0.293734,"0,1 à 1 mL",intraventriculaire,3,19,21,20,19.93,299.71,134.66
+ID_ea687366_ID_452c5f1f8c,test,11,3770,4.614075,1 à 5 mL,sous-arachnoïdien,4,19,23,21,21.41,356.61,179.75
+ID_ea687366_ID_452c5f1f8c,test,12,75,0.091792,"< 0,1 mL",sous-arachnoïdien,4,23,23,23,23.0,344.24,139.4
+ID_ea687366_ID_452c5f1f8c,test,13,42,0.051403,"< 0,1 mL",sous-arachnoïdien,4,19,19,19,19.0,346.43,297.07
+ID_ea687366_ID_452c5f1f8c,test,14,208,0.25457,"0,1 à 1 mL",sous-arachnoïdien,4,19,20,20,19.78,357.62,285.45
+ID_ea687366_ID_452c5f1f8c,test,15,31,0.037941,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,354.77,310.65
+ID_ea687366_ID_452c5f1f8c,test,16,61,0.074657,"< 0,1 mL",sous-arachnoïdien,4,26,26,26,26.0,360.66,285.69
+ID_ea687366_ID_452c5f1f8c,test,17,21,0.025702,"< 0,1 mL",sous-arachnoïdien,4,27,27,27,27.0,368.86,250.57
+ID_ea687366_ID_452c5f1f8c,test,18,23,0.02815,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,378.35,168.22
+ID_eac5718d_ID_5a2b7690df,test,1,3083,3.675222,1 à 5 mL,intraventriculaire,3,17,18,17,17.47,231.5,205.12
+ID_eac5718d_ID_5a2b7690df,test,2,336,0.400543,"0,1 à 1 mL",sous-arachnoïdien,4,12,13,13,12.77,257.21,249.15
+ID_eac5718d_ID_5a2b7690df,test,3,20558,24.507046,> 5 mL,intraventriculaire,3,18,26,22,21.95,291.66,248.82
+ID_eac5718d_ID_5a2b7690df,test,4,66,0.078678,"< 0,1 mL",intraventriculaire,3,16,16,16,16.0,258.94,140.38
+ID_eac5718d_ID_5a2b7690df,test,5,791,0.942945,"0,1 à 1 mL",sous-arachnoïdien,4,7,13,13,10.82,286.0,271.14
+ID_eac5718d_ID_5a2b7690df,test,6,2994,3.569126,1 à 5 mL,intraventriculaire,3,10,16,12,12.94,291.1,227.02
+ID_eac5718d_ID_5a2b7690df,test,7,163,0.194311,"0,1 à 1 mL",sous-arachnoïdien,4,14,14,14,14.0,317.12,264.08
+ID_eac5718d_ID_5a2b7690df,test,8,217,0.258684,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,12,11.65,312.35,252.77
+ID_eac5718d_ID_5a2b7690df,test,9,2238,2.667904,1 à 5 mL,intraventriculaire,3,17,18,17,17.37,352.55,220.69
+ID_eac5718d_ID_5a2b7690df,test,10,133,0.158548,"0,1 à 1 mL",intraventriculaire,3,16,16,16,16.0,349.11,172.93
+ID_eb093f57_ID_0e2b33b4c9,test,1,91133,111.537012,> 5 mL,intraparenchymateux,2,13,24,21,18.72,235.06,241.73
+ID_eb093f57_ID_0e2b33b4c9,test,2,12195,14.925371,> 5 mL,intraparenchymateux,2,4,12,7,8.25,244.49,181.81
+ID_eb093f57_ID_0e2b33b4c9,test,3,973,1.190848,1 à 5 mL,sous-arachnoïdien,4,17,20,19,18.73,333.15,276.59
+ID_f1a342da_ID_13d6f969d2,test,1,26,0.028327,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,142.77,294.58
+ID_f1a342da_ID_13d6f969d2,test,2,82,0.089339,"< 0,1 mL",sous-arachnoïdien,4,10,11,11,10.76,168.87,294.29
+ID_f1a342da_ID_13d6f969d2,test,3,21,0.022879,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,172.38,265.24
+ID_f1a342da_ID_13d6f969d2,test,4,11,0.011984,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,189.45,374.73
+ID_f1a342da_ID_13d6f969d2,test,5,21,0.022879,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,213.14,107.95
+ID_f1a342da_ID_13d6f969d2,test,6,20,0.02179,"< 0,1 mL",sous-arachnoïdien,4,10,10,10,10.0,227.65,395.95
+ID_f1a342da_ID_13d6f969d2,test,7,50,0.054475,"< 0,1 mL",sous-arachnoïdien,4,12,12,12,12.0,238.3,403.86
+ID_f1a342da_ID_13d6f969d2,test,8,32,0.034864,"< 0,1 mL",sous-arachnoïdien,4,14,15,14,14.31,273.22,346.03
+ID_f1a342da_ID_13d6f969d2,test,9,35,0.038132,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,268.97,347.51
+ID_f1a342da_ID_13d6f969d2,test,10,10,0.010895,"< 0,1 mL",sous-arachnoïdien,4,15,15,15,15.0,275.0,333.7
+ID_f1a342da_ID_13d6f969d2,test,11,18,0.019611,"< 0,1 mL",sous-arachnoïdien,4,13,13,13,13.0,284.83,344.89
+ID_f1a342da_ID_13d6f969d2,test,12,121,0.131829,"0,1 à 1 mL",sous-arachnoïdien,4,11,12,11,11.23,308.26,397.15
+ID_f1a342da_ID_13d6f969d2,test,13,21,0.022879,"< 0,1 mL",sous-arachnoïdien,4,15,16,16,15.57,321.9,215.81
+ID_f1a342da_ID_13d6f969d2,test,14,195,0.212452,"0,1 à 1 mL",sous-arachnoïdien,4,10,14,10,11.65,365.58,362.44
+ID_f1a342da_ID_13d6f969d2,test,15,107,0.116576,"0,1 à 1 mL",sous-arachnoïdien,4,16,16,16,16.0,367.81,188.75
+ID_f1a342da_ID_13d6f969d2,test,16,59,0.06428,"< 0,1 mL",sous-arachnoïdien,4,16,16,16,16.0,376.31,240.14
+ID_f335b6db_ID_d180629430,test,1,77903,50.074152,> 5 mL,sous-dural,5,3,31,10,16.89,337.0,293.93
+ID_faa3c13d_ID_c31106b8dc,test,1,116,0.094804,"< 0,1 mL",sous-arachnoïdien,4,24,24,24,24.0,261.31,234.89
+ID_faa3c13d_ID_c31106b8dc,test,2,203,0.165908,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,277.83,241.63
+ID_faa3c13d_ID_c31106b8dc,test,3,64237,52.499604,> 5 mL,intraparenchymateux,2,9,18,14,14.33,343.42,207.27
+ID_faa3c13d_ID_c31106b8dc,test,4,174,0.142207,"0,1 à 1 mL",sous-arachnoïdien,4,24,24,24,24.0,296.98,225.75

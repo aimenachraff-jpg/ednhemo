@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a reproducible problem with ednhemo
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. **Never attach real patient data.** Use a
+        synthetic volume or a public BHSD scan.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: The command or code you ran, and the full traceback.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: ednhemo version
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Windows 11, Python 3.10, torch 2.3 CPU"
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: Input description
+      description: File type, shape, spacing, and how it was produced. No patient data.

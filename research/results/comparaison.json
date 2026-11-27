@@ -1,0 +1,13 @@
+{
+  "equipe": "36",
+  "dice_socle": 0.5098,
+  "dice_variante": 0.5399,
+  "dice_diff": 0.030100000000000016,
+  "fa_socle": 3.4271,
+  "fa_variante": 3.7812,
+  "fa_diff": 0.3541000000000003,
+  "ratees_socle": 502,
+  "ratees_variante": 483,
+  "recuperees": 58,
+  "perdues": 39
+}

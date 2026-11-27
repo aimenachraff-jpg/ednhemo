@@ -1,0 +1,13 @@
+equipe,config,critere,groupe,nb_lesions,nb_detectees,nb_scanners,sens_lesions,sens_par_scanner,valeur
+36,socle,toutes,toutes,864.0,362.0,96.0,0.419,0.5441,
+36,socle,taille,"< 0,1 mL",244.0,39.0,46.0,0.1598,0.1745,
+36,socle,taille,"0,1 à 1 mL",417.0,139.0,73.0,0.3333,0.4068,
+36,socle,taille,1 à 5 mL,118.0,102.0,61.0,0.8644,0.8396,
+36,socle,taille,> 5 mL,85.0,82.0,61.0,0.9647,0.9617,
+36,socle,sous_type,épidural,12.0,9.0,10.0,0.75,0.75,
+36,socle,sous_type,intraparenchymateux,115.0,93.0,58.0,0.8087,0.8718,
+36,socle,sous_type,intraventriculaire,134.0,88.0,52.0,0.6567,0.6179,
+36,socle,sous_type,sous-arachnoïdien,506.0,138.0,48.0,0.2727,0.331,
+36,socle,sous_type,sous-dural,97.0,34.0,32.0,0.3505,0.4786,
+36,socle,fausses_alarmes_par_scanner,moyenne,,,,,,3.4271
+36,socle,dice_moyen,moyenne,,,,,,0.5098
