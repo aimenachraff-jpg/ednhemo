@@ -6,6 +6,13 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-27
+
+### Fixed
+
+- Absolute links in the README so the PyPI project page resolves the license,
+  citation and research links instead of pointing inside the PyPI domain.
+
 ## [0.1.0] - 2026-11-27
 
 ### Added

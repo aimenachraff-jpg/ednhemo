@@ -8,7 +8,7 @@
   <a href="https://pypi.org/project/ednhemo/"><img alt="PyPI" src="https://img.shields.io/pypi/v/ednhemo?style=flat-square&color=0b7285"></a>
   <a href="https://pypi.org/project/ednhemo/"><img alt="Python" src="https://img.shields.io/pypi/pyversions/ednhemo?style=flat-square"></a>
   <a href="https://github.com/aimenachraff-jpg/ednhemo/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/aimenachraff-jpg/ednhemo/ci.yml?branch=main&style=flat-square&label=CI"></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/aimenachraff-jpg/ednhemo?style=flat-square&color=3fb950"></a>
+  <a href="https://github.com/aimenachraff-jpg/ednhemo/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/aimenachraff-jpg/ednhemo?style=flat-square&color=3fb950"></a>
   <img alt="Model" src="https://img.shields.io/badge/U--Net-7.77M%20params-6f42c1?style=flat-square">
   <img alt="Weights" src="https://img.shields.io/badge/weights-bundled%20(60%20MB)-success?style=flat-square">
 </p>
@@ -66,7 +66,7 @@ ednhemo scan.nii.gz
 ```
 
 ```text
-ednhemo 0.1.0
+ednhemo 0.1.1
 Input      : scan.nii.gz
 Model      : variante - Lot G model (small-lesion oversampling)
              Dice 0.540 | sensitivity 44.1% | false alarms/scan 3.78
@@ -225,9 +225,9 @@ For a 2D PNG/JPEG, the image is assumed to be **already windowed** to `[-40, 120
 Everything is reproducible end to end:
 
 - **Seed 36**, official split 80/16/96, best validation Dice checkpoint.
-- **Training notebooks 01–07** and `utils.py` are in [`research/notebooks`](research/notebooks).
-- **Official results** (per-lesion, per-scan, per-class CSVs) are in [`research/results`](research/results).
-- **Reports** (one-page and final) are in [`research/reports`](research/reports).
+- **Training notebooks 01–07** and `utils.py` are in [`research/notebooks`](https://github.com/aimenachraff-jpg/ednhemo/tree/main/research/notebooks).
+- **Official results** (per-lesion, per-scan, per-class CSVs) are in [`research/results`](https://github.com/aimenachraff-jpg/ednhemo/tree/main/research/results).
+- **Reports** (one-page and final) are in [`research/reports`](https://github.com/aimenachraff-jpg/ednhemo/tree/main/research/reports).
 - **Kaggle**: kernels `aymencharafedn/01…07` and datasets `bhsd-label-192`, `m2-modeles-equipe-36`, `m2-predictions-{socle,variante}-equipe-36`.
 
 The imposed evaluation script was never modified — its SHA-256 is checked in the final report.
@@ -246,11 +246,11 @@ If you use this code or these weights, please cite the project:
 }
 ```
 
-See [`CITATION.cff`](CITATION.cff) for the machine-readable version.
+See [`CITATION.cff`](https://github.com/aimenachraff-jpg/ednhemo/blob/main/CITATION.cff) for the machine-readable version.
 
 ## License
 
-[MIT](LICENSE) © 2026 Chekalil Aimene Charef Eddine and Ouadah Mustapha.
+[MIT](https://github.com/aimenachraff-jpg/ednhemo/blob/main/LICENSE) © 2026 Chekalil Aimene Charef Eddine and Ouadah Mustapha.
 
 The BHSD dataset is **not** redistributed here; see the [BHSD paper](https://arxiv.org/abs/2202.10906) for its terms. The model weights are released for research use.
 
